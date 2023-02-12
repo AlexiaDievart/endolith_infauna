@@ -1,0 +1,887 @@
+site;bioregion;infestation;lineage;quadrat;higher_group;species;abundance;biomass;pic;notes
+Brenton-on-Sea;SOUTH;infested;WEST;1;Polyplacophora;Acanthochitona garnoti;6;280,4;N;
+Brenton-on-Sea;SOUTH;infested;WEST;2;Polyplacophora;Acanthochitona garnoti;17;701,9;N;
+Brenton-on-Sea;SOUTH;infested;WEST;4;Polyplacophora;Acanthochitona garnoti;1;8,2;N;
+Brenton-on-Sea;SOUTH;non infested;WEST;1;Polyplacophora;Acanthochitona garnoti;5;143,7;N;
+Brenton-on-Sea;SOUTH;non infested;WEST;2;Polyplacophora;Acanthochitona garnoti;16;858,6;N;
+Jeffreysbaai;SOUTH;infested;WEST;1;Polyplacophora;Acanthochitona garnoti;8;452,1;N;
+Jeffreysbaai;SOUTH;infested;WEST;2;Polyplacophora;Acanthochitona garnoti;3;40,2;N;
+Jeffreysbaai;SOUTH;infested;WEST;3;Polyplacophora;Acanthochitona garnoti;6;338,1;N;
+Jeffreysbaai;SOUTH;non infested;WEST;1;Polyplacophora;Acanthochitona garnoti;5;424,8;N;
+Jeffreysbaai;SOUTH;non infested;WEST;3;Polyplacophora;Acanthochitona garnoti;9;516,1;N;
+Mosselbaai;SOUTH;infested;WEST;2;Polyplacophora;Acanthochitona garnoti;1;26,3;N;
+Mosselbaai;SOUTH;infested;WEST;3;Polyplacophora;Acanthochitona garnoti;1;421,7;N;
+Mosselbaai;SOUTH;infested;WEST;4;Polyplacophora;Acanthochitona garnoti;1;34,3;N;
+Mosselbaai;SOUTH;non infested;WEST;4;Polyplacophora;Acanthochitona garnoti;1;15,7;N;
+Old Woman's River;SOUTH;infested;EAST;1;Polyplacophora;Acanthochitona garnoti;1;206,7;N;
+Old Woman's River;SOUTH;infested;EAST;2;Polyplacophora;Acanthochitona garnoti;1;2,6;N;
+Old Woman's River;SOUTH;infested;EAST;4;Polyplacophora;Acanthochitona garnoti;1;109,4;N;
+Old Woman's River;SOUTH;infested;WEST;1;Polyplacophora;Acanthochitona garnoti;3;1366,3;N;
+Old Woman's River;SOUTH;infested;WEST;4;Polyplacophora;Acanthochitona garnoti;1;21;N;
+Old Woman's River;SOUTH;non infested;EAST;1;Polyplacophora;Acanthochitona garnoti;1;382,8;N;
+Old Woman's River;SOUTH;non infested;EAST;2;Polyplacophora;Acanthochitona garnoti;1;200,7;N;
+Old Woman's River;SOUTH;non infested;EAST;3;Polyplacophora;Acanthochitona garnoti;1;34,7;N;
+Old Woman's River;SOUTH;non infested;EAST;4;Polyplacophora;Acanthochitona garnoti;2;48;N;
+Old Woman's River;SOUTH;non infested;WEST;4;Polyplacophora;Acanthochitona garnoti;2;123,2;N;
+Brenton-on-Sea;SOUTH;infested;WEST;1;Actiniaria;Actiniaria;51;465,9;N;
+Brenton-on-Sea;SOUTH;infested;WEST;2;Actiniaria;Actiniaria;20;380,3;N;
+Brenton-on-Sea;SOUTH;infested;WEST;4;Actiniaria;Actiniaria;20;274,3;N;
+Brenton-on-Sea;SOUTH;non infested;WEST;1;Actiniaria;Actiniaria;68;259,4;N;
+Brenton-on-Sea;SOUTH;non infested;WEST;2;Actiniaria;Actiniaria;33;214,5;N;
+Brenton-on-Sea;SOUTH;non infested;WEST;3;Actiniaria;Actiniaria;36;706,1;N;
+Brenton-on-Sea;SOUTH;non infested;WEST;4;Actiniaria;Actiniaria;50;1738,3;N;
+Jeffreysbaai;SOUTH;infested;WEST;2;Actiniaria;Actiniaria;2;3,8;N;
+Jeffreysbaai;SOUTH;infested;WEST;3;Actiniaria;Actiniaria;2;0,8;N;
+Jeffreysbaai;SOUTH;non infested;WEST;3;Actiniaria;Actiniaria;10;43,8;N;
+Mosselbaai;SOUTH;non infested;WEST;4;Actiniaria;Actiniaria;2;105,2;N;
+Old Woman's River;SOUTH;infested;EAST;2;Actiniaria;Actiniaria;1;14;N;
+Old Woman's River;SOUTH;infested;WEST;2;Actiniaria;Actiniaria;6;84;N;
+Old Woman's River;SOUTH;non infested;EAST;2;Actiniaria;Actiniaria;2;4,6;N;
+Old Woman's River;SOUTH;non infested;EAST;3;Actiniaria;Actiniaria;3;0,9;N;
+Old Woman's River;SOUTH;non infested;EAST;4;Actiniaria;Actiniaria;1;29,4;N;
+Old Woman's River;SOUTH;non infested;WEST;1;Actiniaria;Actiniaria;1;14;N;
+Old Woman's River;SOUTH;non infested;WEST;2;Actiniaria;Actiniaria;1;14;N;ID - to check
+Port Edward;EAST;infested;EAST;2;Actiniaria;Actiniaria;5;60,4;N;
+Port Edward;EAST;non infested;EAST;1;Actiniaria;Actiniaria;1;12,1;N;
+Port Edward;EAST;non infested;EAST;3;Actiniaria;Actiniaria;1;0;N;
+Port Edward;EAST;infested;EAST;2;Caenogastropoda;Affrolittorina africana;1;1,1;N;
+Jeffreysbaai;SOUTH;infested;WEST;3;Caenogastropoda;Afrolittorina knysnaensis;1;0;N;small
+Jeffreysbaai;SOUTH;non infested;WEST;2;Ophiuroidea;Amphipholis squamata;1;7,4;N;
+Jeffreysbaai;SOUTH;non infested;WEST;3;Ophiuroidea;Amphipholis squamata;2;5;N;
+Mosselbaai;SOUTH;infested;WEST;4;Ophiuroidea;Amphipholis squamata;1;0,4;N;
+Mosselbaai;SOUTH;non infested;WEST;4;Ophiuroidea;Amphipholis squamata;1;2;N;
+Old Woman's River;SOUTH;infested;EAST;2;Ophiuroidea;Amphipholis squamata;13;72,3;N;
+Old Woman's River;SOUTH;infested;WEST;2;Ophiuroidea;Amphipholis squamata;13;33,5;N;
+Old Woman's River;SOUTH;non infested;EAST;2;Ophiuroidea;Amphipholis squamata;20;93,1;N;
+Old Woman's River;SOUTH;non infested;EAST;3;Ophiuroidea;Amphipholis squamata;1;3,6;N;
+Old Woman's River;SOUTH;non infested;EAST;4;Ophiuroidea;Amphipholis squamata;2;0,9;N;
+Old Woman's River;SOUTH;non infested;WEST;1;Ophiuroidea;Amphipholis squamata;1;1,6;N;
+Old Woman's River;SOUTH;non infested;WEST;2;Ophiuroidea;Amphipholis squamata;12;75,3;N;
+Old Woman's River;SOUTH;non infested;WEST;3;Ophiuroidea;Amphipholis squamata;5;29,8;N;
+Old Woman's River;SOUTH;non infested;WEST;4;Ophiuroidea;Amphipholis squamata;1;2,4;N;
+Old Woman's River;SOUTH;infested;WEST;2;Amphipoda;Amphipoda;2;0,7;N;ID - to check
+Old Woman's River;SOUTH;non infested;WEST;1;Amphipoda;Amphipoda;1;0,35;N;
+Old Woman's River;SOUTH;non infested;WEST;2;Amphipoda;Amphipoda;3;1,05;N;ID - to check
+Old Woman's River;SOUTH;non infested;WEST;3;Amphipoda;Amphipoda;3;1,05;N;ID - to check
+Port Edward;EAST;infested;EAST;1;Amphipoda;Amphipoda;1;0,2;N;
+Port Edward;EAST;infested;EAST;2;Amphipoda;Amphipoda;1;0,5;N;
+Port Edward;EAST;non infested;EAST;1;Caenogastropoda;Anachis kraussii kraussii;1;0;Y;
+Port Edward;EAST;non infested;EAST;3;Caenogastropoda;Anachis kraussii kraussii;1;0;N;
+Old Woman's River;SOUTH;infested;WEST;2;Errantia;Arabella iricolor;2;4,9;N;
+Old Woman's River;SOUTH;non infested;EAST;2;Errantia;Arabella iricolor;4;6,6;N;
+Old Woman's River;SOUTH;non infested;WEST;2;Errantia;Arabella iricolor;3;26,2;N;
+Old Woman's River;SOUTH;non infested;WEST;3;Errantia;Arabella iricolor;1;1;N;
+Brenton-on-Sea;SOUTH;non infested;WEST;2;Bivalvia;Bivalvia;105;NA;N;
+Port Edward;EAST;infested;EAST;1;Bivalvia;Brachidontes variabilis;1;0,3;Y;
+Port Edward;EAST;non infested;EAST;1;Bivalvia;Brachidontes variabilis;2;0,6;N;
+Brenton-on-Sea;SOUTH;infested;WEST;2;Caenogastropoda;Burnupena cincta;4;132,4;N;
+Brenton-on-Sea;SOUTH;infested;WEST;1;Caenogastropoda;Burnupena lagenaria;33;377;N;
+Brenton-on-Sea;SOUTH;infested;WEST;2;Caenogastropoda;Burnupena lagenaria;35;345,5;N;
+Brenton-on-Sea;SOUTH;infested;WEST;4;Caenogastropoda;Burnupena lagenaria;9;78,4;N;
+Brenton-on-Sea;SOUTH;non infested;WEST;1;Caenogastropoda;Burnupena lagenaria;14;137;N;
+Brenton-on-Sea;SOUTH;non infested;WEST;2;Caenogastropoda;Burnupena lagenaria;18;173,7;N;
+Brenton-on-Sea;SOUTH;non infested;WEST;3;Caenogastropoda;Burnupena lagenaria;11;247,2;N;
+Brenton-on-Sea;SOUTH;non infested;WEST;4;Caenogastropoda;Burnupena lagenaria;20;1106;N;
+Jeffreysbaai;SOUTH;infested;WEST;1;Caenogastropoda;Burnupena lagenaria;1;82;N;
+Jeffreysbaai;SOUTH;infested;WEST;2;Caenogastropoda;Burnupena lagenaria;7;21,2;N;
+Jeffreysbaai;SOUTH;infested;WEST;3;Caenogastropoda;Burnupena lagenaria;3;4,4;N;
+Jeffreysbaai;SOUTH;non infested;WEST;1;Caenogastropoda;Burnupena lagenaria;1;40;N;
+Jeffreysbaai;SOUTH;non infested;WEST;2;Caenogastropoda;Burnupena lagenaria;1;2;N;
+Jeffreysbaai;SOUTH;non infested;WEST;3;Caenogastropoda;Burnupena lagenaria;12;194;N;
+Old Woman's River;SOUTH;infested;EAST;1;Caenogastropoda;Burnupena lagenaria;1;28,8;N;
+Old Woman's River;SOUTH;infested;EAST;2;Caenogastropoda;Burnupena lagenaria;21;1290,1;N;
+Old Woman's River;SOUTH;infested;EAST;4;Caenogastropoda;Burnupena lagenaria;2;172,5;N;
+Old Woman's River;SOUTH;infested;WEST;1;Caenogastropoda;Burnupena lagenaria;7;242,1;N;
+Old Woman's River;SOUTH;infested;WEST;2;Caenogastropoda;Burnupena lagenaria;12;440;N;
+Old Woman's River;SOUTH;infested;WEST;4;Caenogastropoda;Burnupena lagenaria;1;28,02;N;
+Old Woman's River;SOUTH;non infested;EAST;1;Caenogastropoda;Burnupena lagenaria;5;160,9;N;
+Old Woman's River;SOUTH;non infested;EAST;2;Caenogastropoda;Burnupena lagenaria;7;160,6;N;
+Old Woman's River;SOUTH;non infested;EAST;3;Caenogastropoda;Burnupena lagenaria;1;20,9;N;
+Old Woman's River;SOUTH;non infested;EAST;4;Caenogastropoda;Burnupena lagenaria;1;28,02;N;
+Old Woman's River;SOUTH;non infested;WEST;1;Caenogastropoda;Burnupena lagenaria;2;18,2;N;
+Old Woman's River;SOUTH;non infested;WEST;2;Caenogastropoda;Burnupena lagenaria;23;1464,6;N;
+Old Woman's River;SOUTH;non infested;WEST;3;Caenogastropoda;Burnupena lagenaria;3;90,8;N;
+Old Woman's River;SOUTH;non infested;WEST;4;Caenogastropoda;Burnupena lagenaria;6;323,4;N;
+Port Edward;EAST;infested;EAST;2;Caenogastropoda;Burnupena lagenaria;3;8,7;N;
+Port Edward;EAST;infested;EAST;1;Patellogastropoda;Cellana capensis;2;2,7;N;
+Port Edward;EAST;non infested;EAST;2;Patellogastropoda;Cellana capensis;3;29,8;N;
+Old Woman's River;SOUTH;non infested;EAST;3;Nemertea;Cerebratulus fuscus;1;0;N;ID - to check
+Brenton-on-Sea;SOUTH;non infested;WEST;2;Bivalvia;Choromytilus meridionalis;17;378,8;N;
+Mosselbaai;SOUTH;non infested;WEST;2;Cirripedia;Chthamalus dentatus;3;1;N;
+Mosselbaai;SOUTH;non infested;WEST;3;Cirripedia;Chthamalus dentatus;7;4,2;Y;
+Old Woman's River;SOUTH;non infested;EAST;4;Cirripedia;Chthamalus dentatus;1;0,4;N;
+Port Edward;EAST;infested;EAST;3;Cirripedia;Chthamalus dentatus;5;4,1;N;
+Port Edward;EAST;non infested;EAST;3;Cirripedia;Chthamalus dentatus;1;0,5;N;
+Jeffreysbaai;SOUTH;non infested;WEST;1;Isopoda;Cirolana cranchii;9;24,4;N;ID - to check
+Jeffreysbaai;SOUTH;non infested;WEST;3;Isopoda;Cirolana cranchii;2;13,9;N;
+Mosselbaai;SOUTH;infested;WEST;3;Isopoda;Cirolana cranchii;1;2,1;Y;
+Mosselbaai;SOUTH;infested;WEST;4;Isopoda;Cirolana cranchii;1;3,83;Y;
+Old Woman's River;SOUTH;non infested;WEST;1;Isopoda;Cirolana cranchii;2;7,66;N;ID - to check
+Old Woman's River;SOUTH;non infested;WEST;4;Isopoda;Cirolana cranchii;1;9,4;N;
+Mosselbaai;SOUTH;non infested;WEST;4;Isopoda;Cirolana hirtipes;10;20,8;N;ID - check
+Brenton-on-Sea;SOUTH;infested;WEST;1;Isopoda;Cirolana sp.;3;2,7;N;ID - to check
+Brenton-on-Sea;SOUTH;infested;WEST;2;Isopoda;Cirolana sp.;3;2,7;N;ID - to check
+Brenton-on-Sea;SOUTH;non infested;WEST;2;Isopoda;Cirolana sp.;4;3,6;N;ID - to check
+Jeffreysbaai;SOUTH;infested;WEST;1;Isopoda;Cirolana sp.;1;0,9;N;ID - to check
+Jeffreysbaai;SOUTH;infested;WEST;2;Isopoda;Cirolana sp.;5;4,5;N;ID - to check
+Mosselbaai;SOUTH;non infested;WEST;3;Isopoda;Cirolana sp.;1;0,9;N;ID - no telson
+Old Woman's River;SOUTH;non infested;EAST;3;Isopoda;Cirolana sp.;2;1,8;N;
+Mosselbaai;SOUTH;non infested;WEST;1;Isopoda;Cirolana venusticauda;2;0,8;Y;
+Old Woman's River;SOUTH;non infested;WEST;2;Sedentaria;Cirriformia sp.;2;NA;N;ID - to check
+Mosselbaai;SOUTH;non infested;WEST;1;Cirripedia;Cirripedia;5;1,5;N;ID - w/ 6 plates
+Port Edward;EAST;non infested;EAST;2;Cirripedia;Cirripedia;1;0;N;
+Port Edward;EAST;non infested;EAST;3;Cirripedia;Cirripedia;1;0;N;
+Old Woman's River;SOUTH;non infested;EAST;2;Osteichthyes;Clinus sp.;1;NA;N;ID - to check
+Old Woman's River;SOUTH;infested;EAST;4;Caenogastropoda;Crepidula porcellana;1;0;N;small
+Brenton-on-Sea;SOUTH;infested;WEST;1;Eubrachyura;Cyclograpsus punctatus;1;14,6;N;
+Jeffreysbaai;SOUTH;infested;WEST;1;Eubrachyura;Cyclograpsus punctatus;4;149,4;N;
+Jeffreysbaai;SOUTH;non infested;WEST;1;Eubrachyura;Cyclograpsus punctatus;4;263,1;N;
+Mosselbaai;SOUTH;infested;WEST;1;Eubrachyura;Cyclograpsus punctatus;1;152,9;N;
+Mosselbaai;SOUTH;infested;WEST;2;Eubrachyura;Cyclograpsus punctatus;3;239,7;N;
+Mosselbaai;SOUTH;infested;WEST;3;Eubrachyura;Cyclograpsus punctatus;3;785,8;N;
+Mosselbaai;SOUTH;non infested;WEST;3;Eubrachyura;Cyclograpsus punctatus;4;50,8;N;minus 1 for biomass
+Old Woman's River;SOUTH;infested;WEST;1;Patellogastropoda;Cymbula granatina;1;8,1;N;
+Old Woman's River;SOUTH;infested;WEST;4;Patellogastropoda;Cymbula granatina;1;37,3;N;
+Old Woman's River;SOUTH;non infested;EAST;1;Patellogastropoda;Cymbula granatina;1;34,5;N;
+Old Woman's River;SOUTH;non infested;EAST;4;Patellogastropoda;Cymbula granatina;1;180,8;N;
+Old Woman's River;SOUTH;non infested;WEST;1;Patellogastropoda;Cymbula granatina;1;6,8;N;
+Jeffreysbaai;SOUTH;infested;WEST;1;Patellogastropoda;Cymbula oculus;1;34,2;N;recorded during biomass
+Jeffreysbaai;SOUTH;infested;WEST;3;Patellogastropoda;Cymbula oculus;1;94,1;N;
+Jeffreysbaai;SOUTH;non infested;WEST;3;Patellogastropoda;Cymbula oculus;1;0,4;N;
+Old Woman's River;SOUTH;infested;EAST;1;Patellogastropoda;Cymbula oculus;1;66,5;N;
+Old Woman's River;SOUTH;infested;EAST;2;Patellogastropoda;Cymbula oculus;2;275,5;N;
+Old Woman's River;SOUTH;infested;EAST;4;Patellogastropoda;Cymbula oculus;2;221;N;
+Old Woman's River;SOUTH;infested;WEST;2;Patellogastropoda;Cymbula oculus;1;15;N;
+Old Woman's River;SOUTH;infested;WEST;4;Patellogastropoda;Cymbula oculus;1;16,4;N;
+Old Woman's River;SOUTH;non infested;EAST;2;Patellogastropoda;Cymbula oculus;1;54,1;N;
+Old Woman's River;SOUTH;non infested;EAST;3;Patellogastropoda;Cymbula oculus;1;44,5;N;
+Old Woman's River;SOUTH;non infested;EAST;4;Patellogastropoda;Cymbula oculus;1;0,7;N;
+Old Woman's River;SOUTH;non infested;WEST;1;Patellogastropoda;Cymbula oculus;2;44;N;
+Old Woman's River;SOUTH;non infested;WEST;3;Patellogastropoda;Cymbula oculus;3;15,1;N;
+Port Edward;EAST;non infested;EAST;1;Patellogastropoda;Cymbula oculus;1;48,97;N;
+Port Edward;EAST;infested;EAST;1;Patellogastropoda;Cymbula sanguinans;5;12,3;N;
+Port Edward;EAST;non infested;EAST;1;Patellogastropoda;Cymbula sanguinans;2;34,6;N;
+Port Edward;EAST;non infested;EAST;2;Patellogastropoda;Cymbula sanguinans;5;125,6;N;
+Port Edward;EAST;non infested;EAST;3;Patellogastropoda;Cymbula sanguinans;2;27,5;N;
+Mosselbaai;SOUTH;infested;WEST;1;Arachnida;Desis formidabilis;1;12,7;N;
+Mosselbaai;SOUTH;non infested;WEST;1;Arachnida;Desis formidabilis;2;4,2;N;
+Mosselbaai;SOUTH;non infested;WEST;4;Arachnida;Desis formidabilis;1;2,2;N;
+Old Woman's River;SOUTH;infested;WEST;1;Arachnida;Desis formidabilis;1;5,9;N;
+Old Woman's River;SOUTH;non infested;EAST;4;Arachnida;Desis formidabilis;1;11;N;
+Old Woman's River;SOUTH;non infested;WEST;1;Arachnida;Desis formidabilis;1;22,4;N;
+Port Edward;EAST;non infested;EAST;1;Patellogastropoda;Eoacmaea albonotata;2;3,2;Y;
+Mosselbaai;SOUTH;infested;WEST;1;Errantia;Errantia;3;1,8;N;3 bits of polychaete
+Mosselbaai;SOUTH;non infested;WEST;4;Errantia;Errantia;12;5,2;N;12 bits of polychaete
+Old Woman's River;SOUTH;non infested;EAST;2;Errantia;Errantia;5;174,2;N;ID - to check
+Port Edward;EAST;non infested;EAST;4;Errantia;Errantia;1;0;N;squishy worm
+Jeffreysbaai;SOUTH;non infested;WEST;3;Isopoda;Exosphaeroma truncatitelson;2;0,7;N;
+Mosselbaai;SOUTH;non infested;WEST;1;Isopoda;Exosphaeroma truncatitelson;2;1,3;Y;
+Mosselbaai;SOUTH;non infested;WEST;4;Isopoda;Exosphaeroma truncatitelson;4;3,2;Y;
+Brenton-on-Sea;SOUTH;infested;WEST;4;Vetigastropoda;Fissurella mutabilis;1;3,7;N;
+Brenton-on-Sea;SOUTH;non infested;WEST;1;Vetigastropoda;Fissurella mutabilis;1;14,5;N;
+Brenton-on-Sea;SOUTH;non infested;WEST;3;Vetigastropoda;Fissurella mutabilis;6;9,5;N;
+Brenton-on-Sea;SOUTH;non infested;WEST;4;Vetigastropoda;Fissurella mutabilis;6;72,8;N;
+Jeffreysbaai;SOUTH;non infested;WEST;3;Vetigastropoda;Fissurella mutabilis;2;6,4;N;
+Old Woman's River;SOUTH;infested;EAST;2;Vetigastropoda;Fissurella natalensis;12;135,5;N;
+Old Woman's River;SOUTH;infested;WEST;2;Vetigastropoda;Fissurella natalensis;4;5,9;N;
+Old Woman's River;SOUTH;non infested;EAST;2;Vetigastropoda;Fissurella natalensis;8;92,4;N;
+Old Woman's River;SOUTH;non infested;WEST;2;Vetigastropoda;Fissurella natalensis;7;56,4;N;
+Port Edward;EAST;infested;EAST;1;Vetigastropoda;Fissurella natalensis;3;32,4;N;
+Port Edward;EAST;infested;EAST;2;Vetigastropoda;Fissurella natalensis;5;138,7;N;
+Port Edward;EAST;infested;EAST;3;Vetigastropoda;Fissurella natalensis;1;246,4;N;
+Port Edward;EAST;non infested;EAST;1;Vetigastropoda;Fissurella natalensis;3;176,9;N;
+Port Edward;EAST;non infested;EAST;3;Vetigastropoda;Fissurella natalensis;3;14,4;N;
+Port Edward;EAST;non infested;EAST;4;Vetigastropoda;Fissurella natalensis;2;36,6;Y;
+Brenton-on-Sea;SOUTH;non infested;WEST;1;Gastropoda;Gastropoda;2;1,2;N;2 limpet meat
+Mosselbaai;SOUTH;non infested;WEST;3;Gastropoda;Gastropoda;1;2,7;N;1 limpet meat
+Port Edward;EAST;infested;EAST;1;Gastropoda;Gastropoda;4;29,5;N;4 limpet meat
+Port Edward;EAST;infested;EAST;2;Gastropoda;Gastropoda;2;4,7;N;2 limpet meat
+Port Edward;EAST;infested;EAST;3;Gastropoda;Gastropoda;1;7;N;1 limpet meat
+Port Edward;EAST;non infested;EAST;2;Gastropoda;Gastropoda;3;2,9;N;1 snail + 2 limpet meat
+Port Edward;EAST;non infested;EAST;3;Gastropoda;Gastropoda;4;17,1;N;4 limpet meat
+Jeffreysbaai;SOUTH;non infested;WEST;2;Vetigastropoda;Gibbula cicer;1;3,2;N;
+Jeffreysbaai;SOUTH;non infested;WEST;3;Vetigastropoda;Gibbula cicer;1;0,1;N;
+Old Woman's River;SOUTH;infested;EAST;2;Vetigastropoda;Gibbula cicer;7;4,41;N;
+Old Woman's River;SOUTH;infested;WEST;1;Vetigastropoda;Gibbula cicer;NA;NA;N;
+Old Woman's River;SOUTH;infested;WEST;2;Vetigastropoda;Gibbula cicer;5;1;N;
+Old Woman's River;SOUTH;infested;WEST;3;Vetigastropoda;Gibbula cicer;1;0;Y;
+Old Woman's River;SOUTH;non infested;EAST;2;Vetigastropoda;Gibbula cicer;7;4,6;N;
+Old Woman's River;SOUTH;non infested;EAST;3;Vetigastropoda;Gibbula cicer;4;2,52;N;
+Old Woman's River;SOUTH;non infested;WEST;2;Vetigastropoda;Gibbula cicer;7;4,9;N;
+Old Woman's River;SOUTH;non infested;WEST;4;Vetigastropoda;Gibbula cicer;4;2,52;N;
+Port Edward;EAST;infested;EAST;1;Vetigastropoda;Gibbula multicolor;1;0,5;N;
+Port Edward;EAST;infested;EAST;2;Vetigastropoda;Gibbula multicolor;2;1;N;
+Port Edward;EAST;non infested;EAST;1;Vetigastropoda;Gibbula multicolor;3;1,5;N;
+Port Edward;EAST;non infested;EAST;3;Vetigastropoda;Gibbula multicolor;1;0,5;N;
+Port Edward;EAST;non infested;EAST;4;Vetigastropoda;Gibbula multicolor;1;0;Y;
+Brenton-on-Sea;SOUTH;non infested;WEST;3;Vetigastropoda;Guinusia chabrus;1;64,3;N;
+Jeffreysbaai;SOUTH;infested;WEST;2;Eubrachyura;Guinusia chabrus;1;41;N;
+Old Woman's River;SOUTH;infested;WEST;1;Eubrachyura;Guinusia chabrus;4;182,2;N;
+Old Woman's River;SOUTH;infested;WEST;2;Eubrachyura;Guinusia chabrus;1;188,9;N;
+Old Woman's River;SOUTH;infested;WEST;3;Eubrachyura;Guinusia chabrus;1;43,4;N;
+Old Woman's River;SOUTH;non infested;EAST;1;Eubrachyura;Guinusia chabrus;2;218,7;N;
+Old Woman's River;SOUTH;non infested;EAST;2;Eubrachyura;Guinusia chabrus;1;46,3;N;
+Old Woman's River;SOUTH;non infested;WEST;1;Eubrachyura;Guinusia chabrus;2;228,5;N;
+Old Woman's River;SOUTH;non infested;WEST;2;Eubrachyura;Guinusia chabrus;2;167,2;N;
+Old Woman's River;SOUTH;non infested;WEST;4;Eubrachyura;Guinusia chabrus;1;63;N;
+Old Woman's River;SOUTH;infested;EAST;2;Sedentaria;Gunnarea gaimardi;1;12,8;N;
+Old Woman's River;SOUTH;infested;EAST;4;Sedentaria;Gunnarea gaimardi;1;1,6;N;
+Old Woman's River;SOUTH;infested;WEST;2;Sedentaria;Gunnarea gaimardi;1;1,6;N;
+Old Woman's River;SOUTH;infested;WEST;4;Sedentaria;Gunnarea gaimardi;1;0,6;N;
+Old Woman's River;SOUTH;non infested;EAST;2;Sedentaria;Gunnarea gaimardi;1;12,6;N;
+Port Edward;EAST;infested;EAST;1;Patellogastropoda;Helcion concolor;4;52,8;N;
+Port Edward;EAST;infested;EAST;2;Patellogastropoda;Helcion concolor;2;10,1;N;
+Port Edward;EAST;infested;EAST;3;Patellogastropoda;Helcion concolor;14;70,5;N;
+Port Edward;EAST;non infested;EAST;2;Patellogastropoda;Helcion concolor;3;3,9;N;
+Port Edward;EAST;non infested;EAST;3;Patellogastropoda;Helcion concolor;1;1,9;N;
+Port Edward;EAST;non infested;EAST;4;Patellogastropoda;Helcion concolor;2;0,3;Y;
+Old Woman's River;SOUTH;non infested;WEST;4;Patellogastropoda;Helcion dunkeri;2;1,5;N;
+Port Edward;EAST;infested;EAST;2;Patellogastropoda;Helcion dunkeri;11;8,7;Y;
+Port Edward;EAST;infested;EAST;3;Patellogastropoda;Helcion dunkeri;10;21,3;N;
+Jeffreysbaai;SOUTH;infested;WEST;2;Patellogastropoda;Helcion pruinosus;1;6,4;N;
+Mosselbaai;SOUTH;infested;WEST;1;Patellogastropoda;Helcion pruinosus;1;4,1;Y;
+Mosselbaai;SOUTH;non infested;WEST;3;Patellogastropoda;Helcion pruinosus;2;11,4;N;
+Old Woman's River;SOUTH;infested;EAST;2;Patellogastropoda;Helcion pruinosus;2;4,4;N;
+Old Woman's River;SOUTH;infested;EAST;3;Patellogastropoda;Helcion pruinosus;1;1,5;N;
+Old Woman's River;SOUTH;infested;WEST;1;Patellogastropoda;Helcion pruinosus;4;7,7;N;
+Old Woman's River;SOUTH;infested;WEST;2;Patellogastropoda;Helcion pruinosus;5;37,1;N;
+Old Woman's River;SOUTH;infested;WEST;3;Patellogastropoda;Helcion pruinosus;5;16,2;N;
+Old Woman's River;SOUTH;infested;WEST;4;Patellogastropoda;Helcion pruinosus;3;0,5;N;
+Old Woman's River;SOUTH;non infested;EAST;1;Patellogastropoda;Helcion pruinosus;2;1,3;N;
+Old Woman's River;SOUTH;non infested;EAST;2;Patellogastropoda;Helcion pruinosus;4;12;N;
+Old Woman's River;SOUTH;non infested;EAST;3;Patellogastropoda;Helcion pruinosus;1;0,2;N;
+Old Woman's River;SOUTH;non infested;EAST;4;Patellogastropoda;Helcion pruinosus;4;4,8;N;
+Old Woman's River;SOUTH;non infested;WEST;1;Patellogastropoda;Helcion pruinosus;10;4,9;N;
+Old Woman's River;SOUTH;non infested;WEST;2;Patellogastropoda;Helcion pruinosus;6;5;N;
+Old Woman's River;SOUTH;non infested;WEST;3;Patellogastropoda;Helcion pruinosus;1;1,5;N;
+Old Woman's River;SOUTH;non infested;WEST;4;Patellogastropoda;Helcion pruinosus;3;0,6;N;
+Port Edward;EAST;infested;EAST;1;Patellogastropoda;Helcion pruinosus;7;9,2;N;
+Port Edward;EAST;infested;EAST;2;Patellogastropoda;Helcion pruinosus;13;33,5;N;
+Port Edward;EAST;infested;EAST;3;Patellogastropoda;Helcion pruinosus;4;10,7;N;
+Port Edward;EAST;non infested;EAST;1;Patellogastropoda;Helcion pruinosus;9;13;N;
+Port Edward;EAST;non infested;EAST;3;Patellogastropoda;Helcion pruinosus;9;20,3;N;
+Mosselbaai;SOUTH;infested;WEST;4;Patellogastropoda;Heliacus variegatus;6;NA;Y;
+Old Woman's River;SOUTH;infested;WEST;2;Patellogastropoda;Heliacus variegatus;1;0;N;
+Old Woman's River;SOUTH;infested;EAST;3;Hirudinea;Hirudinea;1;0;Y;ID - no obvious sucker
+Old Woman's River;SOUTH;infested;WEST;3;Hirudinea;Hirudinea;1;0;Y;ID - presence of sucker at one end
+Mosselbaai;SOUTH;infested;WEST;2;Holothuroidea;Holothuroidea;1;NA;Y;
+Old Woman's River;SOUTH;infested;WEST;2;Holothuroidea;Holothuroidea;3;NA;N;
+Old Woman's River;SOUTH;non infested;EAST;2;Holothuroidea;Holothuroidea;1;NA;N;ID - to check
+Old Woman's River;SOUTH;non infested;WEST;2;Holothuroidea;Holothuroidea;1;NA;N;ID - to check
+Brenton-on-Sea;SOUTH;infested;WEST;2;Isopoda;Iais pubescens;4;0,16;N;ID - to check
+Brenton-on-Sea;SOUTH;non infested;WEST;2;Isopoda;Iais pubescens;8;0,32;N;ID - to check
+Jeffreysbaai;SOUTH;infested;WEST;3;Isopoda;Iais pubescens;2;0;N;ID - to check
+Mosselbaai;SOUTH;infested;WEST;1;Isopoda;Iais pubescens;1;0,04;Y;
+Mosselbaai;SOUTH;non infested;WEST;1;Isopoda;Iais pubescens;2;0;Y;
+Old Woman's River;SOUTH;infested;EAST;1;Isopoda;Iais pubescens;2;0,3;Y;
+Old Woman's River;SOUTH;infested;EAST;3;Isopoda;Iais pubescens;2;0;N;small
+Old Woman's River;SOUTH;infested;EAST;4;Isopoda;Iais pubescens;52;2;N;
+Old Woman's River;SOUTH;infested;WEST;4;Isopoda;Iais pubescens;5;0,2;N;ID - to check
+Old Woman's River;SOUTH;non infested;EAST;1;Isopoda;Iais pubescens;2;0,08;N;ID - to check
+Old Woman's River;SOUTH;non infested;EAST;3;Isopoda;Iais pubescens;11;0,44;N;ID - to check
+Old Woman's River;SOUTH;non infested;EAST;4;Isopoda;Iais pubescens;1;0;N;small
+Old Woman's River;SOUTH;non infested;WEST;1;Isopoda;Iais pubescens;4;0,16;N;ID - to check
+Old Woman's River;SOUTH;non infested;WEST;4;Isopoda;Iais pubescens;1;0,04;N;ID - to check
+Jeffreysbaai;SOUTH;infested;WEST;2;Polyplacophora;Ischnochiton oniscus;1;13,4;N;
+Mosselbaai;SOUTH;non infested;WEST;4;Polyplacophora;Ischnochiton oniscus;1;17,2;N;
+Old Woman's River;SOUTH;infested;EAST;2;Polyplacophora;Ischnochiton oniscus;1;16,8;N;
+Old Woman's River;SOUTH;infested;WEST;2;Polyplacophora;Ischnochiton oniscus;1;4,4;N;
+Brenton-on-Sea;SOUTH;infested;WEST;1;Isopoda;Ischyromene huttoni;36;1027,3;N;
+Brenton-on-Sea;SOUTH;infested;WEST;2;Isopoda;Ischyromene huttoni;35;1044,7;N;
+Brenton-on-Sea;SOUTH;infested;WEST;4;Isopoda;Ischyromene huttoni;18;430,7;N;
+Brenton-on-Sea;SOUTH;non infested;WEST;1;Isopoda;Ischyromene huttoni;15;116,7;N;
+Brenton-on-Sea;SOUTH;non infested;WEST;2;Isopoda;Ischyromene huttoni;45;888;N;
+Brenton-on-Sea;SOUTH;non infested;WEST;3;Isopoda;Ischyromene huttoni;23;478,6;N;
+Brenton-on-Sea;SOUTH;non infested;WEST;4;Isopoda;Ischyromene huttoni;27;690,5;N;
+Jeffreysbaai;SOUTH;infested;WEST;1;Isopoda;Ischyromene huttoni;72;1110,7;N;
+Jeffreysbaai;SOUTH;infested;WEST;2;Isopoda;Ischyromene huttoni;15;207,8;N;
+Jeffreysbaai;SOUTH;infested;WEST;3;Isopoda;Ischyromene huttoni;162;2377,7;N;
+Jeffreysbaai;SOUTH;non infested;WEST;1;Isopoda;Ischyromene huttoni;67;1072,7;N;
+Jeffreysbaai;SOUTH;non infested;WEST;2;Isopoda;Ischyromene huttoni;30;443,5;N;
+Jeffreysbaai;SOUTH;non infested;WEST;3;Isopoda;Ischyromene huttoni;134;2076,4;N;
+Mosselbaai;SOUTH;infested;WEST;1;Isopoda;Ischyromene huttoni;22;162,5;N;
+Mosselbaai;SOUTH;infested;WEST;2;Isopoda;Ischyromene huttoni;2;43,8;N;
+Mosselbaai;SOUTH;infested;WEST;4;Isopoda;Ischyromene huttoni;2;24,7;N;
+Mosselbaai;SOUTH;non infested;WEST;1;Isopoda;Ischyromene huttoni;19;225,5;N;
+Mosselbaai;SOUTH;non infested;WEST;4;Isopoda;Ischyromene huttoni;1;10;N;
+Old Woman's River;SOUTH;infested;EAST;1;Isopoda;Ischyromene huttoni;42;549,8;N;
+Old Woman's River;SOUTH;infested;EAST;3;Isopoda;Ischyromene huttoni;38;514;N;
+Old Woman's River;SOUTH;infested;EAST;4;Isopoda;Ischyromene huttoni;182;3371,7;N;
+Old Woman's River;SOUTH;infested;WEST;1;Isopoda;Ischyromene huttoni;76;1592,4;N;
+Old Woman's River;SOUTH;infested;WEST;2;Isopoda;Ischyromene huttoni;6;151,3;N;
+Old Woman's River;SOUTH;infested;WEST;3;Isopoda;Ischyromene huttoni;28;428,7;N;
+Old Woman's River;SOUTH;infested;WEST;4;Isopoda;Ischyromene huttoni;24;551,5;N;
+Old Woman's River;SOUTH;non infested;EAST;1;Isopoda;Ischyromene huttoni;44;840,6;N;
+Old Woman's River;SOUTH;non infested;EAST;3;Isopoda;Ischyromene huttoni;71;1495,2;N;
+Old Woman's River;SOUTH;non infested;EAST;4;Isopoda;Ischyromene huttoni;12;130,9;N;
+Old Woman's River;SOUTH;non infested;WEST;1;Isopoda;Ischyromene huttoni;30;222,8;N;
+Old Woman's River;SOUTH;non infested;WEST;2;Isopoda;Ischyromene huttoni;1;23,5;N;
+Old Woman's River;SOUTH;non infested;WEST;3;Isopoda;Ischyromene huttoni;43;920,2;N;
+Old Woman's River;SOUTH;non infested;WEST;4;Isopoda;Ischyromene huttoni;48;1414;N;
+Port Edward;EAST;infested;EAST;1;Isopoda;Ischyromene huttoni;8;14,2;N;
+Port Edward;EAST;infested;EAST;2;Isopoda;Ischyromene huttoni;2;4,3;N;
+Port Edward;EAST;infested;EAST;3;Isopoda;Ischyromene huttoni;27;54,2;N;
+Port Edward;EAST;non infested;EAST;1;Isopoda;Ischyromene huttoni;6;10,7;N;
+Port Edward;EAST;non infested;EAST;2;Isopoda;Ischyromene huttoni;6;10,9;N;
+Port Edward;EAST;non infested;EAST;3;Isopoda;Ischyromene huttoni;36;96,8;N;
+Port Edward;EAST;non infested;EAST;4;Isopoda;Ischyromene huttoni;1;0,8;N;
+Brenton-on-Sea;SOUTH;infested;WEST;1;Isopoda;Isopoda;4;4;N;ID - to check
+Mosselbaai;SOUTH;non infested;WEST;1;Isopoda;Isopoda;1;1;N;1 bit of isopod
+Mosselbaai;SOUTH;non infested;WEST;4;Isopoda;Isopoda;1;1;N;
+Old Woman's River;SOUTH;infested;EAST;4;Isopoda;Isopoda;NA;NA;N;ID - to check
+Old Woman's River;SOUTH;infested;WEST;2;Isopoda;Isopoda;3;3;N;
+Old Woman's River;SOUTH;infested;WEST;4;Isopoda;Isopoda;1;1;N;ID - to check
+Old Woman's River;SOUTH;non infested;EAST;2;Isopoda;Isopoda;1;1;N;ID - to check
+Old Woman's River;SOUTH;non infested;EAST;3;Isopoda;Isopoda;6;6;N;ID - to check
+Old Woman's River;SOUTH;infested;WEST;2;Isopoda;Janira sp.;1;0;N;ID - to check
+Old Woman's River;SOUTH;non infested;WEST;3;Isopoda;Janira sp.;1;0;N;ID - to check
+Jeffreysbaai;SOUTH;non infested;WEST;2;Isopoda;Joeropsis stebbingi;1;0;N;ID - to check
+Old Woman's River;SOUTH;infested;EAST;1;Isopoda;Joeropsis stebbingi;1;0,3;Y;
+Old Woman's River;SOUTH;infested;EAST;4;Isopoda;Joeropsis stebbingi;3;1,14;N;ID - to check
+Old Woman's River;SOUTH;infested;WEST;2;Isopoda;Joeropsis stebbingi;2;0,76;N;ID - to check
+Old Woman's River;SOUTH;infested;WEST;3;Isopoda;Joeropsis stebbingi;2;0,5;Y;
+Old Woman's River;SOUTH;infested;WEST;4;Isopoda;Joeropsis stebbingi;3;1,14;N;ID - to check
+Old Woman's River;SOUTH;non infested;EAST;4;Isopoda;Joeropsis stebbingi;1;1,5;Y;
+Old Woman's River;SOUTH;non infested;WEST;1;Isopoda;Joeropsis stebbingi;2;0,76;N;ID - to check
+Old Woman's River;SOUTH;non infested;WEST;2;Isopoda;Joeropsis stebbingi;2;0,76;N;ID - to check
+Old Woman's River;SOUTH;non infested;WEST;4;Isopoda;Joeropsis stebbingi;1;0;N;small
+Mosselbaai;SOUTH;infested;WEST;4;Errantia;Lepidonotus clava;2;69,9;N;
+Jeffreysbaai;SOUTH;infested;WEST;3;Errantia;Lepidonotus durbanensis;1;3,4;N;
+Jeffreysbaai;SOUTH;non infested;WEST;1;Errantia;Lepidonotus durbanensis;1;5,9;N;
+Old Woman's River;SOUTH;infested;EAST;2;Errantia;Lepidonotus durbanensis;9;40,9;N;
+Old Woman's River;SOUTH;infested;WEST;2;Errantia;Lepidonotus durbanensis;4;15,4;N;
+Old Woman's River;SOUTH;non infested;EAST;2;Errantia;Lepidonotus durbanensis;2;9,1;N;
+Old Woman's River;SOUTH;non infested;WEST;1;Errantia;Lepidonotus durbanensis;1;0,9;N;
+Old Woman's River;SOUTH;non infested;WEST;2;Errantia;Lepidonotus durbanensis;6;91,8;N;
+Jeffreysbaai;SOUTH;infested;WEST;2;Eubrachyura;Leucisca squalina;1;NA;N;ID - to check
+Jeffreysbaai;SOUTH;non infested;WEST;3;Eubrachyura;Leucisca squalina;1;NA;N;
+Port Edward;EAST;non infested;EAST;1;Eubrachyura;Leucisca squalina;1;NA;Y;
+Mosselbaai;SOUTH;infested;WEST;3;Caenogastropoda;Mancinella capensis;6;24,1;Y;
+Mosselbaai;SOUTH;infested;WEST;4;Isopoda;Mesanthura catenula;1;0,4;N;
+Mosselbaai;SOUTH;non infested;WEST;4;Isopoda;Mesanthura catenula;2;1,6;N;
+Old Woman's River;SOUTH;non infested;EAST;2;Isopoda;Mesanthura catenula;1;0,6;N;
+Port Edward;EAST;infested;EAST;2;Eubrachyura;Metopograpsus messor;1;NA;Y;ID - not confident
+Brenton-on-Sea;SOUTH;infested;WEST;1;Bivalvia;Mytilus galloprovincialis;3;183,6;N;
+Brenton-on-Sea;SOUTH;infested;WEST;2;Bivalvia;Mytilus galloprovincialis;17;100,7;N;
+Brenton-on-Sea;SOUTH;infested;WEST;4;Bivalvia;Mytilus galloprovincialis;64;2329,4;N;
+Brenton-on-Sea;SOUTH;non infested;WEST;1;Bivalvia;Mytilus galloprovincialis;269;3448,2;N;
+Brenton-on-Sea;SOUTH;non infested;WEST;2;Bivalvia;Mytilus galloprovincialis;78;888,1;N;
+Brenton-on-Sea;SOUTH;non infested;WEST;3;Bivalvia;Mytilus galloprovincialis;8;141,5;N;
+Brenton-on-Sea;SOUTH;non infested;WEST;4;Bivalvia;Mytilus galloprovincialis;93;536,4;N;
+Jeffreysbaai;SOUTH;infested;WEST;1;Bivalvia;Mytilus galloprovincialis;29;313,3;N;
+Jeffreysbaai;SOUTH;infested;WEST;2;Bivalvia;Mytilus galloprovincialis;17;155,1;N;
+Jeffreysbaai;SOUTH;infested;WEST;3;Bivalvia;Mytilus galloprovincialis;4;20,7;N;
+Jeffreysbaai;SOUTH;non infested;WEST;1;Bivalvia;Mytilus galloprovincialis;26;112,3;N;
+Jeffreysbaai;SOUTH;non infested;WEST;2;Bivalvia;Mytilus galloprovincialis;3;4,8;N;
+Jeffreysbaai;SOUTH;non infested;WEST;3;Bivalvia;Mytilus galloprovincialis;14;681,1;N;
+Mosselbaai;SOUTH;infested;WEST;3;Bivalvia;Mytilus galloprovincialis;5;6;N;
+Mosselbaai;SOUTH;non infested;WEST;1;Bivalvia;Mytilus galloprovincialis;1;20;N;
+Mosselbaai;SOUTH;non infested;WEST;3;Bivalvia;Mytilus galloprovincialis;7;86,3;N;
+Mosselbaai;SOUTH;non infested;WEST;4;Bivalvia;Mytilus galloprovincialis;5;118,6;N;
+Brenton-on-Sea;SOUTH;infested;WEST;2;Nemertea;Nemertea;2;NA;N;ID - to check
+Brenton-on-Sea;SOUTH;non infested;WEST;3;Nemertea;Nemertea;2;NA;N;ID - to check
+Brenton-on-Sea;SOUTH;non infested;WEST;4;Nemertea;Nemertea;10;NA;N;ID - to check
+Jeffreysbaai;SOUTH;infested;WEST;2;Nemertea;Nemertea;3;NA;N;ID - to check
+Jeffreysbaai;SOUTH;non infested;WEST;2;Nemertea;Nemertea;2;NA;N;ID - to check
+Mosselbaai;SOUTH;non infested;WEST;3;Nemertea;Nemertea;1;NA;Y;ID - not confident
+Mosselbaai;SOUTH;non infested;WEST;4;Nemertea;Nemertea;2;NA;Y;ID - not confident
+Old Woman's River;SOUTH;non infested;EAST;4;Nemertea;Nemertea;5;NA;N;ID - to check
+Old Woman's River;SOUTH;non infested;WEST;3;Nemertea;Nemertea;1;NA;N;ID - to check
+Old Woman's River;SOUTH;infested;EAST;2;Holothuroidea;Neostichopus grammatus;1;NA;N;ID - to check
+Brenton-on-Sea;SOUTH;infested;WEST;1;Errantia;Nereididae;4;9,36;N;ID - to check
+Brenton-on-Sea;SOUTH;infested;WEST;2;Errantia;Nereididae;6;27,6;N;
+Brenton-on-Sea;SOUTH;non infested;WEST;2;Errantia;Nereididae;2;4,68;N;
+Brenton-on-Sea;SOUTH;non infested;WEST;3;Errantia;Nereididae;10;17,7;N;
+Brenton-on-Sea;SOUTH;non infested;WEST;4;Errantia;Nereididae;8;18,72;N;
+Jeffreysbaai;SOUTH;infested;WEST;1;Errantia;Nereididae;6;14,04;N;
+Jeffreysbaai;SOUTH;infested;WEST;2;Errantia;Nereididae;4;9,36;N;
+Jeffreysbaai;SOUTH;infested;WEST;3;Errantia;Nereididae;1;0;N;
+Jeffreysbaai;SOUTH;non infested;WEST;3;Errantia;Nereididae;10;4;N;
+Old Woman's River;SOUTH;infested;EAST;2;Errantia;Nereididae;19;27,5;N;
+Old Woman's River;SOUTH;infested;EAST;4;Errantia;Nereididae;1;2,34;N;
+Old Woman's River;SOUTH;infested;WEST;1;Errantia;Nereididae;6;14,04;N;
+Old Woman's River;SOUTH;infested;WEST;2;Errantia;Nereididae;30;67,6;N;
+Old Woman's River;SOUTH;infested;WEST;4;Errantia;Nereididae;10;63,7;N;
+Old Woman's River;SOUTH;non infested;EAST;1;Errantia;Nereididae;22;10,1;N;
+Old Woman's River;SOUTH;non infested;EAST;2;Errantia;Nereididae;32;69,5;N;
+Old Woman's River;SOUTH;non infested;EAST;3;Errantia;Nereididae;3;7,02;N;
+Old Woman's River;SOUTH;non infested;EAST;4;Errantia;Nereididae;15;19;N;
+Old Woman's River;SOUTH;non infested;WEST;1;Errantia;Nereididae;8;9,1;N;
+Old Woman's River;SOUTH;non infested;WEST;2;Errantia;Nereididae;21;56,1;N;
+Old Woman's River;SOUTH;non infested;WEST;3;Errantia;Nereididae;20;104,7;N;
+Old Woman's River;SOUTH;non infested;WEST;4;Errantia;Nereididae;1;2,34;N;ID - to check
+Brenton-on-Sea;SOUTH;infested;WEST;1;Platyhelminthes;Notocomplana erythrotaenia;10;4,5;N;
+Brenton-on-Sea;SOUTH;non infested;WEST;1;Platyhelminthes;Notocomplana erythrotaenia;13;4,1;N;
+Brenton-on-Sea;SOUTH;non infested;WEST;2;Platyhelminthes;Notocomplana erythrotaenia;3;0;N;small
+Brenton-on-Sea;SOUTH;non infested;WEST;3;Platyhelminthes;Notocomplana erythrotaenia;5;2,5;N;
+Brenton-on-Sea;SOUTH;non infested;WEST;4;Platyhelminthes;Notocomplana erythrotaenia;1;0,4;N;
+Jeffreysbaai;SOUTH;infested;WEST;2;Platyhelminthes;Notocomplana erythrotaenia;4;5;N;
+Jeffreysbaai;SOUTH;non infested;WEST;2;Platyhelminthes;Notocomplana erythrotaenia;1;0;N;small
+Mosselbaai;SOUTH;non infested;WEST;4;Platyhelminthes;Notocomplana erythrotaenia;2;0,8;N;
+Old Woman's River;SOUTH;infested;WEST;4;Platyhelminthes;Notocomplana erythrotaenia;1;0;N;small
+Old Woman's River;SOUTH;non infested;EAST;2;Platyhelminthes;Notocomplana erythrotaenia;1;1,5;N;
+Old Woman's River;SOUTH;non infested;EAST;4;Platyhelminthes;Notocomplana erythrotaenia;2;1,5;N;
+Old Woman's River;SOUTH;non infested;WEST;1;Platyhelminthes;Notocomplana erythrotaenia;2;1;N;
+Brenton-on-Sea;SOUTH;non infested;WEST;1;Caenogastropoda;Nucella dubia;1;2,2;N;
+Jeffreysbaai;SOUTH;infested;WEST;1;Caenogastropoda;Nucella dubia;5;65,6;N;
+Jeffreysbaai;SOUTH;infested;WEST;2;Caenogastropoda;Nucella dubia;2;6,2;N;
+Jeffreysbaai;SOUTH;infested;WEST;3;Caenogastropoda;Nucella dubia;1;9,5;N;
+Jeffreysbaai;SOUTH;non infested;WEST;1;Caenogastropoda;Nucella dubia;27;525,3;N;
+Jeffreysbaai;SOUTH;non infested;WEST;2;Caenogastropoda;Nucella dubia;2;8,6;N;
+Jeffreysbaai;SOUTH;non infested;WEST;3;Caenogastropoda;Nucella dubia;3;35,9;N;
+Mosselbaai;SOUTH;infested;WEST;4;Caenogastropoda;Nucella dubia;2;26,9;Y;
+Mosselbaai;SOUTH;non infested;WEST;3;Caenogastropoda;Nucella dubia;9;53,6;Y;
+Mosselbaai;SOUTH;non infested;WEST;4;Caenogastropoda;Nucella dubia;6;43,4;N;
+Old Woman's River;SOUTH;infested;WEST;3;Caenogastropoda;Nucella dubia;3;63;N;
+Old Woman's River;SOUTH;non infested;WEST;1;Caenogastropoda;Nucella dubia;2;7;N;
+Port Edward;EAST;infested;EAST;1;Caenogastropoda;Nucella dubia;1;0,3;N;
+Port Edward;EAST;non infested;EAST;1;Caenogastropoda;Nucella dubia;1;4,1;Y;
+Port Edward;EAST;non infested;EAST;3;Caenogastropoda;Nucella dubia;1;3,6;N;
+Brenton-on-Sea;SOUTH;infested;WEST;1;Caenogastropoda;Nucella squamosa;1;0,2;N;
+Brenton-on-Sea;SOUTH;infested;WEST;4;Caenogastropoda;Nucella squamosa;4;10,5;N;
+Brenton-on-Sea;SOUTH;non infested;WEST;1;Caenogastropoda;Nucella squamosa;2;1,9;N;
+Brenton-on-Sea;SOUTH;non infested;WEST;2;Caenogastropoda;Nucella squamosa;1;5,01;N;
+Jeffreysbaai;SOUTH;infested;WEST;2;Caenogastropoda;Nucella squamosa;3;3,4;N;
+Jeffreysbaai;SOUTH;non infested;WEST;1;Caenogastropoda;Nucella squamosa;2;1,1;N;
+Old Woman's River;SOUTH;infested;WEST;2;Caenogastropoda;Nucella squamosa;1;35,2;N;
+Old Woman's River;SOUTH;non infested;EAST;3;Caenogastropoda;Nucella squamosa;1;5,01;N;
+Old Woman's River;SOUTH;non infested;WEST;2;Caenogastropoda;Nucella squamosa;1;17,9;N;
+Mosselbaai;SOUTH;non infested;WEST;1;Pycnogonida;Nymphopsis cuspidata;1;0,2;Y;
+Mosselbaai;SOUTH;non infested;WEST;3;Cirripedia;Octomeris angulosa;1;0,98;N;
+Port Edward;EAST;infested;EAST;3;Cirripedia;Octomeris angulosa;3;2,8;N;
+Port Edward;EAST;non infested;EAST;2;Cirripedia;Octomeris angulosa;3;3,1;N;
+Port Edward;EAST;infested;EAST;1;Polyplacophora;Onitochiton literatus;4;364,2;Y;
+Port Edward;EAST;infested;EAST;2;Polyplacophora;Onitochiton literatus;5;960,1;N;
+Port Edward;EAST;non infested;EAST;1;Polyplacophora;Onitochiton literatus;7;1996,6;N;minus 1 for biomass
+Port Edward;EAST;non infested;EAST;2;Polyplacophora;Onitochiton literatus;1;553,7;N;
+Old Woman's River;SOUTH;infested;WEST;4;Opisthobranchia;Opisthobranchia;1;NA;N;ID - to check
+Jeffreysbaai;SOUTH;non infested;WEST;1;Sedentaria;Orbinidae;1;0;N;ID - to check
+Jeffreysbaai;SOUTH;non infested;WEST;3;Sedentaria;Orbinidae;1;0;N;small
+Brenton-on-Sea;SOUTH;infested;WEST;1;Vetigastropoda;Oxystele antoni;28;92,4;N;
+Brenton-on-Sea;SOUTH;infested;WEST;2;Vetigastropoda;Oxystele antoni;18;48,4;N;
+Brenton-on-Sea;SOUTH;infested;WEST;4;Vetigastropoda;Oxystele antoni;12;47,9;N;
+Brenton-on-Sea;SOUTH;non infested;WEST;1;Vetigastropoda;Oxystele antoni;21;44,9;N;
+Brenton-on-Sea;SOUTH;non infested;WEST;2;Vetigastropoda;Oxystele antoni;25;65,9;N;
+Brenton-on-Sea;SOUTH;non infested;WEST;3;Vetigastropoda;Oxystele antoni;4;47;N;
+Brenton-on-Sea;SOUTH;non infested;WEST;4;Vetigastropoda;Oxystele antoni;11;47,6;N;
+Jeffreysbaai;SOUTH;infested;WEST;1;Vetigastropoda;Oxystele antoni;1;10,2;N;
+Jeffreysbaai;SOUTH;infested;WEST;2;Vetigastropoda;Oxystele antoni;23;65,8;N;
+Jeffreysbaai;SOUTH;infested;WEST;3;Vetigastropoda;Oxystele antoni;52;424,6;N;
+Jeffreysbaai;SOUTH;non infested;WEST;1;Vetigastropoda;Oxystele antoni;5;87;N;
+Jeffreysbaai;SOUTH;non infested;WEST;2;Vetigastropoda;Oxystele antoni;26;79,5;N;
+Jeffreysbaai;SOUTH;non infested;WEST;3;Vetigastropoda;Oxystele antoni;24;248,6;N;
+Mosselbaai;SOUTH;infested;WEST;1;Vetigastropoda;Oxystele antoni;5;56,4;N;
+Mosselbaai;SOUTH;infested;WEST;2;Vetigastropoda;Oxystele antoni;5;93,7;N;
+Mosselbaai;SOUTH;infested;WEST;3;Vetigastropoda;Oxystele antoni;7;169,9;N;
+Mosselbaai;SOUTH;infested;WEST;4;Vetigastropoda;Oxystele antoni;6;41,8;N;
+Mosselbaai;SOUTH;non infested;WEST;1;Vetigastropoda;Oxystele antoni;19;165,9;N;
+Mosselbaai;SOUTH;non infested;WEST;2;Vetigastropoda;Oxystele antoni;6;233,4;N;
+Mosselbaai;SOUTH;non infested;WEST;3;Vetigastropoda;Oxystele antoni;5;116,3;N;
+Mosselbaai;SOUTH;non infested;WEST;4;Vetigastropoda;Oxystele antoni;10;56;N;
+Old Woman's River;SOUTH;infested;EAST;1;Vetigastropoda;Oxystele antoni;14;55,9;N;
+Old Woman's River;SOUTH;infested;EAST;3;Vetigastropoda;Oxystele antoni;42;488,3;N;
+Old Woman's River;SOUTH;infested;EAST;4;Vetigastropoda;Oxystele antoni;7;87,8;N;
+Old Woman's River;SOUTH;infested;WEST;1;Vetigastropoda;Oxystele antoni;12;144,6;N;
+Old Woman's River;SOUTH;infested;WEST;2;Vetigastropoda;Oxystele antoni;1;7,74;N;
+Old Woman's River;SOUTH;infested;WEST;3;Vetigastropoda;Oxystele antoni;12;82,3;N;
+Old Woman's River;SOUTH;infested;WEST;4;Vetigastropoda;Oxystele antoni;3;8,8;N;
+Old Woman's River;SOUTH;non infested;EAST;1;Vetigastropoda;Oxystele antoni;18;163,6;N;
+Old Woman's River;SOUTH;non infested;EAST;2;Vetigastropoda;Oxystele antoni;1;7,74;N;
+Old Woman's River;SOUTH;non infested;EAST;3;Vetigastropoda;Oxystele antoni;14;90,5;N;
+Old Woman's River;SOUTH;non infested;EAST;4;Vetigastropoda;Oxystele antoni;4;27,4;N;
+Old Woman's River;SOUTH;non infested;WEST;1;Vetigastropoda;Oxystele antoni;17;168,4;N;
+Old Woman's River;SOUTH;non infested;WEST;2;Vetigastropoda;Oxystele antoni;1;1,4;N;
+Old Woman's River;SOUTH;non infested;WEST;3;Vetigastropoda;Oxystele antoni;4;11,2;N;
+Old Woman's River;SOUTH;non infested;WEST;4;Vetigastropoda;Oxystele antoni;8;58,3;N;
+Brenton-on-Sea;SOUTH;infested;WEST;1;Vetigastropoda;Oxystele impervia;3;6,5;N;
+Mosselbaai;SOUTH;infested;WEST;1;Vetigastropoda;Oxystele impervia;1;4,8;Y;
+Old Woman's River;SOUTH;infested;EAST;1;Vetigastropoda;Oxystele impervia;1;1,8;N;
+Old Woman's River;SOUTH;infested;EAST;2;Vetigastropoda;Oxystele impervia;1;0,8;N;
+Old Woman's River;SOUTH;infested;WEST;3;Vetigastropoda;Oxystele impervia;2;4;N;
+Old Woman's River;SOUTH;non infested;EAST;3;Vetigastropoda;Oxystele impervia;1;4;N;
+Old Woman's River;SOUTH;non infested;WEST;1;Vetigastropoda;Oxystele impervia;1;8;N;
+Old Woman's River;SOUTH;non infested;EAST;3;Vetigastropoda;Oxystele tabularis;1;4,66;N;
+Old Woman's River;SOUTH;non infested;WEST;3;Vetigastropoda;Oxystele tabularis;5;31,5;N;
+Port Edward;EAST;infested;EAST;1;Vetigastropoda;Oxystele tabularis;25;63,3;N;
+Port Edward;EAST;infested;EAST;2;Vetigastropoda;Oxystele tabularis;24;91,1;N;
+Port Edward;EAST;infested;EAST;3;Vetigastropoda;Oxystele tabularis;10;65,3;N;
+Port Edward;EAST;non infested;EAST;1;Vetigastropoda;Oxystele tabularis;35;229,9;Y;
+Port Edward;EAST;non infested;EAST;2;Vetigastropoda;Oxystele tabularis;8;32,9;N;
+Port Edward;EAST;non infested;EAST;3;Vetigastropoda;Oxystele tabularis;27;112,5;N;
+Port Edward;EAST;non infested;EAST;4;Vetigastropoda;Oxystele tabularis;4;16,9;Y;
+Mosselbaai;SOUTH;infested;WEST;1;Amphipoda;Paramoera capensis;100;69,5;N;
+Mosselbaai;SOUTH;infested;WEST;2;Amphipoda;Paramoera capensis;47;18,2;N;
+Mosselbaai;SOUTH;infested;WEST;3;Amphipoda;Paramoera capensis;88;30,6;N;
+Mosselbaai;SOUTH;infested;WEST;4;Amphipoda;Paramoera capensis;84;67,7;N;
+Mosselbaai;SOUTH;non infested;WEST;1;Amphipoda;Paramoera capensis;75;65,6;N;
+Mosselbaai;SOUTH;non infested;WEST;2;Amphipoda;Paramoera capensis;29;18,8;N;
+Mosselbaai;SOUTH;non infested;WEST;3;Amphipoda;Paramoera capensis;63;41,8;N;
+Mosselbaai;SOUTH;non infested;WEST;4;Amphipoda;Paramoera capensis;26;22,7;N;
+Old Woman's River;SOUTH;infested;EAST;4;Amphipoda;Paramoera capensis;8;4;N;
+Old Woman's River;SOUTH;infested;WEST;3;Amphipoda;Paramoera capensis;7;3;N;
+Old Woman's River;SOUTH;infested;WEST;4;Amphipoda;Paramoera capensis;10;4,4;N;
+Old Woman's River;SOUTH;non infested;EAST;3;Amphipoda;Paramoera capensis;2;0,3;N;
+Port Edward;EAST;infested;EAST;2;Amphipoda;Paramoera capensis;11;34,6;N;
+Port Edward;EAST;non infested;EAST;1;Amphipoda;Paramoera capensis;7;12,2;N;
+Brenton-on-Sea;SOUTH;infested;WEST;1;Echinoidea;Parechinus angulosus;2;28,8;N;
+Brenton-on-Sea;SOUTH;infested;WEST;2;Echinoidea;Parechinus angulosus;1;38,5;N;
+Brenton-on-Sea;SOUTH;non infested;WEST;1;Echinoidea;Parechinus angulosus;1;11,1;N;
+Brenton-on-Sea;SOUTH;non infested;WEST;2;Echinoidea;Parechinus angulosus;1;7,6;N;
+Brenton-on-Sea;SOUTH;non infested;WEST;4;Echinoidea;Parechinus angulosus;6;84,2;N;
+Jeffreysbaai;SOUTH;infested;WEST;2;Echinoidea;Parechinus angulosus;2;12,5;N;
+Jeffreysbaai;SOUTH;infested;WEST;3;Echinoidea;Parechinus angulosus;1;0,7;N;
+Jeffreysbaai;SOUTH;non infested;WEST;3;Echinoidea;Parechinus angulosus;7;18,4;N;
+Mosselbaai;SOUTH;non infested;WEST;4;Echinoidea;Parechinus angulosus;1;2;N;
+Old Woman's River;SOUTH;infested;EAST;2;Echinoidea;Parechinus angulosus;5;669,1;N;
+Old Woman's River;SOUTH;infested;WEST;2;Echinoidea;Parechinus angulosus;23;1490,1;N;
+Old Woman's River;SOUTH;infested;WEST;3;Echinoidea;Parechinus angulosus;1;1,6;N;
+Old Woman's River;SOUTH;non infested;EAST;2;Echinoidea;Parechinus angulosus;10;1223,5;N;
+Old Woman's River;SOUTH;non infested;EAST;3;Echinoidea;Parechinus angulosus;1;1,8;N;
+Old Woman's River;SOUTH;non infested;WEST;2;Echinoidea;Parechinus angulosus;17;983,3;N;
+Old Woman's River;SOUTH;non infested;WEST;3;Echinoidea;Parechinus angulosus;1;3;N;
+Old Woman's River;SOUTH;non infested;WEST;4;Echinoidea;Parechinus angulosus;1;11,2;N;
+Jeffreysbaai;SOUTH;infested;WEST;1;Isopoda;Parisocladus perforatus;9;56,5;N;
+Jeffreysbaai;SOUTH;infested;WEST;2;Isopoda;Parisocladus perforatus;62;109,6;N;
+Jeffreysbaai;SOUTH;infested;WEST;3;Isopoda;Parisocladus perforatus;15;27,2;N;
+Jeffreysbaai;SOUTH;non infested;WEST;1;Isopoda;Parisocladus perforatus;33;217,9;N;
+Jeffreysbaai;SOUTH;non infested;WEST;2;Isopoda;Parisocladus perforatus;19;23,6;N;
+Jeffreysbaai;SOUTH;non infested;WEST;3;Isopoda;Parisocladus perforatus;1;10,7;N;
+Mosselbaai;SOUTH;infested;WEST;1;Isopoda;Parisocladus perforatus;6;45,1;N;
+Mosselbaai;SOUTH;infested;WEST;2;Isopoda;Parisocladus perforatus;1;7,3;Y;
+Mosselbaai;SOUTH;infested;WEST;3;Isopoda;Parisocladus perforatus;39;305,7;N;
+Mosselbaai;SOUTH;infested;WEST;4;Isopoda;Parisocladus perforatus;28;75,5;Y;
+Mosselbaai;SOUTH;non infested;WEST;3;Isopoda;Parisocladus perforatus;4;20,5;Y;
+Mosselbaai;SOUTH;non infested;WEST;4;Isopoda;Parisocladus perforatus;42;130,6;Y;
+Old Woman's River;SOUTH;infested;EAST;1;Isopoda;Parisocladus perforatus;3;5,6;N;
+Old Woman's River;SOUTH;infested;EAST;3;Isopoda;Parisocladus perforatus;2;3,5;N;
+Old Woman's River;SOUTH;non infested;EAST;3;Isopoda;Parisocladus perforatus;1;0,5;N;
+Old Woman's River;SOUTH;non infested;WEST;1;Isopoda;Parisocladus perforatus;1;3,9;N;ID - to check
+Old Woman's River;SOUTH;non infested;WEST;4;Isopoda;Parisocladus perforatus;1;1,8;N;
+Brenton-on-Sea;SOUTH;infested;WEST;1;Asteroidea;Parvulastra exigua;1;67,7;N;
+Brenton-on-Sea;SOUTH;infested;WEST;2;Asteroidea;Parvulastra exigua;1;90,9;N;
+Brenton-on-Sea;SOUTH;infested;WEST;4;Asteroidea;Parvulastra exigua;1;8,9;N;
+Brenton-on-Sea;SOUTH;non infested;WEST;2;Asteroidea;Parvulastra exigua;1;46,4;N;
+Jeffreysbaai;SOUTH;infested;WEST;2;Asteroidea;Parvulastra exigua;1;0,6;N;
+Jeffreysbaai;SOUTH;infested;WEST;3;Asteroidea;Parvulastra exigua;1;30,3;N;
+Mosselbaai;SOUTH;infested;WEST;1;Asteroidea;Parvulastra exigua;11;829,3;N;
+Mosselbaai;SOUTH;infested;WEST;2;Asteroidea;Parvulastra exigua;9;552,3;N;
+Mosselbaai;SOUTH;infested;WEST;3;Asteroidea;Parvulastra exigua;10;1006,9;N;not included in ECHINO data
+Mosselbaai;SOUTH;infested;WEST;4;Asteroidea;Parvulastra exigua;25;1683,1;N;
+Mosselbaai;SOUTH;non infested;WEST;1;Asteroidea;Parvulastra exigua;4;169,5;N;
+Mosselbaai;SOUTH;non infested;WEST;2;Asteroidea;Parvulastra exigua;4;362,8;N;not included in ECHINO data
+Mosselbaai;SOUTH;non infested;WEST;3;Asteroidea;Parvulastra exigua;22;2543,3;N;
+Mosselbaai;SOUTH;non infested;WEST;4;Asteroidea;Parvulastra exigua;23;838,1;N;
+Old Woman's River;SOUTH;infested;EAST;2;Asteroidea;Parvulastra exigua;10;357,4;N;
+Old Woman's River;SOUTH;infested;EAST;3;Asteroidea;Parvulastra exigua;1;37,1;N;
+Old Woman's River;SOUTH;infested;WEST;1;Asteroidea;Parvulastra exigua;3;309,2;N;
+Old Woman's River;SOUTH;infested;WEST;2;Asteroidea;Parvulastra exigua;15;959,7;N;
+Old Woman's River;SOUTH;infested;WEST;3;Asteroidea;Parvulastra exigua;2;125,22;N;
+Old Woman's River;SOUTH;non infested;EAST;1;Asteroidea;Parvulastra exigua;12;832,9;N;
+Old Woman's River;SOUTH;non infested;EAST;2;Asteroidea;Parvulastra exigua;10;183,1;N;
+Old Woman's River;SOUTH;non infested;EAST;3;Asteroidea;Parvulastra exigua;4;52,2;N;
+Old Woman's River;SOUTH;non infested;EAST;4;Asteroidea;Parvulastra exigua;6;277,9;N;
+Old Woman's River;SOUTH;non infested;WEST;1;Asteroidea;Parvulastra exigua;8;422;N;
+Old Woman's River;SOUTH;non infested;WEST;2;Asteroidea;Parvulastra exigua;14;885,4;N;
+Old Woman's River;SOUTH;non infested;WEST;3;Asteroidea;Parvulastra exigua;2;125,8;N;
+Old Woman's River;SOUTH;non infested;WEST;4;Asteroidea;Parvulastra exigua;4;94,4;N;
+Port Edward;EAST;non infested;EAST;1;Asteroidea;Parvulastra exigua;1;4,7;N;
+Old Woman's River;SOUTH;infested;EAST;1;Holothuroidea;Pentacta doliolum;1;1,5;Y;
+Brenton-on-Sea;SOUTH;infested;WEST;1;Bivalvia;Perna perna;78;1193,9;N;
+Brenton-on-Sea;SOUTH;infested;WEST;2;Bivalvia;Perna perna;115;828,5;N;
+Brenton-on-Sea;SOUTH;infested;WEST;4;Bivalvia;Perna perna;289;15549,4;N;
+Brenton-on-Sea;SOUTH;non infested;WEST;1;Bivalvia;Perna perna;349;4645,8;N;
+Brenton-on-Sea;SOUTH;non infested;WEST;2;Bivalvia;Perna perna;99;1410,5;N;
+Brenton-on-Sea;SOUTH;non infested;WEST;3;Bivalvia;Perna perna;68;698,7;N;
+Brenton-on-Sea;SOUTH;non infested;WEST;4;Bivalvia;Perna perna;394;4631,6;N;
+Jeffreysbaai;SOUTH;infested;WEST;1;Bivalvia;Perna perna;291;4274,2;N;
+Jeffreysbaai;SOUTH;infested;WEST;2;Bivalvia;Perna perna;76;221,5;N;
+Jeffreysbaai;SOUTH;infested;WEST;3;Bivalvia;Perna perna;211;2485,1;N;
+Jeffreysbaai;SOUTH;non infested;WEST;1;Bivalvia;Perna perna;172;2829,4;N;
+Jeffreysbaai;SOUTH;non infested;WEST;2;Bivalvia;Perna perna;39;131,4;N;
+Jeffreysbaai;SOUTH;non infested;WEST;3;Bivalvia;Perna perna;165;2734;N;
+Mosselbaai;SOUTH;infested;WEST;1;Bivalvia;Perna perna;38;52,4;N;
+Mosselbaai;SOUTH;infested;WEST;2;Bivalvia;Perna perna;6;1,6;N;
+Mosselbaai;SOUTH;infested;WEST;3;Bivalvia;Perna perna;38;123,3;N;
+Mosselbaai;SOUTH;infested;WEST;4;Bivalvia;Perna perna;16;76,6;Y;
+Mosselbaai;SOUTH;non infested;WEST;1;Bivalvia;Perna perna;66;902,2;N;
+Mosselbaai;SOUTH;non infested;WEST;2;Bivalvia;Perna perna;31;138,5;N;
+Mosselbaai;SOUTH;non infested;WEST;3;Bivalvia;Perna perna;71;708,7;N;
+Mosselbaai;SOUTH;non infested;WEST;4;Bivalvia;Perna perna;30;979;N;
+Old Woman's River;SOUTH;infested;EAST;1;Bivalvia;Perna perna;2;3,6;Y;
+Old Woman's River;SOUTH;infested;EAST;3;Bivalvia;Perna perna;5;26,1;N;
+Old Woman's River;SOUTH;infested;EAST;4;Bivalvia;Perna perna;2;15,4;N;
+Old Woman's River;SOUTH;infested;WEST;3;Bivalvia;Perna perna;4;35,9;N;
+Old Woman's River;SOUTH;infested;WEST;4;Bivalvia;Perna perna;8;82,6;N;
+Old Woman's River;SOUTH;non infested;EAST;2;Bivalvia;Perna perna;3;13,4;N;
+Old Woman's River;SOUTH;non infested;EAST;3;Bivalvia;Perna perna;2;30;N;
+Old Woman's River;SOUTH;non infested;EAST;4;Bivalvia;Perna perna;7;54,9;N;
+Old Woman's River;SOUTH;non infested;WEST;1;Bivalvia;Perna perna;1;23,7;N;
+Old Woman's River;SOUTH;non infested;WEST;4;Bivalvia;Perna perna;6;89,5;N;
+Port Edward;EAST;infested;EAST;1;Bivalvia;Perna perna;5;21,5;N;
+Port Edward;EAST;infested;EAST;2;Bivalvia;Perna perna;21;54,6;N;
+Port Edward;EAST;infested;EAST;3;Bivalvia;Perna perna;12;37;N;
+Port Edward;EAST;non infested;EAST;1;Bivalvia;Perna perna;1;18;N;
+Port Edward;EAST;non infested;EAST;2;Bivalvia;Perna perna;3;0,5;N;
+Port Edward;EAST;non infested;EAST;3;Bivalvia;Perna perna;18;85,6;N;
+Port Edward;EAST;non infested;EAST;4;Bivalvia;Perna perna;7;15,7;N;
+Jeffreysbaai;SOUTH;infested;WEST;2;Errantia;Phyllodocidae;3;12,68;N;
+Jeffreysbaai;SOUTH;non infested;WEST;3;Errantia;Phyllodocidae;2;0;N;small
+Mosselbaai;SOUTH;non infested;WEST;4;Errantia;Phyllodocidae;4;16,9;N;
+Old Woman's River;SOUTH;non infested;EAST;2;Errantia;Phyllodocidae;1;0;N;ID - to check
+Port Edward;EAST;non infested;EAST;3;Eubrachyura;Plagusia squamosa;1;NA;Y;
+Brenton-on-Sea;SOUTH;non infested;WEST;1;Platyhelminthes;Planocera gilchristi;1;1,7;N;
+Jeffreysbaai;SOUTH;non infested;WEST;2;Platyhelminthes;Planocera gilchristi;1;5;N;
+Old Woman's River;SOUTH;infested;EAST;2;Platyhelminthes;Planocera gilchristi;2;10,8;N;
+Old Woman's River;SOUTH;infested;EAST;3;Platyhelminthes;Planocera gilchristi;1;1,7;N;
+Old Woman's River;SOUTH;non infested;EAST;3;Platyhelminthes;Planocera gilchristi;1;9,7;N;
+Old Woman's River;SOUTH;non infested;EAST;4;Platyhelminthes;Planocera gilchristi;1;15,8;N;
+Old Woman's River;SOUTH;non infested;WEST;3;Platyhelminthes;Planocera gilchristi;1;6;N;
+Old Woman's River;SOUTH;non infested;EAST;2;Platyhelminthes;Plathyhelminthe;1;NA;N;ID - to check
+Jeffreysbaai;SOUTH;infested;WEST;2;Holothuroidea;Pseudocnella sykion;1;41,15;N;
+Jeffreysbaai;SOUTH;infested;WEST;3;Holothuroidea;Pseudocnella sykion;1;41,15;N;
+Jeffreysbaai;SOUTH;non infested;WEST;3;Holothuroidea;Pseudocnella sykion;1;76,8;N;
+Old Woman's River;SOUTH;infested;WEST;1;Holothuroidea;Pseudocnella sykion;1;5,5;N;
+Port Edward;EAST;infested;EAST;1;Holothuroidea;Pseudocnella sykion;1;41,15;N;
+Port Edward;EAST;infested;EAST;2;Holothuroidea;Pseudocnella sykion;1;41,15;Y;
+Port Edward;EAST;non infested;EAST;1;Holothuroidea;Pseudocnella sykion;1;41,15;N;
+Brenton-on-Sea;SOUTH;infested;WEST;1;Errantia;Pseudonereis variegata;14;407,2;N;
+Brenton-on-Sea;SOUTH;infested;WEST;2;Errantia;Pseudonereis variegata;10;178,7;N;
+Brenton-on-Sea;SOUTH;infested;WEST;4;Errantia;Pseudonereis variegata;19;565,9;N;
+Brenton-on-Sea;SOUTH;non infested;WEST;1;Errantia;Pseudonereis variegata;32;681,9;N;
+Brenton-on-Sea;SOUTH;non infested;WEST;2;Errantia;Pseudonereis variegata;6;179,8;N;
+Brenton-on-Sea;SOUTH;non infested;WEST;3;Errantia;Pseudonereis variegata;18;393,7;N;
+Brenton-on-Sea;SOUTH;non infested;WEST;4;Errantia;Pseudonereis variegata;22;490;N;
+Mosselbaai;SOUTH;infested;WEST;1;Errantia;Pseudonereis variegata;4;26,8;N;
+Mosselbaai;SOUTH;infested;WEST;2;Errantia;Pseudonereis variegata;2;23,4;N;
+Mosselbaai;SOUTH;infested;WEST;4;Errantia;Pseudonereis variegata;1;62,1;N;
+Mosselbaai;SOUTH;non infested;WEST;1;Errantia;Pseudonereis variegata;4;138;N;
+Mosselbaai;SOUTH;non infested;WEST;2;Errantia;Pseudonereis variegata;1;15,2;N;
+Mosselbaai;SOUTH;non infested;WEST;3;Errantia;Pseudonereis variegata;3;155,3;N;
+Mosselbaai;SOUTH;non infested;WEST;4;Errantia;Pseudonereis variegata;4;210,6;N;
+Old Woman's River;SOUTH;infested;EAST;1;Errantia;Pseudonereis variegata;2;27,6;N;
+Old Woman's River;SOUTH;infested;EAST;2;Errantia;Pseudonereis variegata;1;6,8;N;
+Old Woman's River;SOUTH;infested;EAST;3;Errantia;Pseudonereis variegata;3;243,9;N;
+Old Woman's River;SOUTH;infested;WEST;2;Errantia;Pseudonereis variegata;5;36,9;N;
+Old Woman's River;SOUTH;infested;WEST;3;Errantia;Pseudonereis variegata;12;568,8;N;
+Old Woman's River;SOUTH;infested;WEST;4;Errantia;Pseudonereis variegata;2;513,9;N;
+Old Woman's River;SOUTH;non infested;EAST;1;Errantia;Pseudonereis variegata;1;167,9;N;
+Old Woman's River;SOUTH;non infested;EAST;3;Errantia;Pseudonereis variegata;2;168,4;N;
+Old Woman's River;SOUTH;non infested;EAST;4;Errantia;Pseudonereis variegata;10;358,4;N;
+Old Woman's River;SOUTH;non infested;WEST;1;Errantia;Pseudonereis variegata;4;593,1;N;
+Old Woman's River;SOUTH;non infested;WEST;2;Errantia;Pseudonereis variegata;2;16,6;N;
+Old Woman's River;SOUTH;non infested;WEST;3;Errantia;Pseudonereis variegata;3;12;N;
+Old Woman's River;SOUTH;non infested;WEST;4;Errantia;Pseudonereis variegata;8;309,8;N;
+Port Edward;EAST;infested;EAST;2;Errantia;Pseudonereis variegata;3;83,7;N;
+Port Edward;EAST;infested;EAST;3;Errantia;Pseudonereis variegata;1;3,4;N;
+Port Edward;EAST;non infested;EAST;1;Errantia;Pseudonereis variegata;1;61,3;N;
+Port Edward;EAST;non infested;EAST;3;Errantia;Pseudonereis variegata;3;20,4;N;
+Port Edward;EAST;non infested;EAST;4;Errantia;Pseudonereis variegata;2;0,1;N;
+Port Edward;EAST;infested;EAST;1;Caenogastropoda;Purpura panama;1;48;Y;
+Brenton-on-Sea;SOUTH;non infested;WEST;4;Pycnogonida;Pycnogonidae;3;0;N;ID - to check
+Old Woman's River;SOUTH;infested;WEST;2;Pycnogonida;Pycnogonidae;2;0;N;ID - to check
+Old Woman's River;SOUTH;infested;EAST;2;Polyplacophora;Rhyssoplax polita;1;496;N;
+Old Woman's River;SOUTH;infested;WEST;2;Polyplacophora;Rhyssoplax polita;1;25,7;N;
+Old Woman's River;SOUTH;non infested;WEST;2;Polyplacophora;Rhyssoplax polita;1;95,9;N;
+Brenton-on-Sea;SOUTH;infested;WEST;1;Holothuroidea;Roweia stephensoni;1;441;N;
+Brenton-on-Sea;SOUTH;infested;WEST;1;Errantia;Scoletoma tetraura;1;0,1;N;
+Brenton-on-Sea;SOUTH;non infested;WEST;1;Errantia;Scoletoma tetraura;4;0;N;small
+Jeffreysbaai;SOUTH;infested;WEST;3;Errantia;Scoletoma tetraura;1;0;N;
+Jeffreysbaai;SOUTH;non infested;WEST;2;Errantia;Scoletoma tetraura;6;0;N;small
+Jeffreysbaai;SOUTH;non infested;WEST;3;Errantia;Scoletoma tetraura;11;0;N;small
+Mosselbaai;SOUTH;infested;WEST;4;Errantia;Scoletoma tetraura;1;0;N;
+Old Woman's River;SOUTH;infested;EAST;2;Errantia;Scoletoma tetraura;21;4,5;N;
+Old Woman's River;SOUTH;infested;EAST;4;Errantia;Scoletoma tetraura;1;0;N;small
+Old Woman's River;SOUTH;infested;WEST;2;Errantia;Scoletoma tetraura;11;3,1;N;
+Old Woman's River;SOUTH;infested;WEST;3;Errantia;Scoletoma tetraura;4;0;N;small
+Old Woman's River;SOUTH;non infested;EAST;2;Errantia;Scoletoma tetraura;11;2,1;N;
+Old Woman's River;SOUTH;non infested;EAST;3;Errantia;Scoletoma tetraura;3;0;N;small
+Old Woman's River;SOUTH;non infested;EAST;4;Errantia;Scoletoma tetraura;4;0,1;N;
+Old Woman's River;SOUTH;non infested;WEST;2;Errantia;Scoletoma tetraura;8;0,8;N;
+Old Woman's River;SOUTH;non infested;WEST;3;Errantia;Scoletoma tetraura;6;1;N;
+Old Woman's River;SOUTH;non infested;WEST;4;Errantia;Scoletoma tetraura;1;0;N;
+Brenton-on-Sea;SOUTH;infested;WEST;1;Patellogastropoda;Scutellastra granularis;7;428,3;N;
+Brenton-on-Sea;SOUTH;infested;WEST;2;Patellogastropoda;Scutellastra granularis;5;248,1;N;
+Brenton-on-Sea;SOUTH;infested;WEST;4;Patellogastropoda;Scutellastra granularis;7;214,9;N;
+Brenton-on-Sea;SOUTH;non infested;WEST;1;Patellogastropoda;Scutellastra granularis;6;229;N;
+Brenton-on-Sea;SOUTH;non infested;WEST;2;Patellogastropoda;Scutellastra granularis;7;300,2;N;
+Brenton-on-Sea;SOUTH;non infested;WEST;3;Patellogastropoda;Scutellastra granularis;5;288,5;N;
+Brenton-on-Sea;SOUTH;non infested;WEST;4;Patellogastropoda;Scutellastra granularis;9;173,2;N;
+Jeffreysbaai;SOUTH;infested;WEST;1;Patellogastropoda;Scutellastra granularis;13;654,3;N;
+Jeffreysbaai;SOUTH;infested;WEST;2;Patellogastropoda;Scutellastra granularis;1;4,1;N;
+Jeffreysbaai;SOUTH;infested;WEST;3;Patellogastropoda;Scutellastra granularis;7;189,3;N;
+Jeffreysbaai;SOUTH;non infested;WEST;1;Patellogastropoda;Scutellastra granularis;14;252,9;N;
+Jeffreysbaai;SOUTH;non infested;WEST;2;Patellogastropoda;Scutellastra granularis;2;115;N;
+Jeffreysbaai;SOUTH;non infested;WEST;3;Patellogastropoda;Scutellastra granularis;3;67,2;N;
+Mosselbaai;SOUTH;infested;WEST;1;Patellogastropoda;Scutellastra granularis;4;189;N;
+Mosselbaai;SOUTH;infested;WEST;3;Patellogastropoda;Scutellastra granularis;2;88,6;N;
+Mosselbaai;SOUTH;infested;WEST;4;Patellogastropoda;Scutellastra granularis;4;186;N;
+Mosselbaai;SOUTH;non infested;WEST;1;Patellogastropoda;Scutellastra granularis;1;30,4;N;
+Mosselbaai;SOUTH;non infested;WEST;2;Patellogastropoda;Scutellastra granularis;1;38,2;N;
+Mosselbaai;SOUTH;non infested;WEST;4;Patellogastropoda;Scutellastra granularis;5;134,5;N;
+Old Woman's River;SOUTH;infested;EAST;3;Patellogastropoda;Scutellastra granularis;1;67,2;N;
+Old Woman's River;SOUTH;infested;EAST;4;Patellogastropoda;Scutellastra granularis;1;4,8;N;
+Old Woman's River;SOUTH;infested;WEST;3;Patellogastropoda;Scutellastra granularis;3;165,8;N;
+Old Woman's River;SOUTH;infested;WEST;4;Patellogastropoda;Scutellastra granularis;6;226,5;N;
+Old Woman's River;SOUTH;non infested;EAST;3;Patellogastropoda;Scutellastra granularis;2;103,2;N;
+Old Woman's River;SOUTH;non infested;EAST;4;Patellogastropoda;Scutellastra granularis;4;99,4;N;
+Old Woman's River;SOUTH;non infested;WEST;1;Patellogastropoda;Scutellastra granularis;3;115,4;N;
+Old Woman's River;SOUTH;non infested;WEST;3;Patellogastropoda;Scutellastra granularis;1;29,5;N;
+Old Woman's River;SOUTH;non infested;WEST;4;Patellogastropoda;Scutellastra granularis;6;251,6;N;
+Port Edward;EAST;infested;EAST;1;Patellogastropoda;Scutellastra granularis;10;31,3;N;
+Port Edward;EAST;infested;EAST;2;Patellogastropoda;Scutellastra granularis;18;28,5;Y;
+Port Edward;EAST;infested;EAST;3;Patellogastropoda;Scutellastra granularis;1;25,05;N;
+Port Edward;EAST;non infested;EAST;1;Patellogastropoda;Scutellastra granularis;27;79,4;N;
+Port Edward;EAST;non infested;EAST;2;Patellogastropoda;Scutellastra granularis;5;8,4;N;
+Port Edward;EAST;non infested;EAST;3;Patellogastropoda;Scutellastra granularis;11;17,6;N;
+Jeffreysbaai;SOUTH;infested;WEST;3;Patellogastropoda;Scutellastra longicosta;1;211,9;N;
+Port Edward;EAST;infested;EAST;2;Patellogastropoda;Scutellastra natalensis;1;10,5;Y;
+Port Edward;EAST;infested;EAST;3;Patellogastropoda;Scutellastra natalensis;11;102;N;
+Port Edward;EAST;infested;EAST;3;Patellogastropoda;Scutellastra obtecta;4;11;Y;
+Port Edward;EAST;non infested;EAST;1;Patellogastropoda;Scutellastra obtecta;1;2,4;Y;
+Port Edward;EAST;non infested;EAST;4;Patellogastropoda;Scutellastra obtecta;3;1,1;Y;
+Port Edward;EAST;non infested;EAST;4;Sedentaria;Sedentaria;1;0;N;
+Brenton-on-Sea;SOUTH;infested;WEST;4;Heterobranchia;Siphonaria capensis;1;4,8;N;
+Brenton-on-Sea;SOUTH;non infested;WEST;1;Heterobranchia;Siphonaria capensis;1;1,9;N;
+Brenton-on-Sea;SOUTH;non infested;WEST;2;Heterobranchia;Siphonaria capensis;3;18,6;N;
+Jeffreysbaai;SOUTH;infested;WEST;1;Heterobranchia;Siphonaria capensis;7;24,5;N;
+Jeffreysbaai;SOUTH;infested;WEST;2;Heterobranchia;Siphonaria capensis;7;6,2;N;
+Jeffreysbaai;SOUTH;non infested;WEST;3;Heterobranchia;Siphonaria capensis;1;2,4;N;
+Mosselbaai;SOUTH;infested;WEST;2;Heterobranchia;Siphonaria capensis;1;39,2;Y;
+Mosselbaai;SOUTH;non infested;WEST;2;Heterobranchia;Siphonaria capensis;2;73,2;N;
+Jeffreysbaai;SOUTH;non infested;WEST;1;Heterobranchia;Siphonaria concinna;4;38,3;N;
+Jeffreysbaai;SOUTH;non infested;WEST;2;Heterobranchia;Siphonaria concinna;7;11,1;N;
+Mosselbaai;SOUTH;infested;WEST;2;Heterobranchia;Siphonaria concinna;1;13,7;Y;
+Mosselbaai;SOUTH;non infested;WEST;3;Heterobranchia;Siphonaria concinna;1;3,7;N;
+Jeffreysbaai;SOUTH;infested;WEST;3;Heterobranchia;Siphonaria oculus;5;49,9;N;
+Old Woman's River;SOUTH;non infested;EAST;3;Heterobranchia;Siphonaria serrata;1;4,1;N;ID - to check
+Jeffreysbaai;SOUTH;infested;WEST;2;Sipunculida;Sipunculida;1;NA;N;ID - to check
+Old Woman's River;SOUTH;infested;EAST;2;Sipunculida;Sipunculida;8;NA;N;ID - to check
+Old Woman's River;SOUTH;infested;EAST;4;Sipunculida;Sipunculida;1;NA;N;ID - to check
+Old Woman's River;SOUTH;infested;WEST;2;Sipunculida;Sipunculida;4;NA;N;ID - to check
+Old Woman's River;SOUTH;infested;WEST;4;Sipunculida;Sipunculida;2;NA;N;ID - to check
+Old Woman's River;SOUTH;non infested;EAST;1;Sipunculida;Sipunculida;3;NA;N;ID - to check
+Old Woman's River;SOUTH;non infested;EAST;2;Sipunculida;Sipunculida;8;NA;N;ID - to check
+Old Woman's River;SOUTH;non infested;EAST;3;Sipunculida;Sipunculida;1;NA;N;ID - to check
+Old Woman's River;SOUTH;non infested;WEST;1;Sipunculida;Sipunculida;3;NA;N;ID - to check
+Old Woman's River;SOUTH;non infested;WEST;2;Sipunculida;Sipunculida;7;NA;N;ID - to check
+Old Woman's River;SOUTH;non infested;WEST;3;Sipunculida;Sipunculida;7;NA;N;ID - to check
+Old Woman's River;SOUTH;non infested;WEST;4;Sipunculida;Sipunculida;1;NA;N;ID - to check
+Port Edward;EAST;infested;EAST;1;Cirripedia;Solidobalanus elizabethae;2;0,1;N;ID - not confident
+Brenton-on-Sea;SOUTH;infested;WEST;1;Isopoda;Sphaeramene polytylotos;14;333,9;N;
+Brenton-on-Sea;SOUTH;infested;WEST;2;Isopoda;Sphaeramene polytylotos;8;115,9;N;
+Brenton-on-Sea;SOUTH;infested;WEST;4;Isopoda;Sphaeramene polytylotos;3;47,7;N;
+Brenton-on-Sea;SOUTH;non infested;WEST;2;Isopoda;Sphaeramene polytylotos;13;162;N;
+Brenton-on-Sea;SOUTH;non infested;WEST;3;Isopoda;Sphaeramene polytylotos;14;174,1;N;
+Brenton-on-Sea;SOUTH;non infested;WEST;4;Isopoda;Sphaeramene polytylotos;17;292,6;N;
+Old Woman's River;SOUTH;infested;EAST;2;Isopoda;Sphaeramene polytylotos;5;107,2;N;
+Old Woman's River;SOUTH;infested;WEST;2;Isopoda;Sphaeramene polytylotos;1;20,5;N;
+Old Woman's River;SOUTH;infested;WEST;4;Isopoda;Sphaeramene polytylotos;1;8,9;N;
+Old Woman's River;SOUTH;non infested;EAST;1;Isopoda;Sphaeramene polytylotos;3;55;N;
+Old Woman's River;SOUTH;non infested;EAST;2;Isopoda;Sphaeramene polytylotos;1;11,5;N;
+Old Woman's River;SOUTH;non infested;EAST;3;Isopoda;Sphaeramene polytylotos;1;22,9;N;
+Old Woman's River;SOUTH;non infested;WEST;1;Isopoda;Sphaeramene polytylotos;1;14,9;N;
+Old Woman's River;SOUTH;non infested;WEST;2;Isopoda;Sphaeramene polytylotos;2;34,2;N;
+Old Woman's River;SOUTH;non infested;WEST;4;Isopoda;Sphaeramene polytylotos;9;161,3;N;
+Port Edward;EAST;non infested;EAST;4;Sedentaria;Spirobranchus kraussi;1;0;N;
+Mosselbaai;SOUTH;infested;WEST;1;Isopoda;Stenetrium sp.;1;0;Y;ID - to check
+Brenton-on-Sea;SOUTH;infested;WEST;1;Errantia;Syllidae;1;0,17;N;
+Brenton-on-Sea;SOUTH;non infested;WEST;1;Errantia;Syllidae;1;0;N;small
+Brenton-on-Sea;SOUTH;non infested;WEST;3;Errantia;Syllidae;2;0,34;N;
+Jeffreysbaai;SOUTH;non infested;WEST;2;Errantia;Syllidae;8;1,36;N;
+Jeffreysbaai;SOUTH;non infested;WEST;3;Errantia;Syllidae;3;0;N;small
+Mosselbaai;SOUTH;infested;WEST;1;Errantia;Syllidae;1;0;N;
+Mosselbaai;SOUTH;infested;WEST;4;Errantia;Syllidae;1;0;Y;
+Mosselbaai;SOUTH;non infested;WEST;4;Errantia;Syllidae;2;0,5;N;
+Old Woman's River;SOUTH;infested;EAST;2;Errantia;Syllidae;13;2,21;N;
+Old Woman's River;SOUTH;infested;EAST;3;Errantia;Syllidae;1;0;N;
+Old Woman's River;SOUTH;infested;WEST;2;Errantia;Syllidae;11;1,87;N;
+Old Woman's River;SOUTH;infested;WEST;4;Errantia;Syllidae;1;0;N;
+Old Woman's River;SOUTH;non infested;EAST;1;Errantia;Syllidae;1;0,17;N;
+Old Woman's River;SOUTH;non infested;EAST;2;Errantia;Syllidae;7;1,19;N;
+Old Woman's River;SOUTH;non infested;EAST;3;Errantia;Syllidae;2;0,34;N;
+Old Woman's River;SOUTH;non infested;WEST;1;Errantia;Syllidae;1;0,17;N;
+Old Woman's River;SOUTH;non infested;WEST;2;Errantia;Syllidae;9;2,4;N;
+Old Woman's River;SOUTH;non infested;WEST;3;Errantia;Syllidae;4;0,68;N;
+Old Woman's River;SOUTH;non infested;WEST;4;Errantia;Syllidae;2;0,34;N;
+Port Edward;EAST;infested;EAST;2;Errantia;Syllidae;1;0,6;Y;
+Port Edward;EAST;non infested;EAST;3;Errantia;Syllidae;1;0,2;N;
+Port Edward;EAST;non infested;EAST;4;Errantia;Syllidae;1;0;N;
+Brenton-on-Sea;SOUTH;infested;WEST;1;Amphipoda;Talorchestia sp.;25;23,9;N;
+Brenton-on-Sea;SOUTH;infested;WEST;2;Amphipoda;Talorchestia sp.;43;36,8;N;
+Brenton-on-Sea;SOUTH;infested;WEST;4;Amphipoda;Talorchestia sp.;108;99,8;N;
+Brenton-on-Sea;SOUTH;non infested;WEST;1;Amphipoda;Talorchestia sp.;88;70,1;N;
+Brenton-on-Sea;SOUTH;non infested;WEST;2;Amphipoda;Talorchestia sp.;120;105,4;N;
+Brenton-on-Sea;SOUTH;non infested;WEST;3;Amphipoda;Talorchestia sp.;48;44,5;N;
+Brenton-on-Sea;SOUTH;non infested;WEST;4;Amphipoda;Talorchestia sp.;169;177,2;N;
+Jeffreysbaai;SOUTH;infested;WEST;1;Amphipoda;Talorchestia sp.;10;4,5;N;
+Jeffreysbaai;SOUTH;infested;WEST;2;Amphipoda;Talorchestia sp.;35;21,9;N;
+Jeffreysbaai;SOUTH;infested;WEST;3;Amphipoda;Talorchestia sp.;9;4,9;N;
+Jeffreysbaai;SOUTH;non infested;WEST;1;Amphipoda;Talorchestia sp.;16;9,9;N;
+Jeffreysbaai;SOUTH;non infested;WEST;2;Amphipoda;Talorchestia sp.;15;4,2;N;
+Jeffreysbaai;SOUTH;non infested;WEST;3;Amphipoda;Talorchestia sp.;10;8,9;N;
+Old Woman's River;SOUTH;infested;EAST;1;Amphipoda;Talorchestia sp.;13;7,4;N;
+Old Woman's River;SOUTH;infested;EAST;2;Amphipoda;Talorchestia sp.;14;1,4;N;
+Old Woman's River;SOUTH;infested;EAST;3;Amphipoda;Talorchestia sp.;22;10,6;N;
+Old Woman's River;SOUTH;infested;EAST;4;Amphipoda;Talorchestia sp.;25;9,5;N;
+Old Woman's River;SOUTH;infested;WEST;1;Amphipoda;Talorchestia sp.;17;11,7;N;
+Old Woman's River;SOUTH;infested;WEST;2;Amphipoda;Talorchestia sp.;7;0,2;N;
+Old Woman's River;SOUTH;infested;WEST;3;Amphipoda;Talorchestia sp.;2;2,8;N;
+Old Woman's River;SOUTH;infested;WEST;4;Amphipoda;Talorchestia sp.;17;3;N;
+Old Woman's River;SOUTH;non infested;EAST;1;Amphipoda;Talorchestia sp.;8;5,6;N;
+Old Woman's River;SOUTH;non infested;EAST;2;Amphipoda;Talorchestia sp.;9;1,5;N;
+Old Woman's River;SOUTH;non infested;EAST;3;Amphipoda;Talorchestia sp.;6;1;N;
+Old Woman's River;SOUTH;non infested;EAST;4;Amphipoda;Talorchestia sp.;4;0,4;N;
+Old Woman's River;SOUTH;non infested;WEST;1;Amphipoda;Talorchestia sp.;15;9,2;N;
+Old Woman's River;SOUTH;non infested;WEST;2;Amphipoda;Talorchestia sp.;5;0,7;N;
+Old Woman's River;SOUTH;non infested;WEST;3;Amphipoda;Talorchestia sp.;3;2,1;N;
+Old Woman's River;SOUTH;non infested;WEST;4;Amphipoda;Talorchestia sp.;12;3,9;N;
+Port Edward;EAST;infested;EAST;2;Amphipoda;Talorchestia sp.;3;4,6;N;
+Port Edward;EAST;infested;EAST;3;Amphipoda;Talorchestia sp.;3;5,7;N;
+Port Edward;EAST;non infested;EAST;2;Amphipoda;Talorchestia sp.;1;1;N;
+Port Edward;EAST;non infested;EAST;3;Amphipoda;Talorchestia sp.;30;44,4;N;
+Port Edward;EAST;non infested;EAST;4;Amphipoda;Talorchestia sp.;3;2,2;N;
+Jeffreysbaai;SOUTH;non infested;WEST;3;Pycnogonida;Tanystylum brevipes;1;0;N;small
+Brenton-on-Sea;SOUTH;infested;WEST;1;Insecta;Telmatogeton minor;2;0,3;N;ID - larvae
+Brenton-on-Sea;SOUTH;non infested;WEST;2;Insecta;Telmatogeton minor;1;0,4;N;
+Brenton-on-Sea;SOUTH;non infested;WEST;3;Insecta;Telmatogeton minor;1;0;N;ID - larvae
+Brenton-on-Sea;SOUTH;non infested;WEST;4;Insecta;Telmatogeton minor;2;0,1;N;ID - larvae
+Jeffreysbaai;SOUTH;non infested;WEST;3;Insecta;Telmatogeton minor;1;0,4;N;ID - larvae
+Mosselbaai;SOUTH;infested;WEST;4;Insecta;Telmatogeton minor;1;0,3;N;ID - larvae
+Mosselbaai;SOUTH;non infested;WEST;3;Insecta;Telmatogeton minor;1;0,3;N;ID - larvae
+Old Woman's River;SOUTH;infested;EAST;1;Insecta;Telmatogeton minor;1;0,4;N;ID - larvae
+Old Woman's River;SOUTH;infested;WEST;4;Insecta;Telmatogeton minor;1;0;N;small, ID - larvae
+Old Woman's River;SOUTH;non infested;EAST;1;Insecta;Telmatogeton minor;1;0,8;N;ID - larvae
+Old Woman's River;SOUTH;infested;WEST;3;Cirripedia;Tetraclita serrata;1;21,6;N;
+Old Woman's River;SOUTH;non infested;EAST;4;Cirripedia;Tetraclita serrata;1;0,2;N;
+Port Edward;EAST;infested;EAST;3;Cirripedia;Tetraclita serrata;1;2,7;N;
+Port Edward;EAST;non infested;EAST;1;Cirripedia;Tetraclita serrata;1;6,13;Y;
+Mosselbaai;SOUTH;infested;WEST;1;Sedentaria;Thelepus sp.;1;0;N;small
+Old Woman's River;SOUTH;infested;EAST;2;Sedentaria;Thelepus sp.;2;4,3;N;
+Old Woman's River;SOUTH;infested;WEST;2;Sedentaria;Thelepus sp.;1;6,9;N;
+Brenton-on-Sea;SOUTH;non infested;WEST;2;Vetigastropoda;Tricolia capensis;1;1,66;N;
+Brenton-on-Sea;SOUTH;non infested;WEST;4;Vetigastropoda;Tricolia capensis;1;1,66;N;
+Jeffreysbaai;SOUTH;infested;WEST;3;Vetigastropoda;Tricolia capensis;6;5,8;N;
+Jeffreysbaai;SOUTH;non infested;WEST;2;Vetigastropoda;Tricolia capensis;2;1,4;N;
+Old Woman's River;SOUTH;infested;EAST;3;Vetigastropoda;Tricolia capensis;1;9,4;N;
+Old Woman's River;SOUTH;infested;WEST;3;Vetigastropoda;Tricolia capensis;1;0;Y;
+Old Woman's River;SOUTH;non infested;EAST;2;Vetigastropoda;Tricolia capensis;2;3,32;N;
+Brenton-on-Sea;SOUTH;infested;WEST;1;Vetigastropoda;Tricolia kochii;1;0,15;N;
+Jeffreysbaai;SOUTH;non infested;WEST;3;Vetigastropoda;Tricolia kochii;2;0,3;N;
+Old Woman's River;SOUTH;infested;EAST;2;Vetigastropoda;Tricolia kochii;4;0,6;N;ID - to check
+Old Woman's River;SOUTH;infested;WEST;2;Vetigastropoda;Tricolia kochii;3;0;N;
+Old Woman's River;SOUTH;non infested;EAST;2;Vetigastropoda;Tricolia kochii;9;1,35;N;
+Old Woman's River;SOUTH;non infested;EAST;3;Vetigastropoda;Tricolia kochii;2;0,3;N;
+Brenton-on-Sea;SOUTH;infested;WEST;1;Vetigastropoda;Tricolia neritina;3;0,36;N;
+Brenton-on-Sea;SOUTH;infested;WEST;4;Vetigastropoda;Tricolia neritina;3;0;N;small
+Brenton-on-Sea;SOUTH;non infested;WEST;1;Vetigastropoda;Tricolia neritina;1;0;N;
+Brenton-on-Sea;SOUTH;non infested;WEST;2;Vetigastropoda;Tricolia neritina;2;0,24;N;
+Brenton-on-Sea;SOUTH;non infested;WEST;3;Vetigastropoda;Tricolia neritina;6;0,4;N;small
+Brenton-on-Sea;SOUTH;non infested;WEST;4;Vetigastropoda;Tricolia neritina;46;5,52;N;
+Jeffreysbaai;SOUTH;infested;WEST;2;Vetigastropoda;Tricolia neritina;1;3,9;N;
+Jeffreysbaai;SOUTH;non infested;WEST;2;Vetigastropoda;Tricolia neritina;1;3,3;N;
+Mosselbaai;SOUTH;non infested;WEST;4;Vetigastropoda;Turbo cidaris cidaris;1;14,1;Y;
+Brenton-on-Sea;SOUTH;non infested;WEST;3;Bivalvia;Venerupis corrugata;2;9;Y;
+Jeffreysbaai;SOUTH;non infested;WEST;2;Eumalacostraca;Zeuxoides helleri;1;0;N;small
+Jeffreysbaai;SOUTH;non infested;WEST;3;Eumalacostraca;Zeuxoides helleri;1;0;N;small
+Mosselbaai;SOUTH;infested;WEST;4;Eumalacostraca;Zeuxoides helleri;1;0;Y;
+Old Woman's River;SOUTH;non infested;EAST;4;Eumalacostraca;Zeuxoides helleri;1;0;N;small

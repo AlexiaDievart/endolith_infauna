@@ -1,0 +1,49 @@
+site;infestation;lineage;quadrat;nb_broken;tot_mussels;mean_byssal;notes
+Brenton-on-Sea;infested;WEST;1;8;37;122,33;
+Brenton-on-Sea;infested;WEST;2;2;37;188,67;
+Brenton-on-Sea;infested;WEST;3;NA;0;NA;sample not stored properly (rotten)
+Brenton-on-Sea;infested;WEST;4;1;30;104,33;
+Brenton-on-Sea;non infested;WEST;1;5;19;110,33;
+Brenton-on-Sea;non infested;WEST;2;10;31;149,33;
+Brenton-on-Sea;non infested;WEST;3;4;38;103;
+Brenton-on-Sea;non infested;WEST;4;2;32;123,33;
+Jeffreysbaai;infested;WEST;1;3;27;209,33;
+Jeffreysbaai;infested;WEST;2;0;19;256,67;
+Jeffreysbaai;infested;WEST;3;2;24;173,67;
+Jeffreysbaai;infested;WEST;4;NA;0;NA;lost and not replaced
+Jeffreysbaai;non infested;WEST;1;0;38;216;
+Jeffreysbaai;non infested;WEST;2;9;19;155,67;
+Jeffreysbaai;non infested;WEST;3;2;31;313;
+Jeffreysbaai;non infested;WEST;4;NA;0;NA;
+Mosselbaai;infested;WEST;1;5;34;145,33;
+Mosselbaai;infested;WEST;2;3;23;215,33;
+Mosselbaai;infested;WEST;3;0;40;156;
+Mosselbaai;infested;WEST;4;1;38;172,33;
+Mosselbaai;non infested;WEST;1;2;42;134,33;
+Mosselbaai;non infested;WEST;2;1;26;265;
+Mosselbaai;non infested;WEST;3;4;37;196,67;
+Mosselbaai;non infested;WEST;4;3;44;209,67;
+Old Woman's River;infested;EAST;1;35;12;154,67;
+Old Woman's River;infested;EAST;2;7;31;156;
+Old Woman's River;infested;EAST;3;14;22;120;
+Old Woman's River;infested;EAST;4;20;20;94,33;
+Old Woman's River;infested;WEST;1;10;29;120;
+Old Woman's River;infested;WEST;2;1;30;121,33;
+Old Woman's River;infested;WEST;3;8;28;221;
+Old Woman's River;infested;WEST;4;19;23;162,67;
+Old Woman's River;non infested;EAST;1;40;21;107;
+Old Woman's River;non infested;EAST;2;39;22;202,67;
+Old Woman's River;non infested;EAST;3;11;32;176,33;
+Old Woman's River;non infested;EAST;4;10;33;118,33;
+Old Woman's River;non infested;WEST;1;16;37;156,33;
+Old Woman's River;non infested;WEST;2;15;27;172,33;
+Old Woman's River;non infested;WEST;3;33;24;205,67;
+Old Woman's River;non infested;WEST;4;5;46;169,67;
+Port Edward;infested;EAST;1;1;21;166,17;byssal threads not counted
+Port Edward;infested;EAST;2;9;33;126,67;
+Port Edward;infested;EAST;3;0;6;205,67;
+Port Edward;infested;EAST;4;NA;0;NA;lost and not replaced
+Port Edward;non infested;EAST;1;2;31;142,45;byssal threads not counted
+Port Edward;non infested;EAST;2;5;3;152,67;
+Port Edward;non infested;EAST;3;3;35;133,67;
+Port Edward;non infested;EAST;4;0;3;141;
