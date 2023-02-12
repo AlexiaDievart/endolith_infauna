@@ -39,7 +39,7 @@ The common-garden experiment conducted within the overlapping area (i.e., Old Wo
 ### Data files
 
 * **infauna_architecture.csv** includes the number of byssal threads for 3 mussels for each quadrat, each infestation level, each *Perna* lineage (only important for Old Woman's River) and each site.
-* **infauna_description.csv** includes the number of live and dead mussels (*Perna* and *Mytilus* separately), the number of broken mussels and the average number of byssal threads for each quadrat, each infestation level, each *Perna* lineage (only important for Old Woman's River) and each site. 
+* **infauna_description.csv** includes the number of live and dead mussels, the number of broken mussels and the average number of byssal threads for each quadrat, each infestation level, each *Perna* lineage (only important for Old Woman's River) and each site. 
 * **infauna_community** includes the abundance (count) and biomass (in mg) for each infaunal species for each quadrat, each infestation level, each *Perna* lineage (only important for Old Woman's River) and each site, in a long format.
 
 
@@ -50,9 +50,9 @@ The common-garden experiment conducted within the overlapping area (i.e., Old Wo
 
 ## Expectations from the statistical analyses
 
-### Across all sites
+### Across all sites (excluding Old Woman's River)
 
-* Compare the architectural complexity between infested and non-infested mussel beds in terms of the number of live and dead mussels (*Perna* and *Mytilus* separately), the number of broken mussels and the average number of byssal threads for each quadrat
+* Compare the architectural complexity between infested and non-infested mussel beds in terms of the number of live and dead mussels, the number of broken mussels and the average number of byssal threads for each quadrat
 * Compare the "community descriptors" between infested and non-infested mussel beds in terms of average total abundance and biomass per quadrat, species richness, species diversity (Shannon-Wiener and Simpson's indexes) and species evenness
 * Compare the infaunal communities between infested and non-infested mussel beds in terms of abundance and biomass
 * Identify the species that contribute the most to dissimilarities between communities if any
