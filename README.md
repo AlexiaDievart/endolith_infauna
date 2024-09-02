@@ -1,6 +1,7 @@
 # Repository description
 
-R scripts and datasets to test the influence of euendolithic infestation on infaunal communities associated with Perna perna mussel beds along the South African coastline
+Datasets and R scripts concerning the scientific publication _Biogeography, not intraspecific trait variation, determines faunal communities associated with mussel beds_ by Dievart _et al._ (2024) [in revision].
+The goal of this study was to test the influence of euendolithic corrosion of mussel shells on infaunal communities associated with _Perna perna_ along the South African coastline.
 
 ## General information
 
