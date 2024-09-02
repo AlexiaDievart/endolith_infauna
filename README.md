@@ -1,6 +1,7 @@
 # Repository description
 
 Datasets and R scripts concerning the scientific publication _Biogeography, not intraspecific trait variation, determines faunal communities associated with mussel beds_ by Dievart _et al._ (2024) [in revision].
+
 The goal of this study was to test the influence of euendolithic corrosion of mussel shells on infaunal communities associated with _Perna perna_ along the South African coastline.
 
 ## General information
@@ -21,13 +22,13 @@ The goal of this study was to test the influence of euendolithic corrosion of mu
 
 ### Geographic location
 
-To assess the effects of euendolithic infestation on infaunal communities associated with both *Perna perna* lineages, artificial mussel beds were deployed on six transplant sites along the south and east coasts (Figure 1):
+To assess the effects of euendolithic corrosion on infaunal communities associated with both *Perna perna* lineages, experimental mussel beds were deployed on six transplant sites along the south and east coasts of South Africa (Figure 1):
 * Mosselbaai (34°10'58.6"S, 22°09'29.2"E) - western lineage
 * Brenton-on-Sea (34°04'31.7"S 23°01'28.1"E) - western lineage
 * Jeffreysbaai (34°01'33.2"S 24°55'50.4"E) - western lineage
 * Old Woman’s River (33°28'55.7"S 27°09'08.2"E) - both lineages
 * Port Edward (31°03'23.5"S, 30°13'40.6"E) - eastern lineage
-
+  
 ![Figure_Map of transplant sites](https://user-images.githubusercontent.com/87645412/211604337-d043f6f5-e19e-4d0e-b850-91a66f685ae3.png)
 
 The manipulative experiment deployed in the distribution area of pure genetic lineages (Barker, 2021; Cunha et al., 2014; Zardi et al., 2007b) consisted of two treatments: (a) 100% non-infested *Perna perna* individuals (category A-B), or (b) 100% infested *P. perna individuals* (category C-D), as defined in Kaehler (1999) (Figure 2). 
@@ -39,7 +40,7 @@ The common-garden experiment conducted within the overlapping area (i.e., Old Wo
 
 ### Data files
 
-* **infauna_architecture.csv** includes the number of byssal threads for 3 mussels for each quadrat, each infestation level, each *Perna* lineage (only important for Old Woman's River) and each site.
+* **infauna_byssal.csv** includes the number of byssal threads for 3 randomly selected mussels for each quadrat, each corrosion level, each *Perna* lineage (only important for Old Woman's River) and each site. 
 * **infauna_description.csv** includes the number of live and dead mussels, the number of broken mussels and the average number of byssal threads for each quadrat, each infestation level, each *Perna* lineage (only important for Old Woman's River) and each site. 
 * **infauna_community** includes the abundance (count) and biomass (in mg) for each infaunal species for each quadrat, each infestation level, each *Perna* lineage (only important for Old Woman's River) and each site, in a long format.
 
