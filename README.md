@@ -1,11 +1,6 @@
 # Repository description
 
 Datasets and R scripts concerning the scientific publication _Biogeography, not intraspecific trait variation, determines macrofaunal communities associated with mussel beds_ by Dievart _et al._ (2024) [in revision].
-
-The goals of this main investigation were to :
-* Determine if euendolithic corrosion and its indirect effects on mussels would influence the within-bed architectural complexity (i.e., number of byssal threads per mussel) across bioregions or between _P. perna_ genetic lineages
-* Determine if euendolithic corrosion would influence macrofaunal communities associated with mussel beds across bioregions, as euendolithic corrosion has been demonstrated to improve mussel bed microclimate and alleviate temperature and desiccation stress to associated macrofauna.
-* Determine if euendolithic corrosion interacts with _P. perna_ genetic lineages to influence macrofaunal communities associated with mussel beds within the contact zone. 
   
 ## General information
 
@@ -25,6 +20,12 @@ The goals of this main investigation were to :
 The abstract will be added once the paper will be accepted for publication.
 
 ## Data collection and curation
+
+### Goals
+The goals of this main investigation were to :
+* Determine if euendolithic corrosion and its indirect effects on mussels would influence the within-bed architectural complexity (i.e., number of byssal threads per mussel) across bioregions or between _P. perna_ genetic lineages
+* Determine if euendolithic corrosion would influence macrofaunal communities associated with mussel beds across bioregions, as euendolithic corrosion has been demonstrated to improve mussel bed microclimate and alleviate temperature and desiccation stress to associated macrofauna.
+* Determine if euendolithic corrosion interacts with _P. perna_ genetic lineages to influence macrofaunal communities associated with mussel beds within the contact zone. 
 
 ### Geographic location
 
