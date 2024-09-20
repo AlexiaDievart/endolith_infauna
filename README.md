@@ -46,12 +46,14 @@ The second manipulative (common-garden) experiment conducted within the overlapp
 * **infauna_byssal.csv** includes the number of byssal threads for 3 randomly selected mussels for each quadrat, each corrosion level, each *Perna* lineage (only important for Old Woman's River) and each site. 
 * **infauna_description.csv** includes the number of live and dead mussels, the number of broken mussels and the average number of byssal threads for each quadrat, each infestation level, each *Perna* lineage (only important for Old Woman's River) and each site. 
 * **infauna_community** includes the abundance (count) and biomass (in mg) for each infaunal species for each quadrat, each infestation level, each *Perna* lineage (only important for Old Woman's River) and each site, in a long format.
+* **infauna_infrared_control** (Annex S2) presents the shell temperatures of 5 randomly selected mussels for mesh-covered corroded and non-corroded experimental mussel beds (n = 3) recorded every 5 minutes for 90 minutes on 2 different dates. 
 
 
 ### R scripts
 
 * **230109_infauna_analyses.R** includes the all the statistical analyses. Enjoy, it is the longest script I ever wrote and it is not the cleanest for sure.
-* **231010_infauna_graphs.R** summarized all the graphs made to illustrate the chapter. 
+* **231010_infauna_graphs.R** summarized all the graphs made to illustrate the chapter.
+* **240920_infauna_infrared_control.R** includes the statistical analyses presented in Annex S2, where we tried to determine if the mesh that secured the experimental mussel beds to the rocky shores could have been an experimental design flaw that masked the beneficial effects of euendolithic corrosion. It was not ! 
 
 ## Expectations from the statistical analyses
 
@@ -68,3 +70,6 @@ The second manipulative (common-garden) experiment conducted within the overlapp
 * Compare the "community descriptors" between infested and non-infested mussel beds AND eastern and western *Perna* lineages in terms of average total abundance and biomass per quadrat, species richness, species diversity (Shannon-Wiener and Simpson's indexes) and species evenness
 * Compare the infaunal communities between infested and non-infested mussel beds AND eastern and western *Perna* lineages in terms of abundance and biomass
 * Identify the species that contribute the most to dissimilarities between communities if any
+
+### Annex S2 : Influence of the experimental set up on the thermal mitigation offered by photoautotrophic euendoliths between corroded and non-corroded mussel beds
+* Compare the shell temperatures of mesh-covered corroded and non-corroded mussels in a setting that replicated our experimental design actually deployed in the field.
