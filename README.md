@@ -21,6 +21,9 @@ The goals of this main investigation were to :
 
 **Corresponding investigator**: Alexia M. A. DIEVART, alexia.dievart@hotmail.fr
 
+## Abstract
+The abstract will be added once the paper will be accepted for publication.
+
 ## Data collection and curation
 
 ### Geographic location
