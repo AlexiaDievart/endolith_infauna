@@ -1,9 +1,12 @@
 # Repository description
 
-Datasets and R scripts concerning the scientific publication _Biogeography, not intraspecific trait variation, determines faunal communities associated with mussel beds_ by Dievart _et al._ (2024) [in revision].
+Datasets and R scripts concerning the scientific publication _Biogeography, not intraspecific trait variation, determines macrofaunal communities associated with mussel beds_ by Dievart _et al._ (2024) [in revision].
 
-The goal of this study was to test the influence of euendolithic corrosion of mussel shells on infaunal communities associated with _Perna perna_ along the South African coastline.
-
+The goals of this main investigation were to :
+* Determine if euendolithic corrosion and its indirect effects on mussels would influence the within-bed architectural complexity (i.e., number of byssal threads per mussel) across bioregions or between _P. perna_ genetic lineages
+* Determine if euendolithic corrosion would influence macrofaunal communities associated with mussel beds across bioregions, as euendolithic corrosion has been demonstrated to improve mussel bed microclimate and alleviate temperature and desiccation stress to associated macrofauna.
+* Determine if euendolithic corrosion interacts with _P. perna_ genetic lineages to influence macrofaunal communities associated with mussel beds within the contact zone. 
+  
 ## General information
 
 **Citation**: 
@@ -22,19 +25,19 @@ The goal of this study was to test the influence of euendolithic corrosion of mu
 
 ### Geographic location
 
-To assess the effects of euendolithic corrosion on infaunal communities associated with both *Perna perna* lineages, experimental mussel beds were deployed on six transplant sites along the south and east coasts of South Africa (Figure 1):
+To assess the effects of euendolithic corrosion on infaunal communities associated with both *Perna perna* lineages, experimental mussel beds were deployed on six transplant sites along the south and east coasts of South Africa (Figure 1a):
 * Mosselbaai (34°10'58.6"S, 22°09'29.2"E) - western lineage
 * Brenton-on-Sea (34°04'31.7"S 23°01'28.1"E) - western lineage
 * Jeffreysbaai (34°01'33.2"S 24°55'50.4"E) - western lineage
 * Old Woman’s River (33°28'55.7"S 27°09'08.2"E) - both lineages
 * Port Edward (31°03'23.5"S, 30°13'40.6"E) - eastern lineage
   
-![Figure_Map of transplant sites](https://user-images.githubusercontent.com/87645412/211604337-d043f6f5-e19e-4d0e-b850-91a66f685ae3.png)
 
-The manipulative experiment deployed in the distribution area of pure genetic lineages (Barker, 2021; Cunha et al., 2014; Zardi et al., 2007b) consisted of two treatments: (a) 100% non-infested *Perna perna* individuals (category A-B), or (b) 100% infested *P. perna individuals* (category C-D), as defined in Kaehler (1999) (Figure 2). 
-The common-garden experiment conducted within the overlapping area (i.e., Old Woman's River) consisted in four treatments: (a) 100% non-infested eastern *P. perna*, (b) 100% non-infested western *P. perna*, (c) 100% infested eastern *P. perna*, and (d) 100% infested western *P. perna* (Figure 2). 
+The first manipulative experiment deployed in the distribution area of pure genetic lineages (Barker, 2021; Cunha et al., 2014; Zardi et al., 2007b) consisted of two treatments: (a) 100% non-infested *Perna perna* individuals (category A-B), or (b) 100% infested *P. perna individuals* (category C-D), as defined in Kaehler (1999) (Figure 1b,d). 
 
-![Figure_Experimental design](https://user-images.githubusercontent.com/87645412/211604855-0c65c130-0211-4916-88d1-6e5aab75f9a5.jpg)
+The second manipulative (common-garden) experiment conducted within the overlapping area (i.e., Old Woman's River) consisted in four treatments: (a) 100% non-infested eastern *P. perna*, (b) 100% non-infested western *P. perna*, (c) 100% infested eastern *P. perna*, and (d) 100% infested western *P. perna* (Figure 1b,e). 
+
+![Fig_1_Material and methods_V4](https://github.com/user-attachments/assets/1580c0ca-154e-4e6d-8bcb-f1605b17f64d)
 
 ## Data and file overview
 
