@@ -4,7 +4,7 @@ Datasets and R scripts concerning the scientific publication _Biogeography, not 
   
 ## General information
 
-**Citation**: 
+**Citation**: The correct citation will be added once the paper will be accepted for publication.
 
 **Principal investigator**: [Alexia M. A. DIEVART](https://scholar.google.com/citations?user=1CQgX5kAAAAJ&hl=fr&oi=ao), Coastal Research Group, Rhodes University (South Africa)
 
@@ -37,11 +37,13 @@ To assess the effects of euendolithic corrosion on infaunal communities associat
 * Port Edward (31°03'23.5"S, 30°13'40.6"E) - eastern lineage
   
 
-The first manipulative experiment deployed in the distribution area of pure genetic lineages (Barker, 2021; Cunha et al., 2014; Zardi et al., 2007b) consisted of two treatments: (a) 100% non-infested *Perna perna* individuals (category A-B), or (b) 100% infested *P. perna individuals* (category C-D), as defined in Kaehler (1999) (Figure 1b,d). 
+The first manipulative experiment deployed in the distribution area of pure genetic lineages (Barker, 2021; Cunha et al., 2014; Zardi et al., 2007b) consisted of two treatments: (a) 100% non-corroded *Perna perna* individuals (category A-B), or (b) 100% corroded *P. perna individuals* (category C-D), as defined in Kaehler (1999) (Figure 1b,d). 
 
-The second manipulative (common-garden) experiment conducted within the overlapping area (i.e., Old Woman's River) consisted in four treatments: (a) 100% non-infested eastern *P. perna*, (b) 100% non-infested western *P. perna*, (c) 100% infested eastern *P. perna*, and (d) 100% infested western *P. perna* (Figure 1b,e). 
+The second manipulative (common-garden) experiment conducted within the overlapping area (i.e., Old Woman's River) consisted in four treatments: (a) 100% non-corroded eastern *P. perna*, (b) 100% non-corroded western *P. perna*, (c) 100% corroded eastern *P. perna*, and (d) 100% corroded western *P. perna* (Figure 1b,e). 
 
 ![Fig_1_Material and methods_V4](https://github.com/user-attachments/assets/1580c0ca-154e-4e6d-8bcb-f1605b17f64d)
+
+An additional experiment was conducted in a laboratory setting to test if the presence of the mesh on the experimental mussel beds we deployed on the rocky shores could have masked the beneficial effects of euendolithic corrosion by increasing shading of the mussel shell, and consisted in two treatments: (a) 100% mesh-covered non-corroded _P. perna_ or (b) 100% mesh-covered corroded _P. perna_ (Annex S2).
 
 ## Data and file overview
 
