@@ -49,15 +49,15 @@ An additional experiment was conducted in a laboratory setting to test if the pr
 
 ### Data files
 
-* **infauna_byssal.csv** includes the number of byssal threads for 3 randomly selected mussels for each quadrat, each corrosion level, each *Perna* lineage (only important for Old Woman's River) and each site. 
-* **infauna_description.csv** includes the number of live and dead mussels, the number of broken mussels and the average number of byssal threads for each quadrat, each infestation level, each *Perna* lineage (only important for Old Woman's River) and each site. 
+* **infauna_byssal.csv** includes the exact number of byssal threads for 3 randomly selected mussels for each quadrat, each corrosion level, each *Perna* lineage (only important for Old Woman's River) and each site. 
+* **infauna_architectural complexity.csv** includes the number of live and dead mussels -with details of the mussel species in question - and the number of shell fragments, as well as the average number of byssal threads for each quadrat, each corrosion level, each *Perna* lineage (only important for Old Woman's River) and each site. 
 * **infauna_community** includes the abundance (count) and biomass (in mg) for each infaunal species for each quadrat, each infestation level, each *Perna* lineage (only important for Old Woman's River) and each site, in a long format.
 * **infauna_infrared_control** (Annex S2) presents the shell temperatures of 5 randomly selected mussels for mesh-covered corroded and non-corroded experimental mussel beds (n = 3) recorded every 5 minutes for 90 minutes on 2 different dates. 
 
 
 ### R scripts
 
-* **230109_infauna_analyses.R** includes the all the statistical analyses. Enjoy, it is the longest script I ever wrote and it is not the cleanest for sure.
+* **240930_infauna_architectural complexity.R** includes the statistical analyses performed to determine (a) the effects of euendolithic corrosion and biogeography on within-bed architectural complexity across all sites (except Old Woman's River), and (2) the effects of euendolithic corrosion and _P. perna_ lineages on within-bed architectural complexity at Old Woman's River. 
 * **231010_infauna_graphs.R** summarized all the graphs made to illustrate the chapter.
 * **240920_infauna_infrared_control.R** includes the statistical analyses presented in Annex S2, where we tried to determine if the mesh that secured the experimental mussel beds to the rocky shores could have been an experimental design flaw that masked the beneficial effects of euendolithic corrosion. It was not ! 
 
@@ -79,3 +79,13 @@ An additional experiment was conducted in a laboratory setting to test if the pr
 
 ### Annex S2 : Influence of the experimental set up on the thermal mitigation offered by photoautotrophic euendoliths between corroded and non-corroded mussel beds
 * Compare the shell temperatures of mesh-covered corroded and non-corroded mussels in a setting that replicated our experimental design actually deployed in the field.
+
+## Summary of the results
+
+### EUENDOLITHS x BIOGEOGRAPHY across all sites (excluding Old Woman's River)
+
+#### Within-bed architectural complexity
+Within-bed architectural complexity did not differ significantly between infested corroded and non-infested corroded mussel beds at any site (Table S3). However, the total number of mussels, the number of live mussels and the number of byssal threads per mussel differed significantly among sites (Table S3a,b,e, Figure 2a). Across all sites (excluding Old Woman’s River), the total number of mussels and of live mussels was significantly lower at Port Edward than at Mossel Bay (p < 0.05; Table S4a,b).  Meanwhile, the average number of byssal threads per mussel was significantly higher at Jeffreys Bay than at both Brenton-on-Sea and Port Edward , and significantly higher at Mossel Bay than at Brenton-on-Sea (p  <  0.05 in all cases; Table S4da, Figure 2a). 
+
+### EUENDOLITHS x PERNA LINEAGES at Old Woman's River
+At Old Woman’s River, both the number of dead mussels and the average number of byssal threads per mussel differed significantly between P. perna lineages (Table S3h,j, Figure 2e). The number of dead mussels and the average number of byssal threads per mussel were significantly higher in western _P. perna_ mussel beds than eastern mussel beds (Table S4d,e, Figure 2e).
