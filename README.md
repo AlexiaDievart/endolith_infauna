@@ -88,4 +88,6 @@ An additional experiment was conducted in a laboratory setting to test if the pr
 Within-bed architectural complexity did not differ significantly between infested corroded and non-infested corroded mussel beds at any site (Table S3). However, the total number of mussels, the number of live mussels and the number of byssal threads per mussel differed significantly among sites (Table S3a,b,e, Figure 2a). Across all sites (excluding Old Woman’s River), the total number of mussels and of live mussels was significantly lower at Port Edward than at Mossel Bay (p < 0.05; Table S4a,b).  Meanwhile, the average number of byssal threads per mussel was significantly higher at Jeffreys Bay than at both Brenton-on-Sea and Port Edward , and significantly higher at Mossel Bay than at Brenton-on-Sea (p  <  0.05 in all cases; Table S4da, Figure 2a). 
 
 ### EUENDOLITHS x PERNA LINEAGES at Old Woman's River
+
+#### Within-bed architectural complexity
 At Old Woman’s River, both the number of dead mussels and the average number of byssal threads per mussel differed significantly between P. perna lineages (Table S3h,j, Figure 2e). The number of dead mussels and the average number of byssal threads per mussel were significantly higher in western _P. perna_ mussel beds than eastern mussel beds (Table S4d,e, Figure 2e).
