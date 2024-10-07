@@ -51,8 +51,8 @@ An additional experiment was conducted in a laboratory setting to test if the pr
 
 * **infauna_byssal.csv** includes the exact number of byssal threads for 3 randomly selected mussels for each quadrat, each corrosion level, each *Perna* lineage (only important for Old Woman's River) and each site. 
 * **infauna_architectural complexity.csv** includes the number of live and dead mussels -with details of the mussel species in question - and the number of shell fragments, as well as the average number of byssal threads for each quadrat, each corrosion level, each *Perna* lineage (only important for Old Woman's River) and each site. 
-* **infauna_community** includes the abundance (count) and biomass (in mg) for each infaunal species for each quadrat, each infestation level, each *Perna* lineage (only important for Old Woman's River) and each site, in a long format.
-* **infauna_infrared_control** (Annex S2) presents the shell temperatures of 5 randomly selected mussels for mesh-covered corroded and non-corroded experimental mussel beds (n = 3) recorded every 5 minutes for 90 minutes on 2 different dates. 
+* **infauna_community.csv** includes the abundance (count) and biomass (in mg) for each infaunal species for each quadrat, each infestation level, each *Perna* lineage (only important for Old Woman's River) and each site, in a long format.
+* **infauna_infrared_control.csv** (Annex S2) presents the shell temperatures of 5 randomly selected mussels for mesh-covered corroded and non-corroded experimental mussel beds (n = 3) recorded every 5 minutes for 90 minutes on 2 different dates. 
 
 
 ### R scripts
