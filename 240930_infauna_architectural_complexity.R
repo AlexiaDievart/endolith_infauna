@@ -110,7 +110,7 @@ inf <- c("C", "NC")
 ##
 
 # Environmental variables - total number of mussels and number of broken shells ====
-arch <- read.csv("./RAW DATA/infauna_habitat.csv", dec = ",", header = T, sep = ";")
+arch <- read.csv("./RAW DATA/infauna_architectural complexity.csv", dec = ",", header = T, sep = ";")
 dplyr::glimpse(arch)
 
 factor1 <- c("site", "corrosion", "lineage", "quadrat")
