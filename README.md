@@ -27,7 +27,7 @@ The goals of this main investigation were to :
 * Determine if euendolithic corrosion would influence macrofaunal communities associated with mussel beds across bioregions, as euendolithic corrosion has been demonstrated to improve mussel bed microclimate and alleviate temperature and desiccation stress to associated macrofauna.
 * Determine if euendolithic corrosion interacts with _P. perna_ genetic lineages to influence macrofaunal communities associated with mussel beds within the contact zone. 
 
-### Geographic location
+### Material & Methods
 
 To assess the effects of euendolithic corrosion on infaunal communities associated with both *Perna perna* lineages, experimental mussel beds were deployed on six transplant sites along the south and east coasts of South Africa (Figure 1a):
 * Mosselbaai (34°10'58.6"S, 22°09'29.2"E) - western lineage
@@ -49,17 +49,18 @@ An additional experiment was conducted in a laboratory setting to test if the pr
 
 ### Data files
 
-* **infauna_byssal.csv** includes the exact number of byssal threads for 3 randomly selected mussels for each quadrat, each corrosion level, each *Perna* lineage (only important for Old Woman's River) and each site. 
-* **infauna_architectural complexity.csv** includes the number of live and dead mussels -with details of the mussel species in question - and the number of shell fragments, as well as the average number of byssal threads for each quadrat, each corrosion level, each *Perna* lineage (only important for Old Woman's River) and each site. 
-* **infauna_community.csv** includes the abundance (count) and biomass (in mg) for each infaunal species for each quadrat, each infestation level, each *Perna* lineage (only important for Old Woman's River) and each site, in a long format.
-* **infauna_infrared_control.csv** (Annex S2) presents the shell temperatures of 5 randomly selected mussels for mesh-covered corroded and non-corroded experimental mussel beds (n = 3) recorded every 5 minutes for 90 minutes on 2 different dates. 
+* **infauna_byssal.csv** includes the exact number of byssal threads for 3 randomly selected mussels for each quadrat, each corrosion level, each *Perna* lineage (only used in data analyses for Old Woman's River) and each site (including the common garden experiment at Old Woman's River). 
+* **infauna_architectural complexity.csv** includes the number of live and dead mussels - with details of the mussel species in question - and the number of shell fragments, as well as the average number of byssal threads for each quadrat (calculated from 'infauna_byssal.csv'), each corrosion level, each *Perna* lineage (only used in data analyses for Old Woman's River) and each site (including the common garden experiment at Old Woman's River). 
+* **infauna_community.csv** includes the abundance (count) and biomass (in mg) for each infaunal species for each quadrat, each corrosion level, each *Perna* lineage (only used in data analyses for Old Woman's River) and each site (including the common garden experiment at Old Woman's River) in a long format.
+* **infauna_infrared_control.csv** (Annex S2) presents the shell temperatures of 5 randomly selected mussels for mesh-covered corroded and non-corroded experimental mussel beds (n = 3) recorded every 5 minutes for 90 minutes on 2 different dates. This was an additional experiment to ensure our experimental set up did not influence our results.
 
 
 ### R scripts
 
-* **240930_infauna_architectural complexity.R** includes the statistical analyses performed to determine (a) the effects of euendolithic corrosion and biogeography on within-bed architectural complexity across all sites (except Old Woman's River), and (2) the effects of euendolithic corrosion and _P. perna_ lineages on within-bed architectural complexity at Old Woman's River. 
-* **231010_infauna_graphs.R** summarized all the graphs made to illustrate the chapter.
-* **240920_infauna_infrared_control.R** includes the statistical analyses presented in Annex S2, where we tried to determine if the mesh that secured the experimental mussel beds to the rocky shores could have been an experimental design flaw that masked the beneficial effects of euendolithic corrosion. It was not ! 
+* **240930_infauna_architectural complexity.R** includes the statistical analyses performed to determine (a) the effects of euendolithic corrosion and biogeography on within-bed architectural complexity (e.g., total number of mussels, number of live mussels, average number of byssal threads per mussel) across all sites (except Old Woman's River), and (2) the effects of euendolithic corrosion and _P. perna_ lineages on within-bed architectural complexity at Old Woman's River.
+* **241007_infauna_community descriptors.R** includes the statistical analyses performed to determine (a) the effects of euendolithic corrosion and biogeography on general macrofaunal community descriptors (e.g., total abundance, total biomass, species richness, etc.) across all sites (except Old Woman's River), and (2) the effects of euendolithic corrosion and _P. perna_ lineages on general macrofaunal community descriptors at Old Woman's River.
+* **241021_infauna_graphs_nMDS.R** (Figure 3) includes the graphical visualization of the results of the multivariate analyses applied on macrofaunal communities associated with mussel beds.
+* **240920_infauna_infrared_control.R** (Annex S2) includes the statistical analyses presented in Annex S2, where we tried to determine if the mesh that secured the experimental mussel beds to the rocky shores could have been an experimental design flaw that masked the beneficial effects of euendolithic corrosion. It was not ! 
 
 ## Expectations from the statistical analyses
 
