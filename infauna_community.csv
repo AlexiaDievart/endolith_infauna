@@ -1,0 +1,888 @@
+site;bioregion;corrosion;lineage;quadrat;higher_group;species;code_sp;abundance;biomass;pic;notes
+Brenton-on-Sea;SOUTH;corroded;WEST;1;Actiniaria;Actiniaria;ACTINI;51;465,9;N;
+Brenton-on-Sea;SOUTH;corroded;WEST;1;Amphipoda;Talorchestia sp.;TALORC;25;23,9;N;
+Brenton-on-Sea;SOUTH;corroded;WEST;1;Asteroidea;Parvulastra exigua;PAREXI;1;67,7;N;
+Brenton-on-Sea;SOUTH;corroded;WEST;1;Bivalvia;Mytilus galloprovincialis;MYTGAL;3;183,6;N;
+Brenton-on-Sea;SOUTH;corroded;WEST;1;Bivalvia;Perna perna;PERPER;78;1193,9;N;
+Brenton-on-Sea;SOUTH;corroded;WEST;1;Caenogastropoda;Burnupena lagenaria;BURLAG;33;377;N;
+Brenton-on-Sea;SOUTH;corroded;WEST;1;Caenogastropoda;Nucella squamosa;NUCSQU;1;0,2;N;
+Brenton-on-Sea;SOUTH;corroded;WEST;1;Echinoidea;Parechinus angulosus;PARANG;2;28,8;N;
+Brenton-on-Sea;SOUTH;corroded;WEST;1;Errantia;Nereididae;NEREID;4;9,36;N;ID - to check
+Brenton-on-Sea;SOUTH;corroded;WEST;1;Errantia;Pseudonereis podocirra;PSEPOD;14;407,2;N;
+Brenton-on-Sea;SOUTH;corroded;WEST;1;Errantia;Scoletoma tetraura;SCOTET;1;0,1;N;
+Brenton-on-Sea;SOUTH;corroded;WEST;1;Errantia;Syllidae;SYLLID;1;0,17;N;
+Brenton-on-Sea;SOUTH;corroded;WEST;1;Brachyura;Cyclograpsus punctatus;CYCPUN;1;14,6;N;
+Brenton-on-Sea;SOUTH;corroded;WEST;1;Holothuroidea;Roweia stephensoni;ROWSTE;1;441;N;
+Brenton-on-Sea;SOUTH;corroded;WEST;1;Insecta;Telmatogeton minor;TELMIN;2;0,3;N;ID - larvae
+Brenton-on-Sea;SOUTH;corroded;WEST;1;Isopoda;Cirolana sp.;CIROLA;3;2,7;N;ID - to check
+Brenton-on-Sea;SOUTH;corroded;WEST;1;Isopoda;Ischyromene huttoni;ISCHUT;36;1027,3;N;
+Brenton-on-Sea;SOUTH;corroded;WEST;1;Isopoda;Isopoda;ISOPOD;4;4;N;ID - to check
+Brenton-on-Sea;SOUTH;corroded;WEST;1;Isopoda;Sphaeramene polytylotos;SPHPOL;14;333,9;N;
+Brenton-on-Sea;SOUTH;corroded;WEST;1;Patellogastropoda;Scutellastra granularis;SCUGRA;7;428,3;N;
+Brenton-on-Sea;SOUTH;corroded;WEST;1;Platyhelminthes;Notocomplana erythrotaenia;NOTERY;10;4,5;N;
+Brenton-on-Sea;SOUTH;corroded;WEST;1;Polyplacophora;Acanthochitona garnoti;ACAGAR;6;280,4;N;
+Brenton-on-Sea;SOUTH;corroded;WEST;1;Vetigastropoda;Oxystele antoni;OXYANT;28;92,4;N;
+Brenton-on-Sea;SOUTH;corroded;WEST;1;Vetigastropoda;Oxystele impervia;OXYIMP;3;6,5;N;
+Brenton-on-Sea;SOUTH;corroded;WEST;1;Vetigastropoda;Tricolia kochii;TRIKOC;1;0,15;N;
+Brenton-on-Sea;SOUTH;corroded;WEST;1;Vetigastropoda;Tricolia neritina;TRINER;3;0,36;N;
+Brenton-on-Sea;SOUTH;corroded;WEST;2;Actiniaria;Actiniaria;ACTINI;20;380,3;N;
+Brenton-on-Sea;SOUTH;corroded;WEST;2;Amphipoda;Talorchestia sp.;TALORC;43;36,8;N;
+Brenton-on-Sea;SOUTH;corroded;WEST;2;Asteroidea;Parvulastra exigua;PAREXI;1;90,9;N;
+Brenton-on-Sea;SOUTH;corroded;WEST;2;Bivalvia;Mytilus galloprovincialis;MYTGAL;17;100,7;N;
+Brenton-on-Sea;SOUTH;corroded;WEST;2;Bivalvia;Perna perna;PERPER;115;828,5;N;
+Brenton-on-Sea;SOUTH;corroded;WEST;2;Caenogastropoda;Burnupena cincta;BURCIN;4;132,4;N;
+Brenton-on-Sea;SOUTH;corroded;WEST;2;Caenogastropoda;Burnupena lagenaria;BURLAG;35;345,5;N;
+Brenton-on-Sea;SOUTH;corroded;WEST;2;Echinoidea;Parechinus angulosus;PARANG;1;38,5;N;
+Brenton-on-Sea;SOUTH;corroded;WEST;2;Errantia;Nereididae;NEREID;6;27,6;N;
+Brenton-on-Sea;SOUTH;corroded;WEST;2;Errantia;Pseudonereis podocirra;PSEPOD;10;178,7;N;
+Brenton-on-Sea;SOUTH;corroded;WEST;2;Isopoda;Cirolana sp.;CIROLA;3;2,7;N;ID - to check
+Brenton-on-Sea;SOUTH;corroded;WEST;2;Isopoda;Iais pubescens;IAIPUB;4;0,16;N;ID - to check
+Brenton-on-Sea;SOUTH;corroded;WEST;2;Isopoda;Ischyromene huttoni;ISCHUT;35;1044,7;N;
+Brenton-on-Sea;SOUTH;corroded;WEST;2;Isopoda;Sphaeramene polytylotos;SPHPOL;8;115,9;N;
+Brenton-on-Sea;SOUTH;corroded;WEST;2;Nemertea;Nemertea;NEMERT;2;NA;N;ID - to check
+Brenton-on-Sea;SOUTH;corroded;WEST;2;Patellogastropoda;Scutellastra granularis;SCUGRA;5;248,1;N;
+Brenton-on-Sea;SOUTH;corroded;WEST;2;Polyplacophora;Acanthochitona garnoti;ACAGAR;17;701,9;N;
+Brenton-on-Sea;SOUTH;corroded;WEST;2;Vetigastropoda;Oxystele antoni;OXYANT;18;48,4;N;
+Brenton-on-Sea;SOUTH;corroded;WEST;4;Actiniaria;Actiniaria;ACTINI;20;274,3;N;
+Brenton-on-Sea;SOUTH;corroded;WEST;4;Amphipoda;Talorchestia sp.;TALORC;108;99,8;N;
+Brenton-on-Sea;SOUTH;corroded;WEST;4;Asteroidea;Parvulastra exigua;PAREXI;1;8,9;N;
+Brenton-on-Sea;SOUTH;corroded;WEST;4;Bivalvia;Mytilus galloprovincialis;MYTGAL;64;2329,4;N;
+Brenton-on-Sea;SOUTH;corroded;WEST;4;Bivalvia;Perna perna;PERPER;289;15549,4;N;
+Brenton-on-Sea;SOUTH;corroded;WEST;4;Caenogastropoda;Burnupena lagenaria;BURLAG;9;78,4;N;
+Brenton-on-Sea;SOUTH;corroded;WEST;4;Caenogastropoda;Nucella squamosa;NUCSQU;4;10,5;N;
+Brenton-on-Sea;SOUTH;corroded;WEST;4;Errantia;Pseudonereis podocirra;PSEPOD;19;565,9;N;
+Brenton-on-Sea;SOUTH;corroded;WEST;4;Heterobranchia;Siphonaria capensis;SIPCAP;1;4,8;N;
+Brenton-on-Sea;SOUTH;corroded;WEST;4;Isopoda;Ischyromene huttoni;ISCHUT;18;430,7;N;
+Brenton-on-Sea;SOUTH;corroded;WEST;4;Isopoda;Sphaeramene polytylotos;SPHPOL;3;47,7;N;
+Brenton-on-Sea;SOUTH;corroded;WEST;4;Patellogastropoda;Scutellastra granularis;SCUGRA;7;214,9;N;
+Brenton-on-Sea;SOUTH;corroded;WEST;4;Polyplacophora;Acanthochitona garnoti;ACAGAR;1;8,2;N;
+Brenton-on-Sea;SOUTH;corroded;WEST;4;Vetigastropoda;Fissurella mutabilis;FISMUT;1;3,7;N;
+Brenton-on-Sea;SOUTH;corroded;WEST;4;Vetigastropoda;Oxystele antoni;OXYANT;12;47,9;N;
+Brenton-on-Sea;SOUTH;corroded;WEST;4;Vetigastropoda;Tricolia neritina;TRINER;3;NA;N;too small for biomass
+Jeffreysbaai;SOUTH;corroded;WEST;1;Amphipoda;Talorchestia sp.;TALORC;10;4,5;N;
+Jeffreysbaai;SOUTH;corroded;WEST;1;Bivalvia;Mytilus galloprovincialis;MYTGAL;29;313,3;N;
+Jeffreysbaai;SOUTH;corroded;WEST;1;Bivalvia;Perna perna;PERPER;291;4274,2;N;
+Jeffreysbaai;SOUTH;corroded;WEST;1;Caenogastropoda;Burnupena lagenaria;BURLAG;1;82;N;
+Jeffreysbaai;SOUTH;corroded;WEST;1;Caenogastropoda;Nucella dubia;NUCDUB;5;65,6;N;
+Jeffreysbaai;SOUTH;corroded;WEST;1;Errantia;Nereididae;NEREID;6;14,04;N;
+Jeffreysbaai;SOUTH;corroded;WEST;1;Brachyura;Cyclograpsus punctatus;CYCPUN;4;149,4;N;
+Jeffreysbaai;SOUTH;corroded;WEST;1;Heterobranchia;Siphonaria capensis;SIPCAP;7;24,5;N;
+Jeffreysbaai;SOUTH;corroded;WEST;1;Isopoda;Cirolana sp.;CIROLA;1;0,9;N;ID - to check
+Jeffreysbaai;SOUTH;corroded;WEST;1;Isopoda;Ischyromene huttoni;ISCHUT;72;1110,7;N;
+Jeffreysbaai;SOUTH;corroded;WEST;1;Isopoda;Parisocladus perforatus;PARPER;9;56,5;N;
+Jeffreysbaai;SOUTH;corroded;WEST;1;Patellogastropoda;Cymbula oculus;CYMOCU;1;34,2;N;recorded during biomass
+Jeffreysbaai;SOUTH;corroded;WEST;1;Patellogastropoda;Scutellastra granularis;SCUGRA;13;654,3;N;
+Jeffreysbaai;SOUTH;corroded;WEST;1;Polyplacophora;Acanthochitona garnoti;ACAGAR;8;452,1;N;
+Jeffreysbaai;SOUTH;corroded;WEST;1;Vetigastropoda;Oxystele antoni;OXYANT;1;10,2;N;
+Jeffreysbaai;SOUTH;corroded;WEST;2;Actiniaria;Actiniaria;ACTINI;2;3,8;N;
+Jeffreysbaai;SOUTH;corroded;WEST;2;Amphipoda;Talorchestia sp.;TALORC;35;21,9;N;
+Jeffreysbaai;SOUTH;corroded;WEST;2;Asteroidea;Parvulastra exigua;PAREXI;1;0,6;N;
+Jeffreysbaai;SOUTH;corroded;WEST;2;Bivalvia;Mytilus galloprovincialis;MYTGAL;17;155,1;N;
+Jeffreysbaai;SOUTH;corroded;WEST;2;Bivalvia;Perna perna;PERPER;76;221,5;N;
+Jeffreysbaai;SOUTH;corroded;WEST;2;Caenogastropoda;Burnupena lagenaria;BURLAG;7;21,2;N;
+Jeffreysbaai;SOUTH;corroded;WEST;2;Caenogastropoda;Nucella dubia;NUCDUB;2;6,2;N;
+Jeffreysbaai;SOUTH;corroded;WEST;2;Caenogastropoda;Nucella squamosa;NUCSQU;3;3,4;N;
+Jeffreysbaai;SOUTH;corroded;WEST;2;Echinoidea;Parechinus angulosus;PARANG;2;12,5;N;
+Jeffreysbaai;SOUTH;corroded;WEST;2;Errantia;Nereididae;NEREID;4;9,36;N;
+Jeffreysbaai;SOUTH;corroded;WEST;2;Errantia;Phyllodocidae;PHYLLO;3;12,68;N;
+Jeffreysbaai;SOUTH;corroded;WEST;2;Brachyura;Guinusia chabrus;GUICHA;1;41;N;
+Jeffreysbaai;SOUTH;corroded;WEST;2;Brachyura;Leucisca squalina;LEUSQU;1;NA;N;ID - to check
+Jeffreysbaai;SOUTH;corroded;WEST;2;Heterobranchia;Siphonaria capensis;SIPCAP;7;6,2;N;
+Jeffreysbaai;SOUTH;corroded;WEST;2;Holothuroidea;Pseudocnella sykion;PSESYK;1;41,15;N;
+Jeffreysbaai;SOUTH;corroded;WEST;2;Isopoda;Cirolana sp.;CIROLA;5;4,5;N;ID - to check
+Jeffreysbaai;SOUTH;corroded;WEST;2;Isopoda;Ischyromene huttoni;ISCHUT;15;207,8;N;
+Jeffreysbaai;SOUTH;corroded;WEST;2;Isopoda;Parisocladus perforatus;PARPER;62;109,6;N;
+Jeffreysbaai;SOUTH;corroded;WEST;2;Nemertea;Nemertea;NEMERT;3;NA;N;ID - to check
+Jeffreysbaai;SOUTH;corroded;WEST;2;Patellogastropoda;Helcion pruinosus;HELPRU;1;6,4;N;
+Jeffreysbaai;SOUTH;corroded;WEST;2;Patellogastropoda;Scutellastra granularis;SCUGRA;1;4,1;N;
+Jeffreysbaai;SOUTH;corroded;WEST;2;Platyhelminthes;Notocomplana erythrotaenia;NOTERY;4;5;N;
+Jeffreysbaai;SOUTH;corroded;WEST;2;Polyplacophora;Acanthochitona garnoti;ACAGAR;3;40,2;N;
+Jeffreysbaai;SOUTH;corroded;WEST;2;Polyplacophora;Ischnochiton oniscus;ISCONI;1;13,4;N;
+Jeffreysbaai;SOUTH;corroded;WEST;2;Sipunculida;Sipunculida;SIPUNC;1;NA;N;ID - to check
+Jeffreysbaai;SOUTH;corroded;WEST;2;Vetigastropoda;Oxystele antoni;OXYANT;23;65,8;N;
+Jeffreysbaai;SOUTH;corroded;WEST;2;Vetigastropoda;Tricolia neritina;TRINER;1;3,9;N;
+Jeffreysbaai;SOUTH;corroded;WEST;3;Actiniaria;Actiniaria;ACTINI;2;0,8;N;
+Jeffreysbaai;SOUTH;corroded;WEST;3;Amphipoda;Talorchestia sp.;TALORC;9;4,9;N;
+Jeffreysbaai;SOUTH;corroded;WEST;3;Asteroidea;Parvulastra exigua;PAREXI;1;30,3;N;
+Jeffreysbaai;SOUTH;corroded;WEST;3;Bivalvia;Mytilus galloprovincialis;MYTGAL;4;20,7;N;
+Jeffreysbaai;SOUTH;corroded;WEST;3;Bivalvia;Perna perna;PERPER;211;2485,1;N;
+Jeffreysbaai;SOUTH;corroded;WEST;3;Caenogastropoda;Afrolittorina knysnaensis;AFROKNY;1;NA;N;too small for biomass
+Jeffreysbaai;SOUTH;corroded;WEST;3;Caenogastropoda;Burnupena lagenaria;BURLAG;3;4,4;N;
+Jeffreysbaai;SOUTH;corroded;WEST;3;Caenogastropoda;Nucella dubia;NUCDUB;1;9,5;N;
+Jeffreysbaai;SOUTH;corroded;WEST;3;Echinoidea;Parechinus angulosus;PARANG;1;0,7;N;
+Jeffreysbaai;SOUTH;corroded;WEST;3;Errantia;Lepidonotus durbanensis;LEPDUR;1;3,4;N;
+Jeffreysbaai;SOUTH;corroded;WEST;3;Errantia;Nereididae;NEREID;1;NA;N;too small for biomass
+Jeffreysbaai;SOUTH;corroded;WEST;3;Errantia;Scoletoma tetraura;SCOTET;1;NA;N;too small for biomass
+Jeffreysbaai;SOUTH;corroded;WEST;3;Heterobranchia;Siphonaria oculus;SIPOCU;5;49,9;N;
+Jeffreysbaai;SOUTH;corroded;WEST;3;Holothuroidea;Pseudocnella sykion;PSESYK;1;41,15;N;
+Jeffreysbaai;SOUTH;corroded;WEST;3;Isopoda;Iais pubescens;IAIPUB;2;NA;N;too small for biomass
+Jeffreysbaai;SOUTH;corroded;WEST;3;Isopoda;Ischyromene huttoni;ISCHUT;162;2377,7;N;
+Jeffreysbaai;SOUTH;corroded;WEST;3;Isopoda;Parisocladus perforatus;PARPER;15;27,2;N;
+Jeffreysbaai;SOUTH;corroded;WEST;3;Patellogastropoda;Cymbula oculus;CYMOCU;1;94,1;N;
+Jeffreysbaai;SOUTH;corroded;WEST;3;Patellogastropoda;Scutellastra granularis;SCUGRA;7;189,3;N;
+Jeffreysbaai;SOUTH;corroded;WEST;3;Patellogastropoda;Scutellastra longicosta;SCULON;1;211,9;N;
+Jeffreysbaai;SOUTH;corroded;WEST;3;Polyplacophora;Acanthochitona garnoti;ACAGAR;6;338,1;N;
+Jeffreysbaai;SOUTH;corroded;WEST;3;Vetigastropoda;Oxystele antoni;OXYANT;52;424,6;N;
+Jeffreysbaai;SOUTH;corroded;WEST;3;Vetigastropoda;Tricolia capensis;TRICAP;6;5,8;N;
+Mosselbaai;SOUTH;corroded;WEST;1;Amphipoda;Paramoera capensis;PARCAP;100;69,5;N;
+Mosselbaai;SOUTH;corroded;WEST;1;Arachnida;Desis formidabilis;DESFOR;1;12,7;N;
+Mosselbaai;SOUTH;corroded;WEST;1;Asteroidea;Parvulastra exigua;PAREXI;11;829,3;N;
+Mosselbaai;SOUTH;corroded;WEST;1;Bivalvia;Perna perna;PERPER;38;52,4;N;
+Mosselbaai;SOUTH;corroded;WEST;1;Errantia;Errantia;ERRANT;3;1,8;N;3 bits of polychaete
+Mosselbaai;SOUTH;corroded;WEST;1;Errantia;Pseudonereis podocirra;PSEPOD;4;26,8;N;
+Mosselbaai;SOUTH;corroded;WEST;1;Errantia;Syllidae;SYLLID;1;NA;N;too small for biomass
+Mosselbaai;SOUTH;corroded;WEST;1;Brachyura;Cyclograpsus punctatus;CYCPUN;1;152,9;N;
+Mosselbaai;SOUTH;corroded;WEST;1;Isopoda;Iais pubescens;IAIPUB;1;0,04;Y;
+Mosselbaai;SOUTH;corroded;WEST;1;Isopoda;Ischyromene huttoni;ISCHUT;22;162,5;N;
+Mosselbaai;SOUTH;corroded;WEST;1;Isopoda;Parisocladus perforatus;PARPER;6;45,1;N;
+Mosselbaai;SOUTH;corroded;WEST;1;Isopoda;Stenetrium sp.;STENET;1;NA;Y;too small for biomass
+Mosselbaai;SOUTH;corroded;WEST;1;Patellogastropoda;Helcion pruinosus;HELPRU;1;4,1;Y;
+Mosselbaai;SOUTH;corroded;WEST;1;Patellogastropoda;Scutellastra granularis;SCUGRA;4;189;N;
+Mosselbaai;SOUTH;corroded;WEST;1;Sedentaria;Thelepus sp.;THELEP;1;NA;N;too small for biomass
+Mosselbaai;SOUTH;corroded;WEST;1;Vetigastropoda;Oxystele antoni;OXYANT;5;56,4;N;
+Mosselbaai;SOUTH;corroded;WEST;1;Vetigastropoda;Oxystele impervia;OXYIMP;1;4,8;Y;
+Mosselbaai;SOUTH;corroded;WEST;2;Amphipoda;Paramoera capensis;PARCAP;47;18,2;N;
+Mosselbaai;SOUTH;corroded;WEST;2;Asteroidea;Parvulastra exigua;PAREXI;9;552,3;N;
+Mosselbaai;SOUTH;corroded;WEST;2;Bivalvia;Perna perna;PERPER;6;1,6;N;
+Mosselbaai;SOUTH;corroded;WEST;2;Errantia;Pseudonereis podocirra;PSEPOD;2;23,4;N;
+Mosselbaai;SOUTH;corroded;WEST;2;Brachyura;Cyclograpsus punctatus;CYCPUN;3;239,7;N;
+Mosselbaai;SOUTH;corroded;WEST;2;Heterobranchia;Siphonaria capensis;SIPCAP;1;39,2;Y;
+Mosselbaai;SOUTH;corroded;WEST;2;Heterobranchia;Siphonaria concinna;SIPCON;1;13,7;Y;
+Mosselbaai;SOUTH;corroded;WEST;2;Holothuroidea;Holothuroidea;HOLOTH;1;NA;Y;
+Mosselbaai;SOUTH;corroded;WEST;2;Isopoda;Ischyromene huttoni;ISCHUT;2;43,8;N;
+Mosselbaai;SOUTH;corroded;WEST;2;Isopoda;Parisocladus perforatus;PARPER;1;7,3;Y;
+Mosselbaai;SOUTH;corroded;WEST;2;Polyplacophora;Acanthochitona garnoti;ACAGAR;1;26,3;N;
+Mosselbaai;SOUTH;corroded;WEST;2;Vetigastropoda;Oxystele antoni;OXYANT;5;93,7;N;
+Mosselbaai;SOUTH;corroded;WEST;3;Amphipoda;Paramoera capensis;PARCAP;88;30,6;N;
+Mosselbaai;SOUTH;corroded;WEST;3;Asteroidea;Parvulastra exigua;PAREXI;10;1006,9;N;
+Mosselbaai;SOUTH;corroded;WEST;3;Bivalvia;Mytilus galloprovincialis;MYTGAL;5;6;N;
+Mosselbaai;SOUTH;corroded;WEST;3;Bivalvia;Perna perna;PERPER;38;123,3;N;
+Mosselbaai;SOUTH;corroded;WEST;3;Caenogastropoda;Mancinella capensis;MANCAP;6;24,1;Y;
+Mosselbaai;SOUTH;corroded;WEST;3;Brachyura;Cyclograpsus punctatus;CYCPUN;3;785,8;N;
+Mosselbaai;SOUTH;corroded;WEST;3;Isopoda;Cirolana cranchii;CIRCRA;1;2,1;Y;
+Mosselbaai;SOUTH;corroded;WEST;3;Isopoda;Parisocladus perforatus;PARPER;39;305,7;N;
+Mosselbaai;SOUTH;corroded;WEST;3;Patellogastropoda;Scutellastra granularis;SCUGRA;2;88,6;N;
+Mosselbaai;SOUTH;corroded;WEST;3;Polyplacophora;Acanthochitona garnoti;ACAGAR;1;421,7;N;
+Mosselbaai;SOUTH;corroded;WEST;3;Vetigastropoda;Oxystele antoni;OXYANT;7;169,9;N;
+Mosselbaai;SOUTH;corroded;WEST;4;Amphipoda;Paramoera capensis;PARCAP;84;67,7;N;
+Mosselbaai;SOUTH;corroded;WEST;4;Asteroidea;Parvulastra exigua;PAREXI;25;1683,1;N;
+Mosselbaai;SOUTH;corroded;WEST;4;Bivalvia;Perna perna;PERPER;16;76,6;Y;
+Mosselbaai;SOUTH;corroded;WEST;4;Caenogastropoda;Nucella dubia;NUCDUB;2;26,9;Y;
+Mosselbaai;SOUTH;corroded;WEST;4;Errantia;Lepidonotus clava;LEPCLA;2;69,9;N;
+Mosselbaai;SOUTH;corroded;WEST;4;Errantia;Pseudonereis podocirra;PSEPOD;1;62,1;N;
+Mosselbaai;SOUTH;corroded;WEST;4;Errantia;Scoletoma tetraura;SCOTET;1;NA;N;too small for biomass
+Mosselbaai;SOUTH;corroded;WEST;4;Errantia;Syllidae;SYLLID;1;NA;Y;too small for biomass
+Mosselbaai;SOUTH;corroded;WEST;4;Tanaidacea;Zeuxoides helleri;ZEUHEL;1;NA;Y;too small for biomass
+Mosselbaai;SOUTH;corroded;WEST;4;Insecta;Telmatogeton minor;TELMIN;1;0,3;N;ID - larvae
+Mosselbaai;SOUTH;corroded;WEST;4;Isopoda;Cirolana cranchii;CIRCRA;1;3,83;Y;
+Mosselbaai;SOUTH;corroded;WEST;4;Isopoda;Ischyromene huttoni;ISCHUT;2;24,7;N;
+Mosselbaai;SOUTH;corroded;WEST;4;Isopoda;Mesanthura catenula;MESCAT;1;0,4;N;
+Mosselbaai;SOUTH;corroded;WEST;4;Isopoda;Parisocladus perforatus;PARPER;28;75,5;Y;
+Mosselbaai;SOUTH;corroded;WEST;4;Ophiuroidea;Amphipholis squamata;AMPSQU;1;0,4;N;
+Mosselbaai;SOUTH;corroded;WEST;4;Patellogastropoda;Heliacus variegatus;HELVAR;6;NA;Y;
+Mosselbaai;SOUTH;corroded;WEST;4;Patellogastropoda;Scutellastra granularis;SCUGRA;4;186;N;
+Mosselbaai;SOUTH;corroded;WEST;4;Polyplacophora;Acanthochitona garnoti;ACAGAR;1;34,3;N;
+Mosselbaai;SOUTH;corroded;WEST;4;Vetigastropoda;Oxystele antoni;OXYANT;6;41,8;N;
+Old Woman's River;SOUTH;corroded;EAST;1;Amphipoda;Talorchestia sp.;TALORC;13;7,4;N;
+Old Woman's River;SOUTH;corroded;EAST;1;Bivalvia;Perna perna;PERPER;2;3,6;Y;
+Old Woman's River;SOUTH;corroded;EAST;1;Caenogastropoda;Burnupena lagenaria;BURLAG;1;28,8;N;
+Old Woman's River;SOUTH;corroded;EAST;1;Errantia;Pseudonereis podocirra;PSEPOD;2;27,6;N;
+Old Woman's River;SOUTH;corroded;EAST;1;Holothuroidea;Pentacta doliolum;PENDOL;1;1,5;Y;
+Old Woman's River;SOUTH;corroded;EAST;1;Insecta;Telmatogeton minor;TELMIN;1;0,4;N;ID - larvae
+Old Woman's River;SOUTH;corroded;EAST;1;Isopoda;Iais pubescens;IAIPUB;2;0,3;Y;
+Old Woman's River;SOUTH;corroded;EAST;1;Isopoda;Ischyromene huttoni;ISCHUT;42;549,8;N;
+Old Woman's River;SOUTH;corroded;EAST;1;Isopoda;Joeropsis stebbingi;JOESTE;1;0,3;Y;
+Old Woman's River;SOUTH;corroded;EAST;1;Isopoda;Parisocladus perforatus;PARPER;3;5,6;N;
+Old Woman's River;SOUTH;corroded;EAST;1;Patellogastropoda;Cymbula oculus;CYMOCU;1;66,5;N;
+Old Woman's River;SOUTH;corroded;EAST;1;Polyplacophora;Acanthochitona garnoti;ACAGAR;1;206,7;N;
+Old Woman's River;SOUTH;corroded;EAST;1;Vetigastropoda;Oxystele antoni;OXYANT;14;55,9;N;
+Old Woman's River;SOUTH;corroded;EAST;1;Vetigastropoda;Oxystele impervia;OXYIMP;1;1,8;N;
+Old Woman's River;SOUTH;corroded;EAST;2;Actiniaria;Actiniaria;ACTINI;1;14;N;
+Old Woman's River;SOUTH;corroded;EAST;2;Amphipoda;Talorchestia sp.;TALORC;14;1,4;N;
+Old Woman's River;SOUTH;corroded;EAST;2;Asteroidea;Parvulastra exigua;PAREXI;10;357,4;N;
+Old Woman's River;SOUTH;corroded;EAST;2;Caenogastropoda;Burnupena lagenaria;BURLAG;21;1290,1;N;
+Old Woman's River;SOUTH;corroded;EAST;2;Echinoidea;Parechinus angulosus;PARANG;5;669,1;N;
+Old Woman's River;SOUTH;corroded;EAST;2;Errantia;Lepidonotus durbanensis;LEPDUR;9;40,9;N;
+Old Woman's River;SOUTH;corroded;EAST;2;Errantia;Nereididae;NEREID;19;27,5;N;
+Old Woman's River;SOUTH;corroded;EAST;2;Errantia;Pseudonereis podocirra;PSEPOD;1;6,8;N;
+Old Woman's River;SOUTH;corroded;EAST;2;Errantia;Scoletoma tetraura;SCOTET;21;4,5;N;
+Old Woman's River;SOUTH;corroded;EAST;2;Errantia;Syllidae;SYLLID;13;2,21;N;
+Old Woman's River;SOUTH;corroded;EAST;2;Holothuroidea;Neostichopus grammatus;NEOGRA;1;NA;N;
+Old Woman's River;SOUTH;corroded;EAST;2;Isopoda;Sphaeramene polytylotos;SPHPOL;5;107,2;N;
+Old Woman's River;SOUTH;corroded;EAST;2;Ophiuroidea;Amphipholis squamata;AMPSQU;13;72,3;N;
+Old Woman's River;SOUTH;corroded;EAST;2;Patellogastropoda;Cymbula oculus;CYMOCU;2;275,5;N;
+Old Woman's River;SOUTH;corroded;EAST;2;Patellogastropoda;Helcion pruinosus;HELPRU;2;4,4;N;
+Old Woman's River;SOUTH;corroded;EAST;2;Platyhelminthes;Planocera gilchristi;PLAGIL;2;10,8;N;
+Old Woman's River;SOUTH;corroded;EAST;2;Polyplacophora;Acanthochitona garnoti;ACAGAR;1;2,6;N;
+Old Woman's River;SOUTH;corroded;EAST;2;Polyplacophora;Ischnochiton oniscus;ISCONI;1;16,8;N;
+Old Woman's River;SOUTH;corroded;EAST;2;Polyplacophora;Rhyssoplax polita;RHYPOL;1;496;N;
+Old Woman's River;SOUTH;corroded;EAST;2;Sedentaria;Gunnarea gaimardi;GUNGAI;1;12,8;N;
+Old Woman's River;SOUTH;corroded;EAST;2;Sedentaria;Thelepus sp.;THELEP;2;4,3;N;
+Old Woman's River;SOUTH;corroded;EAST;2;Sipunculida;Sipunculida;SIPUNC;8;NA;N;
+Old Woman's River;SOUTH;corroded;EAST;2;Vetigastropoda;Fissurella natalensis;FISNAT;12;135,3;N;
+Old Woman's River;SOUTH;corroded;EAST;2;Vetigastropoda;Gibbula cicer;GIBCIC;7;4,41;N;
+Old Woman's River;SOUTH;corroded;EAST;2;Vetigastropoda;Oxystele impervia;OXYIMP;1;0,8;N;
+Old Woman's River;SOUTH;corroded;EAST;2;Vetigastropoda;Tricolia kochii;TRIKOC;4;0,6;N;
+Old Woman's River;SOUTH;corroded;EAST;3;Amphipoda;Talorchestia sp.;TALORC;22;10,6;N;
+Old Woman's River;SOUTH;corroded;EAST;3;Asteroidea;Parvulastra exigua;PAREXI;1;37,1;N;
+Old Woman's River;SOUTH;corroded;EAST;3;Bivalvia;Perna perna;PERPER;5;26,1;N;
+Old Woman's River;SOUTH;corroded;EAST;3;Errantia;Pseudonereis podocirra;PSEPOD;3;243,9;N;
+Old Woman's River;SOUTH;corroded;EAST;3;Errantia;Syllidae;SYLLID;1;NA;N;too small for biomass
+Old Woman's River;SOUTH;corroded;EAST;3;Hirudinea;Hirudinea;HIRUDI;1;NA;Y;ID - no obvious sucker
+Old Woman's River;SOUTH;corroded;EAST;3;Isopoda;Iais pubescens;IAIPUB;2;NA;N;too small for biomass
+Old Woman's River;SOUTH;corroded;EAST;3;Isopoda;Ischyromene huttoni;ISCHUT;38;514;N;
+Old Woman's River;SOUTH;corroded;EAST;3;Isopoda;Parisocladus perforatus;PARPER;2;3,5;N;
+Old Woman's River;SOUTH;corroded;EAST;3;Patellogastropoda;Helcion pruinosus;HELPRU;1;1,5;N;
+Old Woman's River;SOUTH;corroded;EAST;3;Patellogastropoda;Scutellastra granularis;SCUGRA;1;67,2;N;
+Old Woman's River;SOUTH;corroded;EAST;3;Platyhelminthes;Planocera gilchristi;PLAGIL;1;1,7;N;
+Old Woman's River;SOUTH;corroded;EAST;3;Vetigastropoda;Oxystele antoni;OXYANT;42;488,3;N;
+Old Woman's River;SOUTH;corroded;EAST;3;Vetigastropoda;Tricolia capensis;TRICAP;1;9,4;N;
+Old Woman's River;SOUTH;corroded;EAST;4;Amphipoda;Paramoera capensis;PARCAP;8;4;N;
+Old Woman's River;SOUTH;corroded;EAST;4;Amphipoda;Talorchestia sp.;TALORC;25;9,5;N;
+Old Woman's River;SOUTH;corroded;EAST;4;Bivalvia;Perna perna;PERPER;2;15,4;N;
+Old Woman's River;SOUTH;corroded;EAST;4;Caenogastropoda;Burnupena lagenaria;BURLAG;2;172,5;N;
+Old Woman's River;SOUTH;corroded;EAST;4;Caenogastropoda;Crepidula porcellana;CREPOR;1;NA;N;too small for biomass
+Old Woman's River;SOUTH;corroded;EAST;4;Errantia;Nereididae;NEREID;1;2,34;N;
+Old Woman's River;SOUTH;corroded;EAST;4;Errantia;Scoletoma tetraura;SCOTET;1;NA;N;too small for biomass
+Old Woman's River;SOUTH;corroded;EAST;4;Isopoda;Iais pubescens;IAIPUB;52;2;N;
+Old Woman's River;SOUTH;corroded;EAST;4;Isopoda;Ischyromene huttoni;ISCHUT;182;3371,7;N;
+Old Woman's River;SOUTH;corroded;EAST;4;Isopoda;Isopoda;ISOPOD;NA;NA;N;
+Old Woman's River;SOUTH;corroded;EAST;4;Isopoda;Joeropsis stebbingi;JOESTE;3;1,14;N;ID - to check
+Old Woman's River;SOUTH;corroded;EAST;4;Patellogastropoda;Cymbula oculus;CYMOCU;2;221;N;
+Old Woman's River;SOUTH;corroded;EAST;4;Patellogastropoda;Scutellastra granularis;SCUGRA;1;4,8;N;
+Old Woman's River;SOUTH;corroded;EAST;4;Polyplacophora;Acanthochitona garnoti;ACAGAR;1;109,4;N;
+Old Woman's River;SOUTH;corroded;EAST;4;Sedentaria;Gunnarea gaimardi;GUNGAI;1;1,6;N;
+Old Woman's River;SOUTH;corroded;EAST;4;Sipunculida;Sipunculida;SIPUNC;1;NA;N;ID - to check
+Old Woman's River;SOUTH;corroded;EAST;4;Vetigastropoda;Oxystele antoni;OXYANT;7;87,8;N;
+Old Woman's River;SOUTH;corroded;WEST;1;Amphipoda;Talorchestia sp.;TALORC;17;11,7;N;
+Old Woman's River;SOUTH;corroded;WEST;1;Arachnida;Desis formidabilis;DESFOR;1;5,9;N;
+Old Woman's River;SOUTH;corroded;WEST;1;Asteroidea;Parvulastra exigua;PAREXI;3;309,2;N;
+Old Woman's River;SOUTH;corroded;WEST;1;Caenogastropoda;Burnupena lagenaria;BURLAG;7;242,1;N;
+Old Woman's River;SOUTH;corroded;WEST;1;Errantia;Nereididae;NEREID;6;14,04;N;
+Old Woman's River;SOUTH;corroded;WEST;1;Brachyura;Guinusia chabrus;GUICHA;4;182,2;N;
+Old Woman's River;SOUTH;corroded;WEST;1;Holothuroidea;Pseudocnella sykion;PSESYK;1;5,5;N;
+Old Woman's River;SOUTH;corroded;WEST;1;Isopoda;Ischyromene huttoni;ISCHUT;76;1592,4;N;
+Old Woman's River;SOUTH;corroded;WEST;1;Patellogastropoda;Cymbula granatina;CYMGRA;1;8,1;N;
+Old Woman's River;SOUTH;corroded;WEST;1;Patellogastropoda;Helcion pruinosus;HELPRU;4;7,7;N;
+Old Woman's River;SOUTH;corroded;WEST;1;Polyplacophora;Acanthochitona garnoti;ACAGAR;3;1366,3;N;
+Old Woman's River;SOUTH;corroded;WEST;1;Vetigastropoda;Gibbula cicer;GIBCIC;NA;NA;N;
+Old Woman's River;SOUTH;corroded;WEST;1;Vetigastropoda;Oxystele antoni;OXYANT;12;144,6;N;
+Old Woman's River;SOUTH;corroded;WEST;2;Actiniaria;Actiniaria;ACTINI;6;84;N;
+Old Woman's River;SOUTH;corroded;WEST;2;Amphipoda;Amphipoda;AMPHIP;2;0,7;N;ID - to check
+Old Woman's River;SOUTH;corroded;WEST;2;Amphipoda;Talorchestia sp.;TALORC;7;0,2;N;
+Old Woman's River;SOUTH;corroded;WEST;2;Asteroidea;Parvulastra exigua;PAREXI;15;959,7;N;
+Old Woman's River;SOUTH;corroded;WEST;2;Caenogastropoda;Burnupena lagenaria;BURLAG;12;440;N;
+Old Woman's River;SOUTH;corroded;WEST;2;Caenogastropoda;Nucella squamosa;NUCSQU;1;35,2;N;
+Old Woman's River;SOUTH;corroded;WEST;2;Echinoidea;Parechinus angulosus;PARANG;23;1490,1;N;
+Old Woman's River;SOUTH;corroded;WEST;2;Errantia;Arabella iricolor;ARAIRI;2;4,9;N;
+Old Woman's River;SOUTH;corroded;WEST;2;Errantia;Lepidonotus durbanensis;LEPDUR;4;15,4;N;
+Old Woman's River;SOUTH;corroded;WEST;2;Errantia;Nereididae;NEREID;30;67,6;N;
+Old Woman's River;SOUTH;corroded;WEST;2;Errantia;Pseudonereis podocirra;PSEPOD;5;36,9;N;
+Old Woman's River;SOUTH;corroded;WEST;2;Errantia;Scoletoma tetraura;SCOTET;11;3,1;N;
+Old Woman's River;SOUTH;corroded;WEST;2;Errantia;Syllidae;SYLLID;11;1,87;N;
+Old Woman's River;SOUTH;corroded;WEST;2;Brachyura;Guinusia chabrus;GUICHA;1;188,9;N;
+Old Woman's River;SOUTH;corroded;WEST;2;Holothuroidea;Holothuroidea;HOLOTH;3;NA;N;
+Old Woman's River;SOUTH;corroded;WEST;2;Isopoda;Ischyromene huttoni;ISCHUT;6;151,3;N;
+Old Woman's River;SOUTH;corroded;WEST;2;Isopoda;Isopoda;ISOPOD;3;3;N;
+Old Woman's River;SOUTH;corroded;WEST;2;Isopoda;Janira sp.;JANIRA;1;NA;N;too small for biomass
+Old Woman's River;SOUTH;corroded;WEST;2;Isopoda;Joeropsis stebbingi;JOESTE;2;0,76;N;
+Old Woman's River;SOUTH;corroded;WEST;2;Isopoda;Sphaeramene polytylotos;SPHPOL;1;20,5;N;
+Old Woman's River;SOUTH;corroded;WEST;2;Ophiuroidea;Amphipholis squamata;AMPSQU;13;33,5;N;
+Old Woman's River;SOUTH;corroded;WEST;2;Patellogastropoda;Cymbula oculus;CYMOCU;1;15;N;
+Old Woman's River;SOUTH;corroded;WEST;2;Patellogastropoda;Helcion pruinosus;HELPRU;5;37,1;N;
+Old Woman's River;SOUTH;corroded;WEST;2;Patellogastropoda;Heliacus variegatus;HELVAR;1;NA;N;too small for biomass
+Old Woman's River;SOUTH;corroded;WEST;2;Polyplacophora;Ischnochiton oniscus;ISCONI;1;4,4;N;
+Old Woman's River;SOUTH;corroded;WEST;2;Polyplacophora;Rhyssoplax polita;RHYPOL;1;25,7;N;
+Old Woman's River;SOUTH;corroded;WEST;2;Pycnogonida;Pycnogonidae;PYCNOG;2;NA;N;too small for biomass
+Old Woman's River;SOUTH;corroded;WEST;2;Sedentaria;Gunnarea gaimardi;GUNGAI;1;1,6;N;
+Old Woman's River;SOUTH;corroded;WEST;2;Sedentaria;Thelepus sp.;THELEP;1;6,9;N;
+Old Woman's River;SOUTH;corroded;WEST;2;Sipunculida;Sipunculida;SIPUNC;4;NA;N;ID - to check
+Old Woman's River;SOUTH;corroded;WEST;2;Vetigastropoda;Fissurella natalensis;FISNAT;4;5,9;N;
+Old Woman's River;SOUTH;corroded;WEST;2;Vetigastropoda;Gibbula cicer;GIBCIC;5;1;N;
+Old Woman's River;SOUTH;corroded;WEST;2;Vetigastropoda;Oxystele antoni;OXYANT;1;7,74;N;
+Old Woman's River;SOUTH;corroded;WEST;2;Vetigastropoda;Tricolia kochii;TRIKOC;3;NA;N;too small for biomass
+Old Woman's River;SOUTH;corroded;WEST;3;Amphipoda;Paramoera capensis;PARCAP;7;3;N;
+Old Woman's River;SOUTH;corroded;WEST;3;Amphipoda;Talorchestia sp.;TALORC;2;2,8;N;
+Old Woman's River;SOUTH;corroded;WEST;3;Asteroidea;Parvulastra exigua;PAREXI;2;125,22;N;
+Old Woman's River;SOUTH;corroded;WEST;3;Bivalvia;Perna perna;PERPER;4;35,9;N;
+Old Woman's River;SOUTH;corroded;WEST;3;Caenogastropoda;Nucella dubia;NUCDUB;3;63;N;
+Old Woman's River;SOUTH;corroded;WEST;3;Cirripedia;Tetraclita serrata;TETSER;1;21,6;N;
+Old Woman's River;SOUTH;corroded;WEST;3;Echinoidea;Parechinus angulosus;PARANG;1;1,6;N;
+Old Woman's River;SOUTH;corroded;WEST;3;Errantia;Pseudonereis podocirra;PSEPOD;12;568,8;N;
+Old Woman's River;SOUTH;corroded;WEST;3;Errantia;Scoletoma tetraura;SCOTET;4;NA;N;too small for biomass
+Old Woman's River;SOUTH;corroded;WEST;3;Brachyura;Guinusia chabrus;GUICHA;1;43,4;N;
+Old Woman's River;SOUTH;corroded;WEST;3;Hirudinea;Hirudinea;HIRUDI;1;NA;Y;ID - presence of sucker at one end
+Old Woman's River;SOUTH;corroded;WEST;3;Isopoda;Ischyromene huttoni;ISCHUT;28;428,7;N;
+Old Woman's River;SOUTH;corroded;WEST;3;Isopoda;Joeropsis stebbingi;JOESTE;2;0,5;Y;
+Old Woman's River;SOUTH;corroded;WEST;3;Patellogastropoda;Helcion pruinosus;HELPRU;5;16,2;N;
+Old Woman's River;SOUTH;corroded;WEST;3;Patellogastropoda;Scutellastra granularis;SCUGRA;3;165,8;N;
+Old Woman's River;SOUTH;corroded;WEST;3;Vetigastropoda;Gibbula cicer;GIBCIC;1;NA;Y;too small for biomass
+Old Woman's River;SOUTH;corroded;WEST;3;Vetigastropoda;Oxystele antoni;OXYANT;12;82,3;N;
+Old Woman's River;SOUTH;corroded;WEST;3;Vetigastropoda;Oxystele impervia;OXYIMP;2;4;N;
+Old Woman's River;SOUTH;corroded;WEST;3;Vetigastropoda;Tricolia capensis;TRICAP;1;NA;Y;too small for biomass
+Old Woman's River;SOUTH;corroded;WEST;4;Amphipoda;Paramoera capensis;PARCAP;10;4,4;N;
+Old Woman's River;SOUTH;corroded;WEST;4;Amphipoda;Talorchestia sp.;TALORC;17;3;N;
+Old Woman's River;SOUTH;corroded;WEST;4;Bivalvia;Perna perna;PERPER;8;82,6;N;
+Old Woman's River;SOUTH;corroded;WEST;4;Caenogastropoda;Burnupena lagenaria;BURLAG;1;28,02;N;
+Old Woman's River;SOUTH;corroded;WEST;4;Errantia;Nereididae;NEREID;10;63,7;N;
+Old Woman's River;SOUTH;corroded;WEST;4;Errantia;Pseudonereis podocirra;PSEPOD;2;513,9;N;
+Old Woman's River;SOUTH;corroded;WEST;4;Errantia;Syllidae;SYLLID;1;NA;N;too small for biomass
+Old Woman's River;SOUTH;corroded;WEST;4;Insecta;Telmatogeton minor;TELMIN;1;NA;N;too small for biomass
+Old Woman's River;SOUTH;corroded;WEST;4;Isopoda;Iais pubescens;IAIPUB;5;0,2;N;ID - to check
+Old Woman's River;SOUTH;corroded;WEST;4;Isopoda;Ischyromene huttoni;ISCHUT;24;551,5;N;
+Old Woman's River;SOUTH;corroded;WEST;4;Isopoda;Isopoda;ISOPOD;1;1;N;
+Old Woman's River;SOUTH;corroded;WEST;4;Isopoda;Joeropsis stebbingi;JOESTE;3;1,14;N;ID - to check
+Old Woman's River;SOUTH;corroded;WEST;4;Isopoda;Sphaeramene polytylotos;SPHPOL;1;8,9;N;
+Old Woman's River;SOUTH;corroded;WEST;4;Heterobranchia;Opisthobranchia;OPISTO;1;NA;N;ID - to check
+Old Woman's River;SOUTH;corroded;WEST;4;Patellogastropoda;Cymbula granatina;CYMGRA;1;37,3;N;
+Old Woman's River;SOUTH;corroded;WEST;4;Patellogastropoda;Cymbula oculus;CYMOCU;1;16,4;N;
+Old Woman's River;SOUTH;corroded;WEST;4;Patellogastropoda;Helcion pruinosus;HELPRU;3;0,5;N;
+Old Woman's River;SOUTH;corroded;WEST;4;Patellogastropoda;Scutellastra granularis;SCUGRA;6;226,5;N;
+Old Woman's River;SOUTH;corroded;WEST;4;Platyhelminthes;Notocomplana erythrotaenia;NOTERY;1;NA;N;too small for biomass
+Old Woman's River;SOUTH;corroded;WEST;4;Polyplacophora;Acanthochitona garnoti;ACAGAR;1;21;N;
+Old Woman's River;SOUTH;corroded;WEST;4;Sedentaria;Gunnarea gaimardi;GUNGAI;1;0,6;N;
+Old Woman's River;SOUTH;corroded;WEST;4;Sipunculida;Sipunculida;SIPUNC;2;NA;N;ID - to check
+Old Woman's River;SOUTH;corroded;WEST;4;Vetigastropoda;Oxystele antoni;OXYANT;3;8,8;N;
+Port Edward;EAST;corroded;EAST;1;Amphipoda;Amphipoda;AMPHIP;1;0,2;N;
+Port Edward;EAST;corroded;EAST;1;Bivalvia;Brachidontes variabilis;BRAVAR;1;0,3;Y;
+Port Edward;EAST;corroded;EAST;1;Patellogastropoda;Cellana capensis;CELCAP;2;2,7;N;
+Port Edward;EAST;corroded;EAST;1;Patellogastropoda;Cymbula sanguinans;CYMSAN;5;12,3;N;ID - not confident
+Port Edward;EAST;corroded;EAST;1;Vetigastropoda;Fissurella natalensis;FISNAT;3;32,4;N;
+Port Edward;EAST;corroded;EAST;1;Gastropoda;Gastropoda;GASTRO;4;29,5;N;4 limpet meat
+Port Edward;EAST;corroded;EAST;1;Vetigastropoda;Gibbula multicolor;GIBMUL;1;0,5;N;
+Port Edward;EAST;corroded;EAST;1;Patellogastropoda;Helcion concolor;HELCON;4;52,8;N;
+Port Edward;EAST;corroded;EAST;1;Patellogastropoda;Helcion pruinosus;HELPRU;7;9,2;N;
+Port Edward;EAST;corroded;EAST;1;Isopoda;Ischyromene huttoni;ISCHUT;8;14,2;N;
+Port Edward;EAST;corroded;EAST;1;Caenogastropoda;Nucella dubia;NUCDUB;1;0,3;N;
+Port Edward;EAST;corroded;EAST;1;Polyplacophora;Onitochiton literatus;ONILIT;4;364,2;Y;
+Port Edward;EAST;corroded;EAST;1;Vetigastropoda;Oxystele tabularis;OXYTAB;25;63,3;N;
+Port Edward;EAST;corroded;EAST;1;Bivalvia;Perna perna;PERPER;5;21,5;N;
+Port Edward;EAST;corroded;EAST;1;Holothuroidea;Pseudocnella sykion;PSESYK;1;41,15;N;
+Port Edward;EAST;corroded;EAST;1;Caenogastropoda;Purpura panama;PURPAN;1;48;Y;
+Port Edward;EAST;corroded;EAST;1;Patellogastropoda;Scutellastra granularis;SCUGRA;10;31,3;N;
+Port Edward;EAST;corroded;EAST;1;Cirripedia;Solidobalanus elizabethae;SOLELI;2;0,1;N;ID - not confident
+Port Edward;EAST;corroded;EAST;2;Actiniaria;Actiniaria;ACTINI;5;60,4;N;
+Port Edward;EAST;corroded;EAST;2;Caenogastropoda;Affrolittorina africana;AFRAFR;1;1,1;N;
+Port Edward;EAST;corroded;EAST;2;Amphipoda;Amphipoda;AMPHIP;1;0,5;N;
+Port Edward;EAST;corroded;EAST;2;Caenogastropoda;Burnupena lagenaria;BURLAG;3;8,7;N;
+Port Edward;EAST;corroded;EAST;2;Vetigastropoda;Fissurella natalensis;FISNAT;5;138,7;N;
+Port Edward;EAST;corroded;EAST;2;Gastropoda;Gastropoda;GASTRO;2;4,7;N;2 limpet meat
+Port Edward;EAST;corroded;EAST;2;Vetigastropoda;Gibbula multicolor;GIBMUL;2;1;N;
+Port Edward;EAST;corroded;EAST;2;Patellogastropoda;Helcion concolor;HELCON;2;10,1;N;
+Port Edward;EAST;corroded;EAST;2;Patellogastropoda;Helcion dunkeri;HELDUN;11;8,7;Y;
+Port Edward;EAST;corroded;EAST;2;Patellogastropoda;Helcion pruinosus;HELPRU;13;33,5;N;
+Port Edward;EAST;corroded;EAST;2;Isopoda;Ischyromene huttoni;ISCHUT;2;4,3;N;
+Port Edward;EAST;corroded;EAST;2;Brachyura;Metopograpsus messor;METMES;1;NA;Y;ID - not confident
+Port Edward;EAST;corroded;EAST;2;Polyplacophora;Onitochiton literatus;ONILIT;5;960,1;N;
+Port Edward;EAST;corroded;EAST;2;Vetigastropoda;Oxystele tabularis;OXYTAB;24;91,1;N;
+Port Edward;EAST;corroded;EAST;2;Amphipoda;Paramoera capensis;PARCAP;11;34,6;N;
+Port Edward;EAST;corroded;EAST;2;Bivalvia;Perna perna;PERPER;21;54,6;N;
+Port Edward;EAST;corroded;EAST;2;Holothuroidea;Pseudocnella sykion;PSESYK;1;41,15;Y;
+Port Edward;EAST;corroded;EAST;2;Errantia;Pseudonereis podocirra;PSEPOD;3;83,7;N;
+Port Edward;EAST;corroded;EAST;2;Patellogastropoda;Scutellastra granularis;SCUGRA;18;28,5;Y;
+Port Edward;EAST;corroded;EAST;2;Patellogastropoda;Scutellastra natalensis;SCUNAT;1;10,5;Y;
+Port Edward;EAST;corroded;EAST;2;Errantia;Syllidae;SYLLID;1;0,6;Y;
+Port Edward;EAST;corroded;EAST;2;Amphipoda;Talorchestia sp.;TALORC;3;4,6;N;
+Port Edward;EAST;corroded;EAST;3;Cirripedia;Chthamalus dentatus;CHTDEN;5;4,1;N;
+Port Edward;EAST;corroded;EAST;3;Vetigastropoda;Fissurella natalensis;FISNAT;1;246,4;N;
+Port Edward;EAST;corroded;EAST;3;Gastropoda;Gastropoda;GASTRO;1;7;N;1 limpet meat
+Port Edward;EAST;corroded;EAST;3;Patellogastropoda;Helcion concolor;HELCON;14;70,5;N;
+Port Edward;EAST;corroded;EAST;3;Patellogastropoda;Helcion dunkeri;HELDUN;10;21,3;N;
+Port Edward;EAST;corroded;EAST;3;Patellogastropoda;Helcion pruinosus;HELPRU;4;10,7;N;
+Port Edward;EAST;corroded;EAST;3;Isopoda;Ischyromene huttoni;ISCHUT;27;54,2;N;
+Port Edward;EAST;corroded;EAST;3;Cirripedia;Octomeris angulosa;OCTANG;3;2,8;N;
+Port Edward;EAST;corroded;EAST;3;Vetigastropoda;Oxystele tabularis;OXYTAB;10;65,3;N;
+Port Edward;EAST;corroded;EAST;3;Bivalvia;Perna perna;PERPER;12;37;N;
+Port Edward;EAST;corroded;EAST;3;Errantia;Pseudonereis podocirra;PSEPOD;1;3,4;N;
+Port Edward;EAST;corroded;EAST;3;Patellogastropoda;Scutellastra granularis;SCUGRA;1;25,05;N;
+Port Edward;EAST;corroded;EAST;3;Patellogastropoda;Scutellastra natalensis;SCUNAT;11;102;N;
+Port Edward;EAST;corroded;EAST;3;Patellogastropoda;Scutellastra obtecta;SCUOBT;4;11;Y;
+Port Edward;EAST;corroded;EAST;3;Amphipoda;Talorchestia sp.;TALORC;3;5,7;N;
+Port Edward;EAST;corroded;EAST;3;Cirripedia;Tetraclita serrata;TETSER;1;2,7;N;
+Old Woman's River;SOUTH;corroded;WEST;2;Insecta;Telmatogeton minor;TELMIN;1;NA;N;too small for biomass
+Brenton-on-Sea;SOUTH;non corroded;WEST;1;Actiniaria;Actiniaria;ACTINI;68;259,4;N;
+Brenton-on-Sea;SOUTH;non corroded;WEST;1;Amphipoda;Talorchestia sp.;TALORC;88;70,1;N;
+Brenton-on-Sea;SOUTH;non corroded;WEST;1;Bivalvia;Mytilus galloprovincialis;MYTGAL;269;3448,2;N;
+Brenton-on-Sea;SOUTH;non corroded;WEST;1;Bivalvia;Perna perna;PERPER;349;4645,8;N;
+Brenton-on-Sea;SOUTH;non corroded;WEST;1;Caenogastropoda;Burnupena lagenaria;BURLAG;14;137;N;
+Brenton-on-Sea;SOUTH;non corroded;WEST;1;Caenogastropoda;Nucella dubia;NUCDUB;1;2,2;N;
+Brenton-on-Sea;SOUTH;non corroded;WEST;1;Caenogastropoda;Nucella squamosa;NUCSQU;2;1,9;N;
+Brenton-on-Sea;SOUTH;non corroded;WEST;1;Echinoidea;Parechinus angulosus;PARANG;1;11,1;N;
+Brenton-on-Sea;SOUTH;non corroded;WEST;1;Errantia;Pseudonereis podocirra;PSEPOD;32;681,9;N;
+Brenton-on-Sea;SOUTH;non corroded;WEST;1;Errantia;Scoletoma tetraura;SCOTET;4;NA;N;too small for biomass
+Brenton-on-Sea;SOUTH;non corroded;WEST;1;Errantia;Syllidae;SYLLID;1;NA;N;too small for biomass
+Brenton-on-Sea;SOUTH;non corroded;WEST;1;Gastropoda;Gastropoda;GASTRO;2;1,2;N;2 limpet meat
+Brenton-on-Sea;SOUTH;non corroded;WEST;1;Heterobranchia;Siphonaria capensis;SIPCAP;1;1,9;N;
+Brenton-on-Sea;SOUTH;non corroded;WEST;1;Isopoda;Ischyromene huttoni;ISCHUT;15;116,7;N;
+Brenton-on-Sea;SOUTH;non corroded;WEST;1;Patellogastropoda;Scutellastra granularis;SCUGRA;6;229;N;
+Brenton-on-Sea;SOUTH;non corroded;WEST;1;Platyhelminthes;Notocomplana erythrotaenia;NOTERY;13;4,1;N;
+Brenton-on-Sea;SOUTH;non corroded;WEST;1;Platyhelminthes;Planocera gilchristi;PLAGIL;1;1,7;N;
+Brenton-on-Sea;SOUTH;non corroded;WEST;1;Polyplacophora;Acanthochitona garnoti;ACAGAR;5;143,7;N;
+Brenton-on-Sea;SOUTH;non corroded;WEST;1;Vetigastropoda;Fissurella mutabilis;FISMUT;1;14,5;N;
+Brenton-on-Sea;SOUTH;non corroded;WEST;1;Vetigastropoda;Oxystele antoni;OXYANT;21;44,9;N;
+Brenton-on-Sea;SOUTH;non corroded;WEST;1;Vetigastropoda;Tricolia neritina;TRINER;1;NA;N;too small for biomass
+Brenton-on-Sea;SOUTH;non corroded;WEST;2;Actiniaria;Actiniaria;ACTINI;33;214,5;N;
+Brenton-on-Sea;SOUTH;non corroded;WEST;2;Amphipoda;Talorchestia sp.;TALORC;120;105,4;N;
+Brenton-on-Sea;SOUTH;non corroded;WEST;2;Asteroidea;Parvulastra exigua;PAREXI;1;46,4;N;
+Brenton-on-Sea;SOUTH;non corroded;WEST;2;Bivalvia;Bivalvia;BIVALV;105;NA;N;
+Brenton-on-Sea;SOUTH;non corroded;WEST;2;Bivalvia;Choromytilus meridionalis;CHOMER;17;378,8;N;
+Brenton-on-Sea;SOUTH;non corroded;WEST;2;Bivalvia;Mytilus galloprovincialis;MYTGAL;78;888,1;N;
+Brenton-on-Sea;SOUTH;non corroded;WEST;2;Bivalvia;Perna perna;PERPER;99;1410,5;N;
+Brenton-on-Sea;SOUTH;non corroded;WEST;2;Caenogastropoda;Burnupena lagenaria;BURLAG;18;173,7;N;
+Brenton-on-Sea;SOUTH;non corroded;WEST;2;Caenogastropoda;Nucella squamosa;NUCSQU;1;5,01;N;
+Brenton-on-Sea;SOUTH;non corroded;WEST;2;Echinoidea;Parechinus angulosus;PARANG;1;7,6;N;
+Brenton-on-Sea;SOUTH;non corroded;WEST;2;Errantia;Nereididae;NEREID;2;4,68;N;
+Brenton-on-Sea;SOUTH;non corroded;WEST;2;Errantia;Pseudonereis podocirra;PSEPOD;6;179,8;N;
+Brenton-on-Sea;SOUTH;non corroded;WEST;2;Heterobranchia;Siphonaria capensis;SIPCAP;3;18,6;N;
+Brenton-on-Sea;SOUTH;non corroded;WEST;2;Insecta;Telmatogeton minor;TELMIN;1;0,4;N;
+Brenton-on-Sea;SOUTH;non corroded;WEST;2;Isopoda;Cirolana sp.;CIROLA;4;3,6;N;ID - to check
+Brenton-on-Sea;SOUTH;non corroded;WEST;2;Isopoda;Iais pubescens;IAIPUB;8;0,32;N;ID - to check
+Brenton-on-Sea;SOUTH;non corroded;WEST;2;Isopoda;Ischyromene huttoni;ISCHUT;44;888;N;
+Brenton-on-Sea;SOUTH;non corroded;WEST;2;Isopoda;Sphaeramene polytylotos;SPHPOL;13;162;N;
+Brenton-on-Sea;SOUTH;non corroded;WEST;2;Patellogastropoda;Scutellastra granularis;SCUGRA;7;300,2;N;
+Brenton-on-Sea;SOUTH;non corroded;WEST;2;Platyhelminthes;Notocomplana erythrotaenia;NOTERY;3;NA;N;too small for biomass
+Brenton-on-Sea;SOUTH;non corroded;WEST;2;Polyplacophora;Acanthochitona garnoti;ACAGAR;16;858,6;N;
+Brenton-on-Sea;SOUTH;non corroded;WEST;2;Vetigastropoda;Oxystele antoni;OXYANT;24;65,9;N;
+Brenton-on-Sea;SOUTH;non corroded;WEST;2;Vetigastropoda;Tricolia capensis;TRICAP;1;1,66;N;
+Brenton-on-Sea;SOUTH;non corroded;WEST;2;Vetigastropoda;Tricolia neritina;TRINER;2;0,24;N;
+Brenton-on-Sea;SOUTH;non corroded;WEST;3;Actiniaria;Actiniaria;ACTINI;36;706,1;N;
+Brenton-on-Sea;SOUTH;non corroded;WEST;3;Amphipoda;Talorchestia sp.;TALORC;48;44,5;N;
+Brenton-on-Sea;SOUTH;non corroded;WEST;3;Bivalvia;Mytilus galloprovincialis;MYTGAL;8;141,5;N;
+Brenton-on-Sea;SOUTH;non corroded;WEST;3;Bivalvia;Perna perna;PERPER;68;698,7;N;
+Brenton-on-Sea;SOUTH;non corroded;WEST;3;Bivalvia;Venerupis corrugata;VENCOR;2;9;Y;
+Brenton-on-Sea;SOUTH;non corroded;WEST;3;Caenogastropoda;Burnupena lagenaria;BURLAG;11;247,2;N;
+Brenton-on-Sea;SOUTH;non corroded;WEST;3;Errantia;Nereididae;NEREID;10;17,7;N;
+Brenton-on-Sea;SOUTH;non corroded;WEST;3;Errantia;Pseudonereis podocirra;PSEPOD;18;393,7;N;
+Brenton-on-Sea;SOUTH;non corroded;WEST;3;Errantia;Syllidae;SYLLID;2;0,34;N;
+Brenton-on-Sea;SOUTH;non corroded;WEST;3;Brachyura;Guinusia chabrus;GUICHA;1;64,3;N;
+Brenton-on-Sea;SOUTH;non corroded;WEST;3;Insecta;Telmatogeton minor;TELMIN;1;NA;N;too small for biomass
+Brenton-on-Sea;SOUTH;non corroded;WEST;3;Isopoda;Ischyromene huttoni;ISCHUT;23;478,6;N;
+Brenton-on-Sea;SOUTH;non corroded;WEST;3;Isopoda;Sphaeramene polytylotos;SPHPOL;14;174,1;N;
+Brenton-on-Sea;SOUTH;non corroded;WEST;3;Nemertea;Nemertea;NEMERT;2;NA;N;ID - to check
+Brenton-on-Sea;SOUTH;non corroded;WEST;3;Patellogastropoda;Scutellastra granularis;SCUGRA;5;288,5;N;
+Brenton-on-Sea;SOUTH;non corroded;WEST;3;Platyhelminthes;Notocomplana erythrotaenia;NOTERY;5;2,5;N;
+Brenton-on-Sea;SOUTH;non corroded;WEST;3;Vetigastropoda;Fissurella mutabilis;FISMUT;6;9,5;N;
+Brenton-on-Sea;SOUTH;non corroded;WEST;3;Vetigastropoda;Oxystele antoni;OXYANT;4;47;N;
+Brenton-on-Sea;SOUTH;non corroded;WEST;3;Vetigastropoda;Tricolia neritina;TRINER;6;0,4;N;
+Brenton-on-Sea;SOUTH;non corroded;WEST;4;Actiniaria;Actiniaria;ACTINI;50;1738,3;N;
+Brenton-on-Sea;SOUTH;non corroded;WEST;4;Amphipoda;Talorchestia sp.;TALORC;169;177,2;N;
+Brenton-on-Sea;SOUTH;non corroded;WEST;4;Bivalvia;Mytilus galloprovincialis;MYTGAL;93;536,4;N;
+Brenton-on-Sea;SOUTH;non corroded;WEST;4;Bivalvia;Perna perna;PERPER;394;4631,6;N;
+Brenton-on-Sea;SOUTH;non corroded;WEST;4;Caenogastropoda;Burnupena lagenaria;BURLAG;20;1106;N;
+Brenton-on-Sea;SOUTH;non corroded;WEST;4;Echinoidea;Parechinus angulosus;PARANG;6;84,2;N;
+Brenton-on-Sea;SOUTH;non corroded;WEST;4;Errantia;Nereididae;NEREID;8;18,72;N;
+Brenton-on-Sea;SOUTH;non corroded;WEST;4;Errantia;Pseudonereis podocirra;PSEPOD;22;490;N;
+Brenton-on-Sea;SOUTH;non corroded;WEST;4;Insecta;Telmatogeton minor;TELMIN;2;0,1;N;ID - larvae
+Brenton-on-Sea;SOUTH;non corroded;WEST;4;Isopoda;Ischyromene huttoni;ISCHUT;27;690,5;N;
+Brenton-on-Sea;SOUTH;non corroded;WEST;4;Isopoda;Sphaeramene polytylotos;SPHPOL;17;292,6;N;
+Brenton-on-Sea;SOUTH;non corroded;WEST;4;Nemertea;Nemertea;NEMERT;10;NA;N;ID - to check
+Brenton-on-Sea;SOUTH;non corroded;WEST;4;Patellogastropoda;Scutellastra granularis;SCUGRA;9;173,2;N;
+Brenton-on-Sea;SOUTH;non corroded;WEST;4;Platyhelminthes;Notocomplana erythrotaenia;NOTERY;1;0,4;N;
+Brenton-on-Sea;SOUTH;non corroded;WEST;4;Pycnogonida;Pycnogonidae;PYCNOG;3;NA;N;ID - to check
+Brenton-on-Sea;SOUTH;non corroded;WEST;4;Vetigastropoda;Fissurella mutabilis;FISMUT;6;72,8;N;
+Brenton-on-Sea;SOUTH;non corroded;WEST;4;Vetigastropoda;Oxystele antoni;OXYANT;11;47,6;N;
+Brenton-on-Sea;SOUTH;non corroded;WEST;4;Vetigastropoda;Tricolia capensis;TRICAP;1;1,66;N;
+Brenton-on-Sea;SOUTH;non corroded;WEST;4;Vetigastropoda;Tricolia neritina;TRINER;46;5,52;N;
+Jeffreysbaai;SOUTH;non corroded;WEST;1;Amphipoda;Talorchestia sp.;TALORC;16;9,9;N;
+Jeffreysbaai;SOUTH;non corroded;WEST;1;Bivalvia;Mytilus galloprovincialis;MYTGAL;26;112,3;N;
+Jeffreysbaai;SOUTH;non corroded;WEST;1;Bivalvia;Perna perna;PERPER;172;2829,4;N;
+Jeffreysbaai;SOUTH;non corroded;WEST;1;Caenogastropoda;Burnupena lagenaria;BURLAG;1;40;N;
+Jeffreysbaai;SOUTH;non corroded;WEST;1;Caenogastropoda;Nucella dubia;NUCDUB;27;525,3;N;
+Jeffreysbaai;SOUTH;non corroded;WEST;1;Caenogastropoda;Nucella squamosa;NUCSQU;2;1,1;N;
+Jeffreysbaai;SOUTH;non corroded;WEST;1;Errantia;Lepidonotus durbanensis;LEPDUR;1;5,9;N;
+Jeffreysbaai;SOUTH;non corroded;WEST;1;Brachyura;Cyclograpsus punctatus;CYCPUN;4;263,1;N;
+Jeffreysbaai;SOUTH;non corroded;WEST;1;Heterobranchia;Siphonaria concinna;SIPCON;4;38,3;N;
+Jeffreysbaai;SOUTH;non corroded;WEST;1;Isopoda;Cirolana cranchii;CIRCRA;9;24,4;N;ID - to check
+Jeffreysbaai;SOUTH;non corroded;WEST;1;Isopoda;Ischyromene huttoni;ISCHUT;67;1072,7;N;
+Jeffreysbaai;SOUTH;non corroded;WEST;1;Isopoda;Parisocladus perforatus;PARPER;33;217,9;N;
+Jeffreysbaai;SOUTH;non corroded;WEST;1;Patellogastropoda;Scutellastra granularis;SCUGRA;14;252,9;N;
+Jeffreysbaai;SOUTH;non corroded;WEST;1;Polyplacophora;Acanthochitona garnoti;ACAGAR;5;424,8;N;
+Jeffreysbaai;SOUTH;non corroded;WEST;1;Sedentaria;Orbinidae;ORBINI;1;NA;N;too small for biomass
+Jeffreysbaai;SOUTH;non corroded;WEST;1;Vetigastropoda;Oxystele antoni;OXYANT;5;87;N;
+Jeffreysbaai;SOUTH;non corroded;WEST;2;Amphipoda;Talorchestia sp.;TALORC;15;4,2;N;
+Jeffreysbaai;SOUTH;non corroded;WEST;2;Bivalvia;Mytilus galloprovincialis;MYTGAL;3;4,8;N;
+Jeffreysbaai;SOUTH;non corroded;WEST;2;Bivalvia;Perna perna;PERPER;39;131,4;N;
+Jeffreysbaai;SOUTH;non corroded;WEST;2;Caenogastropoda;Burnupena lagenaria;BURLAG;1;2;N;
+Jeffreysbaai;SOUTH;non corroded;WEST;2;Caenogastropoda;Nucella dubia;NUCDUB;2;8,6;N;
+Jeffreysbaai;SOUTH;non corroded;WEST;2;Errantia;Scoletoma tetraura;SCOTET;6;NA;N;too small for biomass
+Jeffreysbaai;SOUTH;non corroded;WEST;2;Errantia;Syllidae;SYLLID;8;1,36;N;
+Jeffreysbaai;SOUTH;non corroded;WEST;2;Tanaidacea;Zeuxoides helleri;ZEUHEL;1;NA;N;too small for biomass
+Jeffreysbaai;SOUTH;non corroded;WEST;2;Heterobranchia;Siphonaria concinna;SIPCON;7;11,1;N;
+Jeffreysbaai;SOUTH;non corroded;WEST;2;Isopoda;Ischyromene huttoni;ISCHUT;30;443,5;N;
+Jeffreysbaai;SOUTH;non corroded;WEST;2;Isopoda;Joeropsis stebbingi;JOESTE;1;NA;N;too small for biomass
+Jeffreysbaai;SOUTH;non corroded;WEST;2;Isopoda;Parisocladus perforatus;PARPER;19;23,6;N;
+Jeffreysbaai;SOUTH;non corroded;WEST;2;Nemertea;Nemertea;NEMERT;2;NA;N;ID - to check
+Jeffreysbaai;SOUTH;non corroded;WEST;2;Ophiuroidea;Amphipholis squamata;AMPSQU;1;7,4;N;
+Jeffreysbaai;SOUTH;non corroded;WEST;2;Patellogastropoda;Scutellastra granularis;SCUGRA;2;115;N;
+Jeffreysbaai;SOUTH;non corroded;WEST;2;Platyhelminthes;Notocomplana erythrotaenia;NOTERY;1;NA;N;too small for biomass
+Jeffreysbaai;SOUTH;non corroded;WEST;2;Platyhelminthes;Planocera gilchristi;PLAGIL;1;5;N;
+Jeffreysbaai;SOUTH;non corroded;WEST;2;Vetigastropoda;Gibbula cicer;GIBCIC;1;3,2;N;
+Jeffreysbaai;SOUTH;non corroded;WEST;2;Vetigastropoda;Oxystele antoni;OXYANT;26;79,5;N;
+Jeffreysbaai;SOUTH;non corroded;WEST;2;Vetigastropoda;Tricolia capensis;TRICAP;2;1,4;N;
+Jeffreysbaai;SOUTH;non corroded;WEST;2;Vetigastropoda;Tricolia neritina;TRINER;1;3,3;N;
+Jeffreysbaai;SOUTH;non corroded;WEST;3;Actiniaria;Actiniaria;ACTINI;10;43,8;N;
+Jeffreysbaai;SOUTH;non corroded;WEST;3;Amphipoda;Talorchestia sp.;TALORC;10;8,9;N;
+Jeffreysbaai;SOUTH;non corroded;WEST;3;Bivalvia;Mytilus galloprovincialis;MYTGAL;14;681,1;N;
+Jeffreysbaai;SOUTH;non corroded;WEST;3;Bivalvia;Perna perna;PERPER;95;2734;N;
+Jeffreysbaai;SOUTH;non corroded;WEST;3;Caenogastropoda;Burnupena lagenaria;BURLAG;12;194;N;
+Jeffreysbaai;SOUTH;non corroded;WEST;3;Caenogastropoda;Nucella dubia;NUCDUB;3;35,9;N;
+Jeffreysbaai;SOUTH;non corroded;WEST;3;Echinoidea;Parechinus angulosus;PARANG;7;18,4;N;
+Jeffreysbaai;SOUTH;non corroded;WEST;3;Errantia;Nereididae;NEREID;10;4;N;
+Jeffreysbaai;SOUTH;non corroded;WEST;3;Errantia;Phyllodocidae;PHYLLO;2;NA;N;too small for biomass
+Jeffreysbaai;SOUTH;non corroded;WEST;3;Errantia;Scoletoma tetraura;SCOTET;11;NA;N;too small for biomass
+Jeffreysbaai;SOUTH;non corroded;WEST;3;Errantia;Syllidae;SYLLID;3;NA;N;too small for biomass
+Jeffreysbaai;SOUTH;non corroded;WEST;3;Brachyura;Leucisca squalina;LEUSQU;1;NA;N;
+Jeffreysbaai;SOUTH;non corroded;WEST;3;Tanaidacea;Zeuxoides helleri;ZEUHEL;1;NA;N;too small for biomass
+Jeffreysbaai;SOUTH;non corroded;WEST;3;Heterobranchia;Siphonaria capensis;SIPCAP;1;2,4;N;
+Jeffreysbaai;SOUTH;non corroded;WEST;3;Holothuroidea;Pseudocnella sykion;PSESYK;1;76,8;N;
+Jeffreysbaai;SOUTH;non corroded;WEST;3;Insecta;Telmatogeton minor;TELMIN;1;0,4;N;ID - larvae
+Jeffreysbaai;SOUTH;non corroded;WEST;3;Isopoda;Cirolana cranchii;CIRCRA;2;13,9;N;
+Jeffreysbaai;SOUTH;non corroded;WEST;3;Isopoda;Exosphaeroma truncatitelson;EXOTRU;2;0,7;N;
+Jeffreysbaai;SOUTH;non corroded;WEST;3;Isopoda;Ischyromene huttoni;ISCHUT;134;2076,4;N;
+Jeffreysbaai;SOUTH;non corroded;WEST;3;Isopoda;Parisocladus perforatus;PARPER;1;10,7;N;
+Jeffreysbaai;SOUTH;non corroded;WEST;3;Ophiuroidea;Amphipholis squamata;AMPSQU;2;5;N;
+Jeffreysbaai;SOUTH;non corroded;WEST;3;Patellogastropoda;Cymbula oculus;CYMOCU;1;0,4;N;
+Jeffreysbaai;SOUTH;non corroded;WEST;3;Patellogastropoda;Scutellastra granularis;SCUGRA;3;67,2;N;
+Jeffreysbaai;SOUTH;non corroded;WEST;3;Polyplacophora;Acanthochitona garnoti;ACAGAR;9;516,1;N;
+Jeffreysbaai;SOUTH;non corroded;WEST;3;Pycnogonida;Tanystylum brevipes;TANBRE;1;NA;N;too small for biomass
+Jeffreysbaai;SOUTH;non corroded;WEST;3;Sedentaria;Orbinidae;ORBINI;1;NA;N;too small for biomass
+Jeffreysbaai;SOUTH;non corroded;WEST;3;Vetigastropoda;Fissurella mutabilis;FISMUT;2;6,4;N;
+Jeffreysbaai;SOUTH;non corroded;WEST;3;Vetigastropoda;Gibbula cicer;GIBCIC;1;0,1;N;
+Jeffreysbaai;SOUTH;non corroded;WEST;3;Vetigastropoda;Oxystele antoni;OXYANT;24;248,6;N;
+Jeffreysbaai;SOUTH;non corroded;WEST;3;Vetigastropoda;Tricolia kochii;TRIKOC;2;0,3;N;
+Mosselbaai;SOUTH;non corroded;WEST;1;Amphipoda;Paramoera capensis;PARCAP;75;65,6;N;
+Mosselbaai;SOUTH;non corroded;WEST;1;Arachnida;Desis formidabilis;DESFOR;2;4,2;N;
+Mosselbaai;SOUTH;non corroded;WEST;1;Asteroidea;Parvulastra exigua;PAREXI;4;169,5;N;
+Mosselbaai;SOUTH;non corroded;WEST;1;Bivalvia;Mytilus galloprovincialis;MYTGAL;1;20;N;
+Mosselbaai;SOUTH;non corroded;WEST;1;Bivalvia;Perna perna;PERPER;66;902,2;N;
+Mosselbaai;SOUTH;non corroded;WEST;1;Cirripedia;Cirripedia (juvenile);CIRJUV;5;1,5;N;ID - w/ 6 plates
+Mosselbaai;SOUTH;non corroded;WEST;1;Errantia;Pseudonereis podocirra;PSEPOD;4;138;N;
+Mosselbaai;SOUTH;non corroded;WEST;1;Isopoda;Cirolana venusticauda;CIRVEN;2;0,8;Y;
+Mosselbaai;SOUTH;non corroded;WEST;1;Isopoda;Exosphaeroma truncatitelson;EXOTRU;2;1,3;Y;
+Mosselbaai;SOUTH;non corroded;WEST;1;Isopoda;Iais pubescens;IAIPUB;2;NA;Y;too small for biomass
+Mosselbaai;SOUTH;non corroded;WEST;1;Isopoda;Ischyromene huttoni;ISCHUT;19;225,5;N;
+Mosselbaai;SOUTH;non corroded;WEST;1;Isopoda;Isopoda;ISOPOD;1;1;N;1 bit of isopod (Exosphaeroma)
+Mosselbaai;SOUTH;non corroded;WEST;1;Patellogastropoda;Scutellastra granularis;SCUGRA;1;30,4;N;
+Mosselbaai;SOUTH;non corroded;WEST;1;Pycnogonida;Nymphopsis cuspidata;NYMCUS;1;0,2;Y;
+Mosselbaai;SOUTH;non corroded;WEST;1;Vetigastropoda;Oxystele antoni;OXYANT;19;165,9;N;
+Mosselbaai;SOUTH;non corroded;WEST;2;Amphipoda;Paramoera capensis;PARCAP;29;18,8;N;
+Mosselbaai;SOUTH;non corroded;WEST;2;Asteroidea;Parvulastra exigua;PAREXI;4;362,8;N;
+Mosselbaai;SOUTH;non corroded;WEST;2;Bivalvia;Perna perna;PERPER;31;138,5;N;
+Mosselbaai;SOUTH;non corroded;WEST;2;Cirripedia;Chthamalus dentatus;CHTDEN;3;1;N;
+Mosselbaai;SOUTH;non corroded;WEST;2;Errantia;Pseudonereis podocirra;PSEPOD;1;15,2;N;
+Mosselbaai;SOUTH;non corroded;WEST;2;Heterobranchia;Siphonaria capensis;SIPCAP;2;73,2;N;
+Mosselbaai;SOUTH;non corroded;WEST;2;Patellogastropoda;Scutellastra granularis;SCUGRA;1;38,2;N;
+Mosselbaai;SOUTH;non corroded;WEST;2;Vetigastropoda;Oxystele antoni;OXYANT;6;233,4;N;
+Mosselbaai;SOUTH;non corroded;WEST;3;Amphipoda;Paramoera capensis;PARCAP;63;41,8;N;
+Mosselbaai;SOUTH;non corroded;WEST;3;Asteroidea;Parvulastra exigua;PAREXI;22;2543,3;N;
+Mosselbaai;SOUTH;non corroded;WEST;3;Bivalvia;Mytilus galloprovincialis;MYTGAL;7;86,3;N;
+Mosselbaai;SOUTH;non corroded;WEST;3;Bivalvia;Perna perna;PERPER;71;708,7;N;
+Mosselbaai;SOUTH;non corroded;WEST;3;Caenogastropoda;Nucella dubia;NUCDUB;9;53,6;Y;
+Mosselbaai;SOUTH;non corroded;WEST;3;Cirripedia;Chthamalus dentatus;CHTDEN;7;4,2;Y;
+Mosselbaai;SOUTH;non corroded;WEST;3;Cirripedia;Octomeris angulosa;OCTANG;1;0,98;N;
+Mosselbaai;SOUTH;non corroded;WEST;3;Errantia;Pseudonereis podocirra;PSEPOD;3;155,3;N;
+Mosselbaai;SOUTH;non corroded;WEST;3;Brachyura;Cyclograpsus punctatus;CYCPUN;4;50,8;N;biomass on 3 crabs
+Mosselbaai;SOUTH;non corroded;WEST;3;Gastropoda;Gastropoda;GASTRO;1;2,7;N;1 limpet meat
+Mosselbaai;SOUTH;non corroded;WEST;3;Heterobranchia;Siphonaria concinna;SIPCON;1;3,7;N;
+Mosselbaai;SOUTH;non corroded;WEST;3;Insecta;Telmatogeton minor;TELMIN;1;0,3;N;ID - larvae
+Mosselbaai;SOUTH;non corroded;WEST;3;Isopoda;Cirolana sp.;CIROLA;1;0,9;N;ID - no telson
+Mosselbaai;SOUTH;non corroded;WEST;3;Isopoda;Parisocladus perforatus;PARPER;4;20,5;Y;
+Mosselbaai;SOUTH;non corroded;WEST;3;Nemertea;Nemertea;NEMERT;1;NA;Y;ID - not confident
+Mosselbaai;SOUTH;non corroded;WEST;3;Patellogastropoda;Helcion pruinosus;HELPRU;2;11,4;N;
+Mosselbaai;SOUTH;non corroded;WEST;3;Vetigastropoda;Oxystele antoni;OXYANT;5;116,3;N;
+Mosselbaai;SOUTH;non corroded;WEST;4;Actiniaria;Actiniaria;ACTINI;2;105,2;N;
+Mosselbaai;SOUTH;non corroded;WEST;4;Amphipoda;Paramoera capensis;PARCAP;26;22,7;N;
+Mosselbaai;SOUTH;non corroded;WEST;4;Arachnida;Desis formidabilis;DESFOR;1;2,2;N;
+Mosselbaai;SOUTH;non corroded;WEST;4;Asteroidea;Parvulastra exigua;PAREXI;23;838,1;N;
+Mosselbaai;SOUTH;non corroded;WEST;4;Bivalvia;Mytilus galloprovincialis;MYTGAL;5;118,6;N;
+Mosselbaai;SOUTH;non corroded;WEST;4;Bivalvia;Perna perna;PERPER;30;979;N;
+Mosselbaai;SOUTH;non corroded;WEST;4;Caenogastropoda;Nucella dubia;NUCDUB;6;43,4;N;
+Mosselbaai;SOUTH;non corroded;WEST;4;Echinoidea;Parechinus angulosus;PARANG;1;2;N;
+Mosselbaai;SOUTH;non corroded;WEST;4;Errantia;Errantia;ERRANT;12;5,2;N;12 bits of polychaete
+Mosselbaai;SOUTH;non corroded;WEST;4;Errantia;Phyllodocidae;PHYLLO;4;16,9;N;
+Mosselbaai;SOUTH;non corroded;WEST;4;Errantia;Pseudonereis podocirra;PSEPOD;4;210,6;N;
+Mosselbaai;SOUTH;non corroded;WEST;4;Errantia;Syllidae;SYLLID;2;0,5;N;
+Mosselbaai;SOUTH;non corroded;WEST;4;Isopoda;Cirolana hirtipes;CIRHIR;10;20,8;N;ID - check
+Mosselbaai;SOUTH;non corroded;WEST;4;Isopoda;Exosphaeroma truncatitelson;EXOTRU;4;3,2;Y;
+Mosselbaai;SOUTH;non corroded;WEST;4;Isopoda;Ischyromene huttoni;ISCHUT;1;10;N;
+Mosselbaai;SOUTH;non corroded;WEST;4;Isopoda;Isopoda;ISOPOD;1;1;N;ID - Isopoda A
+Mosselbaai;SOUTH;non corroded;WEST;4;Isopoda;Mesanthura catenula;MESCAT;2;1,6;N;
+Mosselbaai;SOUTH;non corroded;WEST;4;Isopoda;Parisocladus perforatus;PARPER;42;130,6;Y;
+Mosselbaai;SOUTH;non corroded;WEST;4;Nemertea;Nemertea;NEMERT;2;NA;Y;ID - not confident
+Mosselbaai;SOUTH;non corroded;WEST;4;Ophiuroidea;Amphipholis squamata;AMPSQU;1;2;N;
+Mosselbaai;SOUTH;non corroded;WEST;4;Patellogastropoda;Scutellastra granularis;SCUGRA;5;134,5;N;
+Mosselbaai;SOUTH;non corroded;WEST;4;Platyhelminthes;Notocomplana erythrotaenia;NOTERY;2;0,8;N;
+Mosselbaai;SOUTH;non corroded;WEST;4;Polyplacophora;Acanthochitona garnoti;ACAGAR;1;15,7;N;
+Mosselbaai;SOUTH;non corroded;WEST;4;Polyplacophora;Ischnochiton oniscus;ISCONI;1;17,2;N;
+Mosselbaai;SOUTH;non corroded;WEST;4;Vetigastropoda;Oxystele antoni;OXYANT;10;56;N;
+Mosselbaai;SOUTH;non corroded;WEST;4;Vetigastropoda;Turbo cidaris cidaris;TURCID;1;14,1;Y;
+Old Woman's River;SOUTH;non corroded;EAST;1;Amphipoda;Talorchestia sp.;TALORC;8;5,6;N;
+Old Woman's River;SOUTH;non corroded;EAST;1;Asteroidea;Parvulastra exigua;PAREXI;12;832,9;N;
+Old Woman's River;SOUTH;non corroded;EAST;1;Caenogastropoda;Burnupena lagenaria;BURLAG;5;160,9;N;
+Old Woman's River;SOUTH;non corroded;EAST;1;Errantia;Nereididae;NEREID;22;10,1;N;
+Old Woman's River;SOUTH;non corroded;EAST;1;Errantia;Pseudonereis podocirra;PSEPOD;1;167,9;N;
+Old Woman's River;SOUTH;non corroded;EAST;1;Errantia;Syllidae;SYLLID;1;0,17;N;
+Old Woman's River;SOUTH;non corroded;EAST;1;Brachyura;Guinusia chabrus;GUICHA;2;218,7;N;
+Old Woman's River;SOUTH;non corroded;EAST;1;Insecta;Telmatogeton minor;TELMIN;1;0,8;N;ID - larvae
+Old Woman's River;SOUTH;non corroded;EAST;1;Isopoda;Iais pubescens;IAIPUB;2;0,08;N;
+Old Woman's River;SOUTH;non corroded;EAST;1;Isopoda;Ischyromene huttoni;ISCHUT;44;840,6;N;
+Old Woman's River;SOUTH;non corroded;EAST;1;Isopoda;Sphaeramene polytylotos;SPHPOL;3;55;N;
+Old Woman's River;SOUTH;non corroded;EAST;1;Patellogastropoda;Cymbula granatina;CYMGRA;1;34,5;N;
+Old Woman's River;SOUTH;non corroded;EAST;1;Patellogastropoda;Helcion pruinosus;HELPRU;2;1,3;N;
+Old Woman's River;SOUTH;non corroded;EAST;1;Polyplacophora;Acanthochitona garnoti;ACAGAR;1;382,8;N;
+Old Woman's River;SOUTH;non corroded;EAST;1;Sipunculida;Sipunculida;SIPUNC;3;NA;N;ID - to check
+Old Woman's River;SOUTH;non corroded;EAST;1;Vetigastropoda;Oxystele antoni;OXYANT;18;163,6;N;
+Old Woman's River;SOUTH;non corroded;EAST;2;Actiniaria;Actiniaria;ACTINI;2;4,6;N;
+Old Woman's River;SOUTH;non corroded;EAST;2;Amphipoda;Talorchestia sp.;TALORC;9;1,5;N;
+Old Woman's River;SOUTH;non corroded;EAST;2;Asteroidea;Parvulastra exigua;PAREXI;10;183,1;N;
+Old Woman's River;SOUTH;non corroded;EAST;2;Bivalvia;Perna perna;PERPER;3;13,4;N;
+Old Woman's River;SOUTH;non corroded;EAST;2;Caenogastropoda;Burnupena lagenaria;BURLAG;7;160,6;N;
+Old Woman's River;SOUTH;non corroded;EAST;2;Echinoidea;Parechinus angulosus;PARANG;10;1223,5;N;
+Old Woman's River;SOUTH;non corroded;EAST;2;Errantia;Arabella iricolor;ARAIRI;4;6,6;N;
+Old Woman's River;SOUTH;non corroded;EAST;2;Errantia;Errantia;ERRANT;5;174,2;N;ID - to check
+Old Woman's River;SOUTH;non corroded;EAST;2;Errantia;Lepidonotus durbanensis;LEPDUR;2;9,1;N;
+Old Woman's River;SOUTH;non corroded;EAST;2;Errantia;Nereididae;NEREID;32;69,5;N;
+Old Woman's River;SOUTH;non corroded;EAST;2;Errantia;Phyllodocidae;PHYLLO;1;NA;N;too small for biomass
+Old Woman's River;SOUTH;non corroded;EAST;2;Errantia;Scoletoma tetraura;SCOTET;11;2,1;N;
+Old Woman's River;SOUTH;non corroded;EAST;2;Errantia;Syllidae;SYLLID;7;1,19;N;
+Old Woman's River;SOUTH;non corroded;EAST;2;Brachyura;Guinusia chabrus;GUICHA;1;46,3;N;
+Old Woman's River;SOUTH;non corroded;EAST;2;Holothuroidea;Holothuroidea;HOLOTH;1;NA;N;ID - to check
+Old Woman's River;SOUTH;non corroded;EAST;2;Isopoda;Isopoda;ISOPOD;1;1;N;ID - to check
+Old Woman's River;SOUTH;non corroded;EAST;2;Isopoda;Mesanthura catenula;MESCAT;1;0,6;N;
+Old Woman's River;SOUTH;non corroded;EAST;2;Isopoda;Sphaeramene polytylotos;SPHPOL;1;11,5;N;
+Old Woman's River;SOUTH;non corroded;EAST;2;Ophiuroidea;Amphipholis squamata;AMPSQU;20;93,1;N;
+Old Woman's River;SOUTH;non corroded;EAST;2;Osteichthyes;Clinus sp.;CLINUS;1;NA;N;ID - to check
+Old Woman's River;SOUTH;non corroded;EAST;2;Patellogastropoda;Cymbula oculus;CYMOCU;1;54,1;N;
+Old Woman's River;SOUTH;non corroded;EAST;2;Patellogastropoda;Helcion pruinosus;HELPRU;4;12;N;
+Old Woman's River;SOUTH;non corroded;EAST;2;Platyhelminthes;Notocomplana erythrotaenia;NOTERY;1;1,5;N;
+Old Woman's River;SOUTH;non corroded;EAST;2;Platyhelminthes;Plathyhelminthe;PLATYH;1;NA;N;too small for biomass
+Old Woman's River;SOUTH;non corroded;EAST;2;Polyplacophora;Acanthochitona garnoti;ACAGAR;1;200,7;N;
+Old Woman's River;SOUTH;non corroded;EAST;2;Sedentaria;Gunnarea gaimardi;GUNGAI;1;12,6;N;
+Old Woman's River;SOUTH;non corroded;EAST;2;Sipunculida;Sipunculida;SIPUNC;8;NA;N;ID - to check
+Old Woman's River;SOUTH;non corroded;EAST;2;Vetigastropoda;Fissurella natalensis;FISNAT;8;92,4;N;
+Old Woman's River;SOUTH;non corroded;EAST;2;Vetigastropoda;Gibbula cicer;GIBCIC;7;4,6;N;
+Old Woman's River;SOUTH;non corroded;EAST;2;Vetigastropoda;Oxystele antoni;OXYANT;1;7,74;N;
+Old Woman's River;SOUTH;non corroded;EAST;2;Vetigastropoda;Tricolia capensis;TRICAP;2;3,32;N;
+Old Woman's River;SOUTH;non corroded;EAST;2;Vetigastropoda;Tricolia kochii;TRIKOC;9;1,35;N;
+Old Woman's River;SOUTH;non corroded;EAST;3;Actiniaria;Actiniaria;ACTINI;3;0,9;N;
+Old Woman's River;SOUTH;non corroded;EAST;3;Amphipoda;Paramoera capensis;PARCAP;2;0,3;N;
+Old Woman's River;SOUTH;non corroded;EAST;3;Amphipoda;Talorchestia sp.;TALORC;6;1;N;
+Old Woman's River;SOUTH;non corroded;EAST;3;Asteroidea;Parvulastra exigua;PAREXI;4;52,2;N;
+Old Woman's River;SOUTH;non corroded;EAST;3;Bivalvia;Perna perna;PERPER;2;30;N;
+Old Woman's River;SOUTH;non corroded;EAST;3;Caenogastropoda;Burnupena lagenaria;BURLAG;1;20,9;N;
+Old Woman's River;SOUTH;non corroded;EAST;3;Caenogastropoda;Nucella squamosa;NUCSQU;1;5,01;N;
+Old Woman's River;SOUTH;non corroded;EAST;3;Echinoidea;Parechinus angulosus;PARANG;1;1,8;N;
+Old Woman's River;SOUTH;non corroded;EAST;3;Errantia;Nereididae;NEREID;3;7,02;N;
+Old Woman's River;SOUTH;non corroded;EAST;3;Errantia;Pseudonereis podocirra;PSEPOD;2;168,4;N;
+Old Woman's River;SOUTH;non corroded;EAST;3;Errantia;Scoletoma tetraura;SCOTET;3;NA;N;too small for biomass
+Old Woman's River;SOUTH;non corroded;EAST;3;Errantia;Syllidae;SYLLID;2;0,34;N;
+Old Woman's River;SOUTH;non corroded;EAST;3;Heterobranchia;Siphonaria serrata;SIPSER;1;4,1;N;ID - to check
+Old Woman's River;SOUTH;non corroded;EAST;3;Isopoda;Cirolana sp.;CIROLA;2;1,8;N;
+Old Woman's River;SOUTH;non corroded;EAST;3;Isopoda;Iais pubescens;IAIPUB;11;0,44;N;ID - to check
+Old Woman's River;SOUTH;non corroded;EAST;3;Isopoda;Ischyromene huttoni;ISCHUT;71;1495,2;N;
+Old Woman's River;SOUTH;non corroded;EAST;3;Isopoda;Isopoda;ISOPOD;6;6;N;ID - to check
+Old Woman's River;SOUTH;non corroded;EAST;3;Isopoda;Parisocladus perforatus;PARPER;1;0,5;N;
+Old Woman's River;SOUTH;non corroded;EAST;3;Isopoda;Sphaeramene polytylotos;SPHPOL;1;22,9;N;
+Old Woman's River;SOUTH;non corroded;EAST;3;Nemertea;Cerebratulus fuscus;CERFUS;1;NA;N;ID - to check
+Old Woman's River;SOUTH;non corroded;EAST;3;Ophiuroidea;Amphipholis squamata;AMPSQU;1;3,6;N;
+Old Woman's River;SOUTH;non corroded;EAST;3;Patellogastropoda;Cymbula oculus;CYMOCU;1;44,5;N;
+Old Woman's River;SOUTH;non corroded;EAST;3;Patellogastropoda;Helcion pruinosus;HELPRU;1;0,2;N;
+Old Woman's River;SOUTH;non corroded;EAST;3;Patellogastropoda;Scutellastra granularis;SCUGRA;2;103,2;N;
+Old Woman's River;SOUTH;non corroded;EAST;3;Platyhelminthes;Planocera gilchristi;PLAGIL;1;9,7;N;
+Old Woman's River;SOUTH;non corroded;EAST;3;Polyplacophora;Acanthochitona garnoti;ACAGAR;1;34,7;N;
+Old Woman's River;SOUTH;non corroded;EAST;3;Sipunculida;Sipunculida;SIPUNC;1;NA;N;ID - to check
+Old Woman's River;SOUTH;non corroded;EAST;3;Vetigastropoda;Gibbula cicer;GIBCIC;4;2,52;N;
+Old Woman's River;SOUTH;non corroded;EAST;3;Vetigastropoda;Oxystele antoni;OXYANT;14;90,5;N;
+Old Woman's River;SOUTH;non corroded;EAST;3;Vetigastropoda;Oxystele impervia;OXYIMP;1;4;N;
+Old Woman's River;SOUTH;non corroded;EAST;3;Vetigastropoda;Oxystele tabularis;OXYTAB;1;4,66;N;
+Old Woman's River;SOUTH;non corroded;EAST;3;Vetigastropoda;Tricolia kochii;TRIKOC;2;0,3;N;
+Old Woman's River;SOUTH;non corroded;EAST;4;Actiniaria;Actiniaria;ACTINI;1;29,4;N;
+Old Woman's River;SOUTH;non corroded;EAST;4;Amphipoda;Talorchestia sp.;TALORC;4;0,4;N;
+Old Woman's River;SOUTH;non corroded;EAST;4;Arachnida;Desis formidabilis;DESFOR;1;11;N;
+Old Woman's River;SOUTH;non corroded;EAST;4;Asteroidea;Parvulastra exigua;PAREXI;6;277,9;N;
+Old Woman's River;SOUTH;non corroded;EAST;4;Bivalvia;Perna perna;PERPER;7;54,9;N;
+Old Woman's River;SOUTH;non corroded;EAST;4;Caenogastropoda;Burnupena lagenaria;BURLAG;1;28,02;N;
+Old Woman's River;SOUTH;non corroded;EAST;4;Cirripedia;Chthamalus dentatus;CHTDEN;1;0,4;N;
+Old Woman's River;SOUTH;non corroded;EAST;4;Cirripedia;Tetraclita serrata;TETSER;1;0,2;N;
+Old Woman's River;SOUTH;non corroded;EAST;4;Errantia;Nereididae;NEREID;15;19;N;
+Old Woman's River;SOUTH;non corroded;EAST;4;Errantia;Pseudonereis podocirra;PSEPOD;10;358,4;N;
+Old Woman's River;SOUTH;non corroded;EAST;4;Errantia;Scoletoma tetraura;SCOTET;4;0,1;N;
+Old Woman's River;SOUTH;non corroded;EAST;4;Tanaidacea;Zeuxoides helleri;ZEUHEL;1;NA;N;too small for biomass
+Old Woman's River;SOUTH;non corroded;EAST;4;Isopoda;Iais pubescens;IAIPUB;1;NA;N;too small for biomass
+Old Woman's River;SOUTH;non corroded;EAST;4;Isopoda;Ischyromene huttoni;ISCHUT;12;130,9;N;
+Old Woman's River;SOUTH;non corroded;EAST;4;Isopoda;Joeropsis stebbingi;JOESTE;1;1,5;Y;
+Old Woman's River;SOUTH;non corroded;EAST;4;Nemertea;Nemertea;NEMERT;5;NA;N;ID - to check
+Old Woman's River;SOUTH;non corroded;EAST;4;Ophiuroidea;Amphipholis squamata;AMPSQU;2;0,9;N;
+Old Woman's River;SOUTH;non corroded;EAST;4;Patellogastropoda;Cymbula granatina;CYMGRA;1;180,8;N;
+Old Woman's River;SOUTH;non corroded;EAST;4;Patellogastropoda;Cymbula oculus;CYMOCU;1;0,7;N;
+Old Woman's River;SOUTH;non corroded;EAST;4;Patellogastropoda;Helcion pruinosus;HELPRU;4;4,8;N;
+Old Woman's River;SOUTH;non corroded;EAST;4;Patellogastropoda;Scutellastra granularis;SCUGRA;4;99,4;N;
+Old Woman's River;SOUTH;non corroded;EAST;4;Platyhelminthes;Notocomplana erythrotaenia;NOTERY;2;1,5;N;
+Old Woman's River;SOUTH;non corroded;EAST;4;Platyhelminthes;Planocera gilchristi;PLAGIL;1;15,8;N;
+Old Woman's River;SOUTH;non corroded;EAST;4;Polyplacophora;Acanthochitona garnoti;ACAGAR;2;48;N;
+Old Woman's River;SOUTH;non corroded;EAST;4;Vetigastropoda;Oxystele antoni;OXYANT;4;27,4;N;
+Old Woman's River;SOUTH;non corroded;WEST;1;Actiniaria;Actiniaria;ACTINI;1;14;N;
+Old Woman's River;SOUTH;non corroded;WEST;1;Amphipoda;Amphipoda;AMPHIP;1;0,35;N;
+Old Woman's River;SOUTH;non corroded;WEST;1;Amphipoda;Talorchestia sp.;TALORC;15;9,2;N;
+Old Woman's River;SOUTH;non corroded;WEST;1;Arachnida;Desis formidabilis;DESFOR;1;22,4;N;
+Old Woman's River;SOUTH;non corroded;WEST;1;Asteroidea;Parvulastra exigua;PAREXI;8;422;N;
+Old Woman's River;SOUTH;non corroded;WEST;1;Bivalvia;Perna perna;PERPER;1;23,7;N;
+Old Woman's River;SOUTH;non corroded;WEST;1;Caenogastropoda;Burnupena lagenaria;BURLAG;2;18,2;N;
+Old Woman's River;SOUTH;non corroded;WEST;1;Caenogastropoda;Nucella dubia;NUCDUB;2;7;N;
+Old Woman's River;SOUTH;non corroded;WEST;1;Errantia;Lepidonotus durbanensis;LEPDUR;1;0,9;N;
+Old Woman's River;SOUTH;non corroded;WEST;1;Errantia;Nereididae;NEREID;8;9,1;N;
+Old Woman's River;SOUTH;non corroded;WEST;1;Errantia;Pseudonereis podocirra;PSEPOD;4;593,1;N;
+Old Woman's River;SOUTH;non corroded;WEST;1;Errantia;Syllidae;SYLLID;1;0,17;N;
+Old Woman's River;SOUTH;non corroded;WEST;1;Brachyura;Guinusia chabrus;GUICHA;2;228,5;N;
+Old Woman's River;SOUTH;non corroded;WEST;1;Isopoda;Cirolana cranchii;CIRCRA;2;7,66;N;
+Old Woman's River;SOUTH;non corroded;WEST;1;Isopoda;Iais pubescens;IAIPUB;4;0,16;N;
+Old Woman's River;SOUTH;non corroded;WEST;1;Isopoda;Ischyromene huttoni;ISCHUT;30;222,8;N;
+Old Woman's River;SOUTH;non corroded;WEST;1;Isopoda;Joeropsis stebbingi;JOESTE;2;0,76;N;
+Old Woman's River;SOUTH;non corroded;WEST;1;Isopoda;Parisocladus perforatus;PARPER;1;3,9;N;
+Old Woman's River;SOUTH;non corroded;WEST;1;Isopoda;Sphaeramene polytylotos;SPHPOL;1;14,9;N;
+Old Woman's River;SOUTH;non corroded;WEST;1;Ophiuroidea;Amphipholis squamata;AMPSQU;1;1,6;N;
+Old Woman's River;SOUTH;non corroded;WEST;1;Patellogastropoda;Cymbula granatina;CYMGRA;1;6,8;N;
+Old Woman's River;SOUTH;non corroded;WEST;1;Patellogastropoda;Cymbula oculus;CYMOCU;2;44;N;
+Old Woman's River;SOUTH;non corroded;WEST;1;Patellogastropoda;Helcion pruinosus;HELPRU;10;4,9;N;
+Old Woman's River;SOUTH;non corroded;WEST;1;Patellogastropoda;Scutellastra granularis;SCUGRA;3;115,4;N;
+Old Woman's River;SOUTH;non corroded;WEST;1;Platyhelminthes;Notocomplana erythrotaenia;NOTERY;2;1;N;
+Old Woman's River;SOUTH;non corroded;WEST;1;Sipunculida;Sipunculida;SIPUNC;3;NA;N;ID - to check
+Old Woman's River;SOUTH;non corroded;WEST;1;Vetigastropoda;Oxystele antoni;OXYANT;17;168,4;N;
+Old Woman's River;SOUTH;non corroded;WEST;1;Vetigastropoda;Oxystele impervia;OXYIMP;1;8;N;
+Old Woman's River;SOUTH;non corroded;WEST;2;Actiniaria;Actiniaria;ACTINI;1;14;N;ID - to check
+Old Woman's River;SOUTH;non corroded;WEST;2;Amphipoda;Amphipoda;AMPHIP;3;1,05;N;ID - to check
+Old Woman's River;SOUTH;non corroded;WEST;2;Amphipoda;Talorchestia sp.;TALORC;5;0,7;N;
+Old Woman's River;SOUTH;non corroded;WEST;2;Asteroidea;Parvulastra exigua;PAREXI;14;885,4;N;
+Old Woman's River;SOUTH;non corroded;WEST;2;Caenogastropoda;Burnupena lagenaria;BURLAG;23;1464,6;N;
+Old Woman's River;SOUTH;non corroded;WEST;2;Caenogastropoda;Nucella squamosa;NUCSQU;1;17,9;N;
+Old Woman's River;SOUTH;non corroded;WEST;2;Echinoidea;Parechinus angulosus;PARANG;17;983,3;N;
+Old Woman's River;SOUTH;non corroded;WEST;2;Errantia;Arabella iricolor;ARAIRI;3;26,2;N;
+Old Woman's River;SOUTH;non corroded;WEST;2;Errantia;Lepidonotus durbanensis;LEPDUR;6;91,8;N;
+Old Woman's River;SOUTH;non corroded;WEST;2;Errantia;Nereididae;NEREID;21;56,1;N;
+Old Woman's River;SOUTH;non corroded;WEST;2;Errantia;Pseudonereis podocirra;PSEPOD;2;16,6;N;
+Old Woman's River;SOUTH;non corroded;WEST;2;Errantia;Scoletoma tetraura;SCOTET;8;0,8;N;
+Old Woman's River;SOUTH;non corroded;WEST;2;Errantia;Syllidae;SYLLID;9;2,4;N;
+Old Woman's River;SOUTH;non corroded;WEST;2;Brachyura;Guinusia chabrus;GUICHA;2;167,2;N;
+Old Woman's River;SOUTH;non corroded;WEST;2;Holothuroidea;Holothuroidea;HOLOTH;1;NA;N;ID - to check
+Old Woman's River;SOUTH;non corroded;WEST;2;Isopoda;Ischyromene huttoni;ISCHUT;1;23,5;N;
+Old Woman's River;SOUTH;non corroded;WEST;2;Isopoda;Joeropsis stebbingi;JOESTE;2;0,76;N;ID - to check
+Old Woman's River;SOUTH;non corroded;WEST;2;Isopoda;Sphaeramene polytylotos;SPHPOL;2;34,2;N;
+Old Woman's River;SOUTH;non corroded;WEST;2;Ophiuroidea;Amphipholis squamata;AMPSQU;12;75,3;N;
+Old Woman's River;SOUTH;non corroded;WEST;2;Patellogastropoda;Helcion pruinosus;HELPRU;6;5;N;
+Old Woman's River;SOUTH;non corroded;WEST;2;Polyplacophora;Rhyssoplax polita;RHYPOL;1;95,9;N;
+Old Woman's River;SOUTH;non corroded;WEST;2;Sedentaria;Cirriformia sp.;CIRRIF;2;NA;N;ID - to check
+Old Woman's River;SOUTH;non corroded;WEST;2;Sipunculida;Sipunculida;SIPUNC;7;NA;N;ID - to check
+Old Woman's River;SOUTH;non corroded;WEST;2;Vetigastropoda;Fissurella natalensis;FISNAT;7;56,4;N;
+Old Woman's River;SOUTH;non corroded;WEST;2;Vetigastropoda;Gibbula cicer;GIBCIC;7;4,9;N;
+Old Woman's River;SOUTH;non corroded;WEST;2;Vetigastropoda;Oxystele antoni;OXYANT;1;1,4;N;
+Old Woman's River;SOUTH;non corroded;WEST;3;Amphipoda;Amphipoda;AMPHIP;3;1,05;N;ID - to check
+Old Woman's River;SOUTH;non corroded;WEST;3;Amphipoda;Talorchestia sp.;TALORC;3;2,1;N;
+Old Woman's River;SOUTH;non corroded;WEST;3;Asteroidea;Parvulastra exigua;PAREXI;2;125,8;N;
+Old Woman's River;SOUTH;non corroded;WEST;3;Caenogastropoda;Burnupena lagenaria;BURLAG;3;90,8;N;
+Old Woman's River;SOUTH;non corroded;WEST;3;Echinoidea;Parechinus angulosus;PARANG;1;3;N;
+Old Woman's River;SOUTH;non corroded;WEST;3;Errantia;Arabella iricolor;ARAIRI;1;1;N;
+Old Woman's River;SOUTH;non corroded;WEST;3;Errantia;Nereididae;NEREID;20;104,7;N;
+Old Woman's River;SOUTH;non corroded;WEST;3;Errantia;Pseudonereis podocirra;PSEPOD;3;12;N;
+Old Woman's River;SOUTH;non corroded;WEST;3;Errantia;Scoletoma tetraura;SCOTET;6;1;N;
+Old Woman's River;SOUTH;non corroded;WEST;3;Errantia;Syllidae;SYLLID;4;0,68;N;
+Old Woman's River;SOUTH;non corroded;WEST;3;Isopoda;Ischyromene huttoni;ISCHUT;43;920,2;N;
+Old Woman's River;SOUTH;non corroded;WEST;3;Isopoda;Janira sp.;ISOPOD;1;NA;N;too small for biomass
+Old Woman's River;SOUTH;non corroded;WEST;3;Nemertea;Nemertea;NEMERT;1;NA;N;
+Old Woman's River;SOUTH;non corroded;WEST;3;Ophiuroidea;Amphipholis squamata;AMPSQU;5;29,8;N;
+Old Woman's River;SOUTH;non corroded;WEST;3;Patellogastropoda;Cymbula oculus;CYMOCU;3;15,1;N;
+Old Woman's River;SOUTH;non corroded;WEST;3;Patellogastropoda;Helcion pruinosus;HELPRU;1;1,5;N;
+Old Woman's River;SOUTH;non corroded;WEST;3;Patellogastropoda;Scutellastra granularis;SCUGRA;1;29,5;N;
+Old Woman's River;SOUTH;non corroded;WEST;3;Platyhelminthes;Planocera gilchristi;PLAGIL;1;6;N;
+Old Woman's River;SOUTH;non corroded;WEST;3;Sipunculida;Sipunculida;SIPUNC;7;NA;N;
+Old Woman's River;SOUTH;non corroded;WEST;3;Vetigastropoda;Oxystele antoni;OXYANT;4;11,2;N;
+Old Woman's River;SOUTH;non corroded;WEST;3;Vetigastropoda;Oxystele tabularis;OXYTAB;5;31,5;N;
+Old Woman's River;SOUTH;non corroded;WEST;4;Amphipoda;Talorchestia sp.;TALORC;12;3,9;N;
+Old Woman's River;SOUTH;non corroded;WEST;4;Asteroidea;Parvulastra exigua;PAREXI;4;94,4;N;
+Old Woman's River;SOUTH;non corroded;WEST;4;Bivalvia;Perna perna;PERPER;6;89,5;N;
+Old Woman's River;SOUTH;non corroded;WEST;4;Caenogastropoda;Burnupena lagenaria;BURLAG;6;323,4;N;
+Old Woman's River;SOUTH;non corroded;WEST;4;Echinoidea;Parechinus angulosus;PARANG;1;11,2;N;
+Old Woman's River;SOUTH;non corroded;WEST;4;Errantia;Nereididae;NEREID;1;2,34;N;
+Old Woman's River;SOUTH;non corroded;WEST;4;Errantia;Pseudonereis podocirra;PSEPOD;8;309,8;N;
+Old Woman's River;SOUTH;non corroded;WEST;4;Errantia;Scoletoma tetraura;SCOTET;1;NA;N;too small for biomass
+Old Woman's River;SOUTH;non corroded;WEST;4;Errantia;Syllidae;SYLLID;2;0,34;N;
+Old Woman's River;SOUTH;non corroded;WEST;4;Brachyura;Guinusia chabrus;GUICHA;1;63;N;
+Old Woman's River;SOUTH;non corroded;WEST;4;Isopoda;Cirolana cranchii;CIRCRA;1;9,4;N;
+Old Woman's River;SOUTH;non corroded;WEST;4;Isopoda;Iais pubescens;IAIPUB;1;0,04;N;
+Old Woman's River;SOUTH;non corroded;WEST;4;Isopoda;Ischyromene huttoni;ISCHUT;48;1414;N;
+Old Woman's River;SOUTH;non corroded;WEST;4;Isopoda;Joeropsis stebbingi;JOESTE;1;NA;N;too small for biomass
+Old Woman's River;SOUTH;non corroded;WEST;4;Isopoda;Parisocladus perforatus;PARPER;1;1,8;N;
+Old Woman's River;SOUTH;non corroded;WEST;4;Isopoda;Sphaeramene polytylotos;SPHPOL;9;161,3;N;
+Old Woman's River;SOUTH;non corroded;WEST;4;Ophiuroidea;Amphipholis squamata;AMPSQU;1;2,4;N;
+Old Woman's River;SOUTH;non corroded;WEST;4;Patellogastropoda;Helcion dunkeri;HELDUN;2;1,5;N;
+Old Woman's River;SOUTH;non corroded;WEST;4;Patellogastropoda;Helcion pruinosus;HELPRU;3;0,6;N;
+Old Woman's River;SOUTH;non corroded;WEST;4;Patellogastropoda;Scutellastra granularis;SCUGRA;6;251,6;N;
+Old Woman's River;SOUTH;non corroded;WEST;4;Polyplacophora;Acanthochitona garnoti;ACAGAR;2;123,2;N;
+Old Woman's River;SOUTH;non corroded;WEST;4;Sipunculida;Sipunculida;SIPUNC;1;NA;N;
+Old Woman's River;SOUTH;non corroded;WEST;4;Vetigastropoda;Gibbula cicer;GIBCIC;4;2,52;N;
+Old Woman's River;SOUTH;non corroded;WEST;4;Vetigastropoda;Oxystele antoni;OXYANT;8;58,3;N;
+Port Edward;EAST;non corroded;EAST;1;Actiniaria;Actiniaria;ACTINI;1;12,1;N;
+Port Edward;EAST;non corroded;EAST;1;Caenogastropoda;Anachis kraussii kraussii;ANAKRA;1;NA;Y;too small for biomass
+Port Edward;EAST;non corroded;EAST;1;Bivalvia;Brachidontes variabilis;BRAVAR;2;0,6;N;
+Port Edward;EAST;non corroded;EAST;1;Patellogastropoda;Cymbula oculus;CYMOCU;1;48,97;N;
+Port Edward;EAST;non corroded;EAST;1;Patellogastropoda;Cymbula sanguinans;CYMSAN;2;34,6;N;ID - not confident
+Port Edward;EAST;non corroded;EAST;1;Patellogastropoda;Eoacmaea albonotata;EOAALB;2;3,2;Y;
+Port Edward;EAST;non corroded;EAST;1;Vetigastropoda;Fissurella natalensis;FISNAT;3;176,9;N;
+Port Edward;EAST;non corroded;EAST;1;Vetigastropoda;Gibbula multicolor;GIBMUL;3;1,5;N;
+Port Edward;EAST;non corroded;EAST;1;Patellogastropoda;Helcion pruinosus;HELPRU;9;13;N;
+Port Edward;EAST;non corroded;EAST;1;Isopoda;Ischyromene huttoni;ISCHUT;6;10,7;N;
+Port Edward;EAST;non corroded;EAST;1;Brachyura;Leucisca squalina;LEUSQU;1;NA;Y;
+Port Edward;EAST;non corroded;EAST;1;Caenogastropoda;Nucella dubia;NUCDUB;1;4,1;Y;
+Port Edward;EAST;non corroded;EAST;1;Polyplacophora;Onitochiton literatus;ONILIT;7;1996,6;N;biomass on 6 chitons
+Port Edward;EAST;non corroded;EAST;1;Vetigastropoda;Oxystele tabularis;OXYTAB;35;231,1;Y;
+Port Edward;EAST;non corroded;EAST;1;Amphipoda;Paramoera capensis;PARCAP;7;12,2;N;
+Port Edward;EAST;non corroded;EAST;1;Asteroidea;Parvulastra exigua;PAREXI;1;4,7;N;
+Port Edward;EAST;non corroded;EAST;1;Bivalvia;Perna perna;PERPER;1;18;N;
+Port Edward;EAST;non corroded;EAST;1;Holothuroidea;Pseudocnella sykion;PSESYK;1;41,15;N;
+Port Edward;EAST;non corroded;EAST;1;Errantia;Pseudonereis podocirra;PSEPOD;1;61,3;N;
+Port Edward;EAST;non corroded;EAST;1;Patellogastropoda;Scutellastra granularis;SCUGRA;27;79,4;N;
+Port Edward;EAST;non corroded;EAST;1;Patellogastropoda;Scutellastra obtecta;SCUOBT;1;2,4;Y;
+Port Edward;EAST;non corroded;EAST;1;Cirripedia;Tetraclita serrata;TETSER;1;6,13;Y;
+Port Edward;EAST;non corroded;EAST;2;Patellogastropoda;Cellana capensis;CELCAP;3;29,8;N;
+Port Edward;EAST;non corroded;EAST;2;Cirripedia;Cirripedia (juvenile);CIRJUV;1;NA;N;too small for biomass
+Port Edward;EAST;non corroded;EAST;2;Patellogastropoda;Cymbula sanguinans;CYMSAN;5;125,6;N;ID - not confident
+Port Edward;EAST;non corroded;EAST;2;Gastropoda;Gastropoda;GASTRO;3;2,9;N;1 snail + 2 limpet meat
+Port Edward;EAST;non corroded;EAST;2;Patellogastropoda;Helcion concolor;HELCON;3;3,9;N;ID - not confident
+Port Edward;EAST;non corroded;EAST;2;Isopoda;Ischyromene huttoni;ISCHUT;6;10,9;N;
+Port Edward;EAST;non corroded;EAST;2;Cirripedia;Octomeris angulosa;OCTANG;3;3,1;N;
+Port Edward;EAST;non corroded;EAST;2;Polyplacophora;Onitochiton literatus;ONILIT;1;553,7;N;
+Port Edward;EAST;non corroded;EAST;2;Vetigastropoda;Oxystele tabularis;OXYTAB;8;32,9;N;
+Port Edward;EAST;non corroded;EAST;2;Bivalvia;Perna perna;PERPER;3;0,5;N;
+Port Edward;EAST;non corroded;EAST;2;Patellogastropoda;Scutellastra granularis;SCUGRA;5;8,4;N;
+Port Edward;EAST;non corroded;EAST;2;Amphipoda;Talorchestia sp.;TALORC;1;1;N;ID - not confident
+Port Edward;EAST;non corroded;EAST;3;Actiniaria;Actiniaria;ACTINI;1;NA;N;
+Port Edward;EAST;non corroded;EAST;3;Caenogastropoda;Anachis kraussii kraussii;ANAKRA;1;NA;N;too small for biomass
+Port Edward;EAST;non corroded;EAST;3;Cirripedia;Chthamalus dentatus;CHTDEN;1;0,5;N;
+Port Edward;EAST;non corroded;EAST;3;Cirripedia;Cirripedia (juvenile);CIRJUV;1;NA;N;too small for biomass
+Port Edward;EAST;non corroded;EAST;3;Patellogastropoda;Cymbula sanguinans;CYMSAN;2;27,5;N;ID - not confident
+Port Edward;EAST;non corroded;EAST;3;Vetigastropoda;Fissurella natalensis;FISNAT;3;14,4;N;
+Port Edward;EAST;non corroded;EAST;3;Gastropoda;Gastropoda;GASTRO;4;17,1;N;4 limpet meat
+Port Edward;EAST;non corroded;EAST;3;Vetigastropoda;Gibbula multicolor;GIBMUL;1;0,5;N;
+Port Edward;EAST;non corroded;EAST;3;Patellogastropoda;Helcion concolor;HELCON;1;1,9;N;ID - not confident
+Port Edward;EAST;non corroded;EAST;3;Patellogastropoda;Helcion pruinosus;HELPRU;9;20,3;N;
+Port Edward;EAST;non corroded;EAST;3;Isopoda;Ischyromene huttoni;ISCHUT;36;96,8;N;
+Port Edward;EAST;non corroded;EAST;3;Caenogastropoda;Nucella dubia;NUCDUB;1;3,6;N;
+Port Edward;EAST;non corroded;EAST;3;Vetigastropoda;Oxystele tabularis;OXYTAB;27;112,8;N;
+Port Edward;EAST;non corroded;EAST;3;Bivalvia;Perna perna;PERPER;18;85,6;N;
+Port Edward;EAST;non corroded;EAST;3;Brachyura;Plagusia squamosa;PLASQU;1;NA;Y;
+Port Edward;EAST;non corroded;EAST;3;Errantia;Pseudonereis podocirra;PSEPOD;3;20,4;N;
+Port Edward;EAST;non corroded;EAST;3;Patellogastropoda;Scutellastra granularis;SCUGRA;11;17,6;N;
+Port Edward;EAST;non corroded;EAST;3;Errantia;Syllidae;SYLLID;1;0,2;N;
+Port Edward;EAST;non corroded;EAST;3;Amphipoda;Talorchestia sp.;TALORC;30;44,4;N;ID - not confident
+Port Edward;EAST;non corroded;EAST;4;Errantia;Errantia;ERRANT;1;NA;N;ID - squishy worm, too small for biomass
+Port Edward;EAST;non corroded;EAST;4;Vetigastropoda;Fissurella natalensis;FISNAT;2;36,6;Y;
+Port Edward;EAST;non corroded;EAST;4;Vetigastropoda;Gibbula multicolor;GIBMUL;1;NA;Y;too small for biomass
+Port Edward;EAST;non corroded;EAST;4;Patellogastropoda;Helcion concolor;HELCON;2;3,4;Y;ID - not confident
+Port Edward;EAST;non corroded;EAST;4;Isopoda;Ischyromene huttoni;ISCHUT;1;0,8;N;
+Port Edward;EAST;non corroded;EAST;4;Vetigastropoda;Oxystele tabularis;OXYTAB;4;16,9;Y;
+Port Edward;EAST;non corroded;EAST;4;Bivalvia;Perna perna;PERPER;7;15,7;N;
+Port Edward;EAST;non corroded;EAST;4;Errantia;Pseudonereis podocirra;PSEPOD;2;0,5;N;
+Port Edward;EAST;non corroded;EAST;4;Patellogastropoda;Scutellastra obtecta;SCUOBT;3;1,1;Y;
+Port Edward;EAST;non corroded;EAST;4;Sedentaria;Spirobranchus kraussi;SPIKRA;1;NA;N;too small for biomass
+Port Edward;EAST;non corroded;EAST;4;Errantia;Syllidae;SYLLID;1;NA;N;too small for biomass
+Port Edward;EAST;non corroded;EAST;4;Amphipoda;Talorchestia sp.;TALORC;3;2,2;N;ID - not confident
+Port Edward;EAST;non corroded;EAST;4;Sedentaria;Sedentaria;SEDENT;1;NA;N;too small for biomass
