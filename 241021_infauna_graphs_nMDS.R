@@ -249,7 +249,7 @@ plot(abund_fit_adj, p.max = 0.05, col = 'navy', cex = 1.2)
 
 legend(-1.3, 0.95, "Stress = 0.122", bty = "n", cex = 1.5)
 
-mtext("A", side = 3, line = 0.5, cex = 2, adj = -0.15, col = "grey30")
+mtext("A", side = 3, line = 0.5, cex = 2, adj = -0.1, col = "grey30")
 
 
 
@@ -282,7 +282,7 @@ points(biom_bray, display = "sites", cex = 3, pch = c(16, 17, 18, 15)[arch1$site
 plot(biom_fit_adj, p.max = 0.05, col = 'navy', cex = 1.2) 
 legend(-1.95, 1.4, "Stress = 0.157", bty = "n", cex = 1.5)
 
-mtext("B", side = 3, line = 0.5, cex = 2, adj = -0.15, col = "grey30")
+mtext("B", side = 3, line = 0.5, cex = 2, adj = -0.1, col = "grey30")
 
 
 
@@ -336,7 +336,7 @@ ordihull(abund_bray_owr, groups = arch_owr$corrosion, lty = "dotted", lwd = 3,
 plot(abund_fit_adj_owr, p = 0.05, col = 'navy', cex = 1.2)
 legend(-1.76,1.2, "Stress = 0.116", bty = "n", cex = 1.5)
 
-mtext("C", side = 3, line = 0.5, cex = 2, adj = -0.15, col = "grey30")
+mtext("C", side = 3, line = 0.5, cex = 2, adj = -0.1, col = "grey30")
 
 
 
@@ -370,7 +370,7 @@ points(biom_bray_owr, display = "sites", cex = 3, pch = c('+', 'o')[arch_owr$lin
 plot(biom_fit_adj_owr, p = 0.05, col = 'navy', cex = 1.2)
 legend(-1.8, 1.2, "Stress = 0.116", bty = "n", cex = 1.5)
 
-mtext("D", side = 3, line = 0.5, cex = 2, adj = -0.15, col = "grey30")
+mtext("D", side = 3, line = 0.5, cex = 2, adj = -0.1, col = "grey30")
 
 
 
